@@ -1,42 +1,4 @@
-央视卫视①,#genre#
-CCTV-1
-CCTV-2
-CCTV-3
-CCTV-4
-CCTV-5
-CCTV-5+
-CCTV-6
-CCTV-7
-CCTV-8
-CCTV-9
-CCTV-10
-CCTV-11
-CCTV-12
-CCTV-13
-CCTV-14
-CCTV-15
-CCTV-16
-CCTV-17
-CETV1
-CETV2
-CETV4
-CETV5
-CCTV4K
-CCTV8K
-文化精品
-央视台球
-风云音乐
-第一剧场
-风云剧场
-怀旧剧场
-女性时尚
-高尔夫网球
-风云足球
-电视指南
-世界地理
-兵器科技
-
-央视卫视②,#genre#
+央视卫视,#genre#
 CCTV-1 综合
 CCTV-2 财经
 CCTV-3 综艺
@@ -55,6 +17,24 @@ CCTV-15 音乐
 CCTV-16 奧林匹克
 CCTV-17 农村农业
 CCTV-4K 超高清
+CCTV-5+
+CCTV8K
+CETV1
+CETV2
+CETV4
+CETV5
+文化精品
+央视台球
+风云音乐
+第一剧场
+风云剧场
+怀旧剧场
+女性时尚
+高尔夫网球
+风云足球
+电视指南
+世界地理
+兵器科技
 
 卫视频道,#genre#
 山东卫视
@@ -691,7 +671,6 @@ IPTV经典电影
 仙剑奇侠传,http://jiaojirentv.top/2020/yy.php?id=1382749903$!
 爱情公寓,https://live.metshop.top/douyu/2838296$!
 
-
 斗鱼电影,#genre#
  痞子帅叔叔,http://2403.ye23.vip/dl/huya2024.php?id=11342433$!
  小木子先生丶,http://2403.ye23.vip/dl/huya2024.php?id=11342396$!
@@ -1005,7 +984,6 @@ SP| CANAL+ 4K+/UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:
 4K| SKY PRIMAFILA 7 UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491187&extension=ts&play_token=MTYf6pi5K8$!
 4K| SKY PRIMAFILA 8 UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491188&extension=ts&play_token=RF6bF0Tb4g$!
 4K| SKY PRIMAFILA 9 UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491189&extension=ts&play_token=HYyQsclz23$!
-
 
 体育频道,#genre#
 CCTV-5
