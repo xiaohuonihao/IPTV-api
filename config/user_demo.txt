@@ -495,6 +495,7 @@ KTSF26,http://38.64.72.148/hls/modn/list/4026/chunklist0.m3u8$!
 
 经典电影,#genre#
 周星驰,http://rihou.cc:555/huyad.php?id=11342412$!
+周星驰,https://live.metshop.top/huya/11342412$!
 林正英,http://rihou.cc:555/huyad.php?id=11342421$!
 李连杰,http://rihou.cc:555/huyad.php?id=11342390$!
 甄子丹,http://rihou.cc:555/huyad.php?id=11352935$!
@@ -2183,7 +2184,7 @@ IPTV健康之路HD,
 福建武夷山玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
 
 电影频道,#genre#
-周星驰电影
+周星驰电影,https://live.metshop.top/huya/11342412$!
 李连杰电影
 刘德华电影
 林正英电影
