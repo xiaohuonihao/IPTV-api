@@ -496,6 +496,7 @@ KTSF26,http://38.64.72.148/hls/modn/list/4026/chunklist0.m3u8$!
 经典电影,#genre#
 周星驰,http://rihou.cc:555/huyad.php?id=11342412$!
 周星驰,https://live.metshop.top/huya/11342412$!
+星爷,http://1.94.31.214:35455/huya/11342412$!
 林正英,http://rihou.cc:555/huyad.php?id=11342421$!
 李连杰,http://rihou.cc:555/huyad.php?id=11342390$!
 甄子丹,http://rihou.cc:555/huyad.php?id=11352935$!
