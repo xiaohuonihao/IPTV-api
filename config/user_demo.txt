@@ -504,12 +504,15 @@ KTSF26,http://38.64.72.148/hls/modn/list/4026/chunklist0.m3u8$!
 
 经典电影,#genre#
 周星驰,http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8$!
+周星驰,http://zby.xjqxz.top/live12/live.m3u8$!
 林正英,http://rihou.cc:555/huyad.php?id=11342421$!
 李连杰,http://rihou.cc:555/huyad.php?id=11342390$!
+李连杰,http://zby.xjqxz.top/lljdy/live.m3u8$!
 甄子丹,http://rihou.cc:555/huyad.php?id=11352935$!
 刘德华,http://rihou.cc:555/huyad.php?id=11342424 $!
 邱淑贞,http://rihou.cc:555/huyad.php?id=11352949$!
 成龙,http://rihou.cc:555/huyad.php?id=11342386$!
+$!
 王晶,http://rihou.cc:555/huyad.php?id=11602058$!
 沈腾,http://rihou.cc:555/huyad.php?id=11601968$!
 黄渤,http://rihou.cc:555/huyad.php?id=11352876$!
@@ -2572,6 +2575,7 @@ SiTV游戏风云,http://nhljz.net:35455/itv/2000000002000000011.m3u8?cdn=Fifastb
 江苏南京牛首山,https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
 福建漳州六鳌翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
 福建漳州醉美沙滩翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+天津天津海河,https://gcalic.v.myalicdn.com/gc/tjhh02_1/index.m3u8?contentid=2820180516001
 天津之眼,https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
 天津之眼,https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
 四川西昌邛海景区,https://gcalic.v.myalicdn.com/gc/xcqh01_1/index.m3u8
