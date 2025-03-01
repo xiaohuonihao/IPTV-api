@@ -503,6 +503,7 @@ KTSF26,http://38.64.72.148/hls/modn/list/4026/chunklist0.m3u8$!
 食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts$!
 
 经典电影,#genre#
+周星驰,http://124.248.69.76:26781/huya/11342412$!
 周星驰,https://live.metshop.top/huya/11342412$!
 周星驰,http://1.94.31.214:35455/huya/11342412$!
 林正英,http://rihou.cc:555/huyad.php?id=11342421$!
@@ -2712,6 +2713,7 @@ SiTV游戏风云,http://nhljz.net:35455/itv/2000000002000000011.m3u8?cdn=Fifastb
 福建武夷山玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
 
 电影频道,#genre#
+周星驰电影,http://124.248.69.76:26781/huya/11342412$!
 周星驰电影,https://live.metshop.top/huya/11342412$!
 周星驰电影,http://1.94.31.214:35455/huya/11342412
 李连杰电影
