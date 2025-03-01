@@ -504,7 +504,7 @@ KTSF26,http://38.64.72.148/hls/modn/list/4026/chunklist0.m3u8$!
 
 经典电影,#genre#
 周星驰,http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8$!
-周星驰,http://zby.xjqxz.top/live12/live.m3u8$!
+周星驰,http://1.94.31.214:35455/huya/11342412$!
 林正英,http://rihou.cc:555/huyad.php?id=11342421$!
 李连杰,http://rihou.cc:555/huyad.php?id=11342390$!
 李连杰,http://zby.xjqxz.top/lljdy/live.m3u8$!
@@ -2714,6 +2714,7 @@ SiTV游戏风云,http://nhljz.net:35455/itv/2000000002000000011.m3u8?cdn=Fifastb
 
 电影频道,#genre#
 周星驰电影,http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8$!
+周星驰电影,http://1.94.31.214:35455/huya/11342412
 李连杰电影
 刘德华电影
 林正英电影
