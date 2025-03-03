@@ -508,12 +508,10 @@ KTSF26,http://38.64.72.148/hls/modn/list/4026/chunklist0.m3u8$!
 周星驰,https://live.metshop.top/huya/11342412$!
 林正英,http://rihou.cc:555/huyad.php?id=11342421$!
 李连杰,http://rihou.cc:555/huyad.php?id=11342390$!
-李连杰,http://zby.xjqxz.top/lljdy/live.m3u8$!
 甄子丹,http://rihou.cc:555/huyad.php?id=11352935$!
 刘德华,http://rihou.cc:555/huyad.php?id=11342424 $!
 邱淑贞,http://rihou.cc:555/huyad.php?id=11352949$!
 成龙,http://rihou.cc:555/huyad.php?id=11342386$!
-$!
 王晶,http://rihou.cc:555/huyad.php?id=11602058$!
 沈腾,http://rihou.cc:555/huyad.php?id=11601968$!
 黄渤,http://rihou.cc:555/huyad.php?id=11352876$!
