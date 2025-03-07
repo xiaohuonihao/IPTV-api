@@ -311,11 +311,11 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv$!
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2$!
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv$!
 ViuTV6
-RTHK-31,http://vallest.uk/livehttpplay?channel_id=30066$!
-RTHK-32,http://vallest.uk/livehttpplay?channel_id=30067$!
-RTHK-33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8$!
-RTHK-34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8$!
-RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8$!
+香港31台,http://vallest.uk/livehttpplay?channel_id=30066$!
+香港32台,http://vallest.uk/livehttpplay?channel_id=30067$!
+香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8$!
+香港34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8$!
+香港35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8$!
 Astro AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd$!
 HOY TV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv$!
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv$!
