@@ -69,59 +69,84 @@ CETV5
 大湾区卫视
 
 超清频道,#genre#
-CCTV  1,http://111.29.9.33:6610/000000001000/1000000001000021973/index.m3u8?channel-id=bestzb&Contentid=1000000001000021973&livemode=1&stbId=3$!
-CCTV  2,http://111.29.9.33:6610/000000001000/1000000001000012442/index.m3u8?channel-id=bestzb&Contentid=1000000001000012442&livemode=1&stbId=3$!
-CCTV  3,http://111.29.9.33:6610/000000001000/1000000001000011218/index.m3u8?channel-id=bestzb&Contentid=1000000001000011218&livemode=1&stbId=3$!
-CCTV  4,http://111.29.9.33:6610/000000001000/1000000002000031664/index.m3u8?channel-id=bestzb&Contentid=1000000002000031664&livemode=1&stbId=3$!
-CCTV  5,http://111.29.9.33:6610/000000001000/1000000001000004794/index.m3u8?channel-id=bestzb&Contentid=1000000001000004794&livemode=1&stbId=3$!
-CCTV  5+,http://111.29.9.33:6610/000000001000/1000000001000020505/index.m3u8?channel-id=bestzb&Contentid=1000000001000020505&livemode=1&stbId=3$!
-CCTV  6,http://111.29.9.33:6610/000000001000/1000000001000016466/index.m3u8?channel-id=bestzb&Contentid=1000000001000016466&livemode=1&stbId=3$!
-CCTV  7,http://111.29.9.33:6610/000000001000/1000000001000017218/index.m3u8?channel-id=bestzb&Contentid=1000000001000017218&livemode=1&stbId=3$!
-CCTV  8,http://111.29.9.33:6610/000000001000/1000000001000003736/index.m3u8?channel-id=bestzb&Contentid=1000000001000003736&livemode=1&stbId=3$!
-CCTV  9,http://111.29.9.33:6610/000000001000/1000000001000014583/index.m3u8?channel-id=bestzb&Contentid=1000000001000014583&livemode=1&stbId=3$!
-CCTV  10,http://111.29.9.33:6610/000000001000/1000000001000023734/index.m3u8?channel-id=bestzb&Contentid=1000000001000023734&livemode=1&stbId=3$!
-CCTV  11,http://111.29.9.33:6610/000000001000/1000000002000019789/index.m3u8?channel-id=bestzb&Contentid=1000000002000019789&livemode=1&stbId=3$!
-CCTV  12,http://111.29.9.33:6610/000000001000/1000000001000001640/index.m3u8?channel-id=bestzb&Contentid=1000000001000001640&livemode=1&stbId=3$!
-CCTV  13,http://111.29.9.33:6610/000000001000/1000000002000021303/index.m3u8?channel-id=bestzb&Contentid=1000000002000021303&livemode=1&stbId=3$!
-CCTV  14,http://111.29.9.33:6610/000000001000/1000000001000008170/index.m3u8?channel-id=bestzb&Contentid=1000000001000008170&livemode=1&stbId=3$!
-CCTV  15,http://111.29.9.33:6610/000000001000/1000000002000008163/index.m3u8?channel-id=bestzb&Contentid=1000000002000008163&livemode=1&stbId=3$!
-CCTV  16,http://111.29.9.34:6610/000000001000/1000000006000233002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000233002$!
-CCTV  17,http://111.29.9.33:6610/000000001000/1000000005000056836/index.m3u8?channel-id=bestzb&Contentid=1000000005000056836&livemode=1&stbId=3$!
-北京卫视,http://111.29.9.33:6610/000000001000/1000000001000017156/index.m3u8?channel-id=bestzb&Contentid=1000000001000017156&livemode=1&stbId=3$!
-湖南卫视,http://111.29.9.33:6610/000000001000/1000000001000009115/index.m3u8?channel-id=bestzb&Contentid=1000000001000009115&livemode=1&stbId=3$!
-浙江卫视,http://111.29.9.33:6610/000000001000/1000000001000009806/index.m3u8?channel-id=bestzb&Contentid=1000000001000009806&livemode=1&stbId=3$!
-江苏卫视,http://111.29.9.33:6610/000000001000/1000000001000001828/index.m3u8?channel-id=bestzb&Contentid=1000000001000001828&livemode=1&stbId=3$!
-东方卫视,http://111.29.9.33:6610/000000001000/1000000001000005866/index.m3u8?channel-id=bestzb&Contentid=1000000001000005866&livemode=1&stbId=3$!
-安徽卫视,http://111.29.9.33:6610/000000001000/1000000001000020780/index.m3u8?channel-id=bestzb&Contentid=1000000001000020780&livemode=1&stbId=3$!
-广东卫视,http://111.29.9.33:6610/000000001000/1000000001000014176/index.m3u8?channel-id=bestzb&Contentid=1000000001000014176&livemode=1&stbId=3$!
-深圳卫视,http://111.29.9.33:6610/000000001000/1000000001000009227/index.m3u8?channel-id=bestzb&Contentid=1000000001000009227&livemode=1&stbId=3$!
-辽宁卫视,http://111.29.9.33:6610/000000001000/1000000001000001945/index.m3u8?channel-id=bestzb&Contentid=1000000001000001945&livemode=1&stbId=3$!
-海南卫视,http://111.29.9.33:6610/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3$!
-山东卫视,http://111.29.9.33:6610/000000001000/1000000001000012807/index.m3u8?channel-id=bestzb&Contentid=1000000001000012807&livemode=1&stbId=3$!
-天津卫视,http://111.29.9.33:6610/000000001000/1000000001000000831/index.m3u8?channel-id=bestzb&Contentid=1000000001000000831&livemode=1&stbId=3$!
-重庆卫视,http://111.29.9.33:6610/000000001000/1000000001000001096/index.m3u8?channel-id=bestzb&Contentid=1000000001000001096&livemode=1&stbId=3$!
-东南卫视,http://111.29.9.33:6610/000000001000/1000000002000009263/index.m3u8?channel-id=bestzb&Contentid=1000000002000009263&livemode=1&stbId=3$!
-甘肃卫视,http://111.29.9.33:6610/000000001000/1000000002000017827/index.m3u8?channel-id=bestzb&Contentid=1000000002000017827&livemode=1&stbId=3$!
-广西卫视,http://111.29.9.33:6610/000000001000/1000000002000019837/index.m3u8?channel-id=bestzb&Contentid=1000000002000019837&livemode=1&stbId=3$!
-贵州卫视,http://111.29.9.33:6610/000000001000/1000000002000003169/index.m3u8?channel-id=bestzb&Contentid=1000000002000003169&livemode=1&stbId=3$!
-河北卫视,http://111.29.9.33:6610/000000001000/1000000002000017118/index.m3u8?channel-id=bestzb&Contentid=1000000002000017118&livemode=1&stbId=3$!
-黑龙江卫视,http://111.29.9.33:6610/000000001000/1000000001000001925/index.m3u8?channel-id=bestzb&Contentid=1000000001000001925&livemode=1&stbId=3$!
-河南卫视,http://111.29.9.33:6610/000000001000/5000000011000031119/index.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3$!
-湖北卫视,http://111.29.9.33:6610/000000001000/1000000001000010355/index.m3u8?channel-id=bestzb&Contentid=1000000001000010355&livemode=1&stbId=3$!
-江西卫视,http://111.29.9.33:6610/000000001000/1000000001000013731/index.m3u8?channel-id=bestzb&Contentid=1000000001000013731&livemode=1&stbId=3$!
-吉林卫视,http://111.29.9.33:6610/000000001000/5000000011000031117/index.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3$!
-宁夏卫视,http://111.29.9.33:6610/000000001000/1000000002000031451/index.m3u8?channel-id=bestzb&Contentid=1000000002000031451&livemode=1&stbId=3$!
-四川卫视,http://111.29.9.33:6610/000000001000/1000000002000016825/index.m3u8?channel-id=bestzb&Contentid=1000000002000016825&livemode=1&stbId=3$!
-新疆卫视,http://111.29.9.33:6610/000000001000/1000000002000029441/index.m3u8?channel-id=bestzb&Contentid=1000000002000029441&livemode=1&stbId=3$!
-云南卫视,http://111.29.9.33:6610/000000001000/1000000002000024694/index.m3u8?channel-id=bestzb&Contentid=1000000002000024694&livemode=1&stbId=3$!
-青海卫视,http://111.29.9.33:6610/000000001000/1000000002000013359/index.m3u8?channel-id=bestzb&Contentid=1000000002000013359&livemode=1&stbId=3$!
-海南卫视,http://111.29.9.33:6610/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3$!
-厦门卫视
-海峡卫视
-延边卫视
-康巴卫视
+CCTV-01超清,http://132.226.20.226:30001/TVOD/1000000005000265001/ystenlive/index.m3u8$!
+CCTV-02超清,http://132.226.20.226:30001/TVOD/1000000001000023315/ystenlive/index.m3u8$!
+CCTV-03超清,http://132.226.20.226:30001/TVOD/1000000005000265003/ystenlive/index.m3u8$!
+CCTV-04超清,http://132.226.20.226:30001/TVOD/1000000005000265004/ystenlive/index.m3u8$!
+CCTV-05超清,http://132.226.20.226:30001/TVOD/1000000005000265005/ystenlive/index.m3u8$!
+CCTV-5+超清,http://132.226.20.226:30001/TVOD/1000000005000265016/ystenlive/index.m3u8$!
+CCTV-06超清,http://132.226.20.226:30001/TVOD/1000000005000265006/ystenlive/index.m3u8$!
+CCTV-07超清,http://132.226.20.226:30001/TVOD/1000000005000265007/ystenlive/index.m3u8$!
+CCTV-08超清,http://132.226.20.226:30001/TVOD/1000000005000265008/ystenlive/index.m3u8$!
+CCTV-09超清,http://132.226.20.226:30001/TVOD/1000000005000265009/ystenlive/index.m3u8$!
+CCTV-10超清,http://132.226.20.226:30001/TVOD/1000000005000265010/ystenlive/index.m3u8$!
+CCTV-11超清,http://132.226.20.226:30001/TVOD/1000000005000265011/ystenlive/index.m3u8$!
+CCTV-12超清,http://132.226.20.226:30001/TVOD/1000000005000265012/ystenlive/index.m3u8$!
+CCTV-13超清,http://132.226.20.226:30001/TVOD/1000000002000021303/ystenlive/index.m3u8$!
+CCTV-14超清,http://132.226.20.226:30001/TVOD/1000000005000265013/ystenlive/index.m3u8$!
+CCTV-15超清,http://132.226.20.226:30001/TVOD/1000000005000265014/ystenlive/index.m3u8$!
+CCTV-16超清,http://132.226.20.226:30001/TVOD/1000000006000233002/ystenlive/index.m3u8$!
+CCTV-17超清,http://132.226.20.226:30001/TVOD/1000000005000265015/ystenlive/index.m3u8$!
+CCTV-01超清,http://www.xzbn.site:35455/gaoma/cctv1.m3u8$!
+CCTV-02超清,http://www.xzbn.site:35455/gaoma/cctv2.m3u8$!
+CCTV-03超清,http://www.xzbn.site:35455/gaoma/cctv3.m3u8$!
+CCTV-04超清,http://www.xzbn.site:35455/gaoma/cctv4.m3u8$!
+CCTV-05超清,http://www.xzbn.site:35455/gaoma/cctv5.m3u8$!
+CCTV-5+超清,http://www.xzbn.site:35455/gaoma/cctv5p.m3u8$!
+CCTV-06超清,http://www.xzbn.site:35455/gaoma/cctv6.m3u8$!
+CCTV-07超清,http://www.xzbn.site:35455/gaoma/cctv7.m3u8$!
+CCTV-08超清,http://www.xzbn.site:35455/gaoma/cctv8.m3u8$!
+CCTV-09超清,http://www.xzbn.site:35455/gaoma/cctv9.m3u8$!
+CCTV-10超清,http://www.xzbn.site:35455/gaoma/cctv10.m3u8$!
+CCTV-11超清,http://www.xzbn.site:35455/gaoma/cctv11.m3u8$!
+CCTV-12超清,http://www.xzbn.site:35455/gaoma/cctv12.m3u8$!
+CCTV-13超清,http://www.xzbn.site:35455/gaoma/cctv13.m3u8$!
+CCTV-14超清,http://www.xzbn.site:35455/gaoma/cctv14.m3u8$!
+CCTV-15超清,http://www.xzbn.site:35455/gaoma/cctv15.m3u8$!
+CCTV-16超清,http://www.xzbn.site:35455/gaoma/cctv16.m3u8$!
+CCTV-17超清,http://www.xzbn.site:35455/gaoma/cctv17.m3u8$!
+CCTV-4k超清,http://www.xzbn.site:35455/gaoma/cctv4k.m3u8$!
+CCTV-8k超清,http://www.xzbn.site:35455/gaoma/cctv8k_36m.m3u8$!
+中国天气超清,http://132.226.20.226:30001/TVOD/5000000005000031974/bestzb/index.m3u8$!
+
+山东卫视超清,http://132.226.20.226:30001/TVOD/1000000005000265019/ystenlive/index.m3u8$!
+北京卫视超清,http://132.226.20.226:30001/TVOD/1000000005000265027/ystenlive/index.m3u8$!
+湖南卫视超清,http://132.226.20.226:30001/TVOD/1000000005000265024/ystenlive/index.m3u8$!
+浙江卫视超清,http://132.226.20.226:30001/TVOD/1000000005000265031/ystenlive/index.m3u8$!
+江苏卫视超清,http://132.226.20.226:30001/TVOD/1000000005000265030/ystenlive/index.m3u8$!
+东方卫视超清,http://132.226.20.226:30001/TVOD/1000000005000265018/ystenlive/index.m3u8$!
+东南卫视超清,http://132.226.20.226:30001/TVOD/1000000005000265033/ystenlive/index.m3u8$!
+安徽卫视超清,http://132.226.20.226:30001/TVOD/1000000005000265025/ystenlive/index.m3u8$!
+广东卫视超清,http://132.226.20.226:30001/TVOD/1000000005000265034/ystenlive/index.m3u8$!
+深圳卫视超清,http://132.226.20.226:30001/TVOD/1000000005000265028/ystenlive/index.m3u8$!
+辽宁卫视超清,http://132.226.20.226:30001/TVOD/1000000005000265022/ystenlive/index.m3u8$!
+海南卫视超清
+天津卫视超清,http://132.226.20.226:30001/TVOD/1000000005000265026/ystenlive/index.m3u8$!
+重庆卫视超清,http://132.226.20.226:30001/TVOD/1000000005000265017/ystenlive/index.m3u8$!
+广西卫视超清
+贵州卫视超清
+河北卫视超清
+河南卫视超清
+湖北卫视超清,http://132.226.20.226:30001/TVOD/1000000005000265023/ystenlive/index.m3u8$!
+江西卫视超清,http://132.226.20.226:30001/TVOD/1000000005000265032/ystenlive/index.m3u8$!
+吉林卫视超清
+宁夏卫视超清
+四川卫视超清
+新疆卫视超清
+新疆卫视超清
+青海卫视超清,http://132.226.20.226:30001/TVOD/1000000002000013359/ystenlive/index.m3u8$!
+海南卫视超清
+黑龙江卫视超清,http://132.226.20.226:30001/TVOD/1000000005000265029/ystenlive/index.m3u8$!
+厦门卫视超清
+海峡卫视超清
+延边卫视超清
+康巴卫视超清
 兵团卫视,http://124.128.73.58:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0$!
-大湾区卫视
+大湾区卫视超清
+广东珠江超清,http://132.226.20.226:30001/TVOD/2000000003000000033/hnbblive/index.m3u8$!
+
+
+
 
 高清频道,#genre#
 CCTV央视台球
