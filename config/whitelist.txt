@@ -4,6 +4,25 @@
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
 中国天气,http://132.226.20.226:30001/TVOD/5000000005000031974/bestzb/index.m3u8$!
+CCTV-1,P2p://starvod.xyz:19806/ec15d5554a97497ebf4abba468e04f42$!
+CCTV-2,P2p://starvod.xyz:19806/12a9c24064394d89abbad938810f5b96$!
+CCTV-3,P2p://starvod.xyz:19806/7ab14c8e9d5e462c91ca8c7b63368000$!
+CCTV-4,P2p://starvod.xyz:19806/4f81126ba9ca423abb377205cba6fc8d$!
+CCTV-5,P2p://starvod.xyz:19806/cc276b88fd3f4125b85d7d745394604b$!
+CCTV-5+,P2p://starvod.xyz:19806/3efb3b6f29db47678f47202419b70ac0$!
+CCTV-6,P2p://starvod.xyz:19806/0e50adec92274cf5b3dff97f71e2f4fc$!
+CCTV-7,P2p://starvod.xyz:19806/9b5ee25564854f0aa59743e484d259a9$!
+CCTV-8,P2p://starvod.xyz:19806/863518e3b6c7431297c7f55a5f1df323$!
+CCTV-9,P2p://starvod.xyz:19806/6500b0319f2147b7ab23e87da3eed653$!
+CCTV-10,P2p://starvod.xyz:19806/b90d9f6dd3614d78b2afffc07efb7631$!
+CCTV-11,P2p://starvod.xyz:19806/a92f3a48a9034a208b096ff475111d3d$!
+CCTV-12,P2p://starvod.xyz:19806/52d59866b3714be6a71ba477eb0b9553$!
+CCTV-13,P2p://starvod.xyz:19806/fbf0705576624ddab00c9f240b00448b$!
+CCTV-14,P2p://starvod.xyz:19806/6423967cf059419a8dfea3121c8a637b$!
+CCTV-15,P2p://starvod.xyz:19806/ae7fc30c59b24b15ba86f4dc4d449b30$!
+CCTV-16,P2p://starvod.xyz:19806/c7c68cd14e794f24beb9d952c5567ead$!
+CCTV-17,P2p://starvod.xyz:19806/514002221e074ce08f58a299893f709e$!
+
 CCTV-1,http://221.205.89.24:9003//hls/1/index.m3u8$!
 CCTV-2,http://221.205.89.24:9003//hls/2/index.m3u8$!
 CCTV-3,http://221.205.89.24:9003//hls/3/index.m3u8$!
@@ -142,24 +161,7 @@ CCTV-17,http://tv.20191209.xyz:37377/migu/673168256.m3u8?migutoken=eb3fbda758006
 cct4欧洲,http://tv.20191209.xyz:37377/migu/608807419.m3u8?migutoken=f623911f12100eda47f646cc2a14f2c4563e5d65f3e99dd30284493de9b5ff8389ee51ba62d51bb0a92235ccb1109e54ab6b1b5fe401fe4f60d18b1ccc51f92aa29b70fba7a400ff9058fdf8$!
 cct4美洲,http://tv.20191209.xyz:37377/migu/608807416.m3u8?migutoken=3e58d508ab4bf069dc535fdfc6330dfccfc52c3bb391b5b5602cff12f0acbb883fa9280c7422a00e84eba6fd1e2ddb27dc888d6e63e914595ce9fb917d9462307140d2558dac1fb322c2a85b$!
 
-CCTV-1,P2p://starvod.xyz:19806/ec15d5554a97497ebf4abba468e04f42$!
-CCTV-2,P2p://starvod.xyz:19806/12a9c24064394d89abbad938810f5b96$!
-CCTV-3,P2p://starvod.xyz:19806/7ab14c8e9d5e462c91ca8c7b63368000$!
-CCTV-4,P2p://starvod.xyz:19806/4f81126ba9ca423abb377205cba6fc8d$!
-CCTV-5,P2p://starvod.xyz:19806/cc276b88fd3f4125b85d7d745394604b$!
-CCTV-5+,P2p://starvod.xyz:19806/3efb3b6f29db47678f47202419b70ac0$!
-CCTV-6,P2p://starvod.xyz:19806/0e50adec92274cf5b3dff97f71e2f4fc$!
-CCTV-7,P2p://starvod.xyz:19806/9b5ee25564854f0aa59743e484d259a9$!
-CCTV-8,P2p://starvod.xyz:19806/863518e3b6c7431297c7f55a5f1df323$!
-CCTV-9,P2p://starvod.xyz:19806/6500b0319f2147b7ab23e87da3eed653$!
-CCTV-10,P2p://starvod.xyz:19806/b90d9f6dd3614d78b2afffc07efb7631$!
-CCTV-11,P2p://starvod.xyz:19806/a92f3a48a9034a208b096ff475111d3d$!
-CCTV-12,P2p://starvod.xyz:19806/52d59866b3714be6a71ba477eb0b9553$!
-CCTV-13,P2p://starvod.xyz:19806/fbf0705576624ddab00c9f240b00448b$!
-CCTV-14,P2p://starvod.xyz:19806/6423967cf059419a8dfea3121c8a637b$!
-CCTV-15,P2p://starvod.xyz:19806/ae7fc30c59b24b15ba86f4dc4d449b30$!
-CCTV-16,P2p://starvod.xyz:19806/c7c68cd14e794f24beb9d952c5567ead$!
-CCTV-17,P2p://starvod.xyz:19806/514002221e074ce08f58a299893f709e$!
+
 
 CCTV-1,https://haoyunlai.serv00.net/Smartv-1.php?id=cctv1$!
 CCTV-2,https://haoyunlai.serv00.net/Smartv-1.php?id=cctv2$!
@@ -179,6 +181,37 @@ CCTV-13,https://haoyunlai.serv00.net/Smartv-1.php?id=cctv13$!
 CCTV-14,https://haoyunlai.serv00.net/Smartv-1.php?id=cctv14$!
 CCTV-15,https://haoyunlai.serv00.net/Smartv-1.php?id=cctv15$!
 CGTN_英,https://haoyunlai.serv00.net/Smartv-1.php?id=CGTN$!
+
+cct4V欧洲,http://tv.20191209.xyz:37377/migu/608807419.m3u8?migutoken=f623911f12100eda47f646cc2a14f2c4563e5d65f3e99dd30284493de9b5ff8389ee51ba62d51bb0a92235ccb1109e54ab6b1b5fe401fe4f60d18b1ccc51f92aa29b70fba7a400ff9058fdf8$!
+cctv4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o$!
+cctv4欧洲,http://goo.bkpcp.top/mg/cctv4o$!
+cctV4美洲,http://tv.20191209.xyz:37377/migu/608807416.m3u8?migutoken=3e58d508ab4bf069dc535fdfc6330dfccfc52c3bb391b5b5602cff12f0acbb883fa9280c7422a00e84eba6fd1e2ddb27dc888d6e63e914595ce9fb917d9462307140d2558dac1fb322c2a85b$!
+cctv4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m$!
+cctv4美洲,http://goo.bkpcp.top/mg/cctv4m$!
+CGTN英语,https://haoyunlai.serv00.net/Smartv-1.php?id=CGTN$!
+CGTN西班牙语,http://goo.bkpcp.top/mg/cgtne$!
+CGTN阿拉伯语,http://goo.bkpcp.top/mg/cgtna$!
+CGTN法语,http://goo.bkpcp.top/mg/cgtnf$!
+
+北京卫视,P2p://starvod.xyz:19806/a4be497cfe1a45fa8573af7ed1cdc8a1$!
+东方卫视,P2p://starvod.xyz:19806/297aff89c2a64f4aa742096f79a0e15f$!
+浙江卫视,P2p://starvod.xyz:19806/ac7841a9782040a58d2d1db9840e69b4$!
+江苏卫视,P2p://starvod.xyz:19806/672a23d10003c2dcccdfb146480b660a\t$!
+湖南卫视,P2p://starvod.xyz:19806/0b395d7572ef4d16be1fa17eaa640293$!
+广东卫视,P2p://starvod.xyz:19806/97478280aced421ab1023c1daf3c991f$!
+深圳卫视,P2p://starvod.xyz:19806/c84d33a020d94e2da82903ef7cf7f1e1$!
+天津卫视,P2p://starvod.xyz:19806/babfa4e46eb8449abb74df3864ee1193$!
+河北卫视,P2p://starvod.xyz:19806/f56b59502e1d472482091263c5f88d13$!
+辽宁卫视,P2p://starvod.xyz:19806/0baf8caa5c7a4d4fb83c08693707c43c$!
+江西卫视,P2p://starvod.xyz:19806/6bc9fc5912244ebc95d2bebc28bbeca1$!
+山东卫视,P2p://starvod.xyz:19806/c023363068a54a47955b5f8321b8a6c5$!
+厦门卫视,P2p://starvod.xyz:19806/4ee09ca33832446d900098ab62b07d68$!
+湖北卫视,P2p://starvod.xyz:19806/f9a6aa03247949cd935388c124f4b932$!
+广西卫视,P2p://starvod.xyz:19806/0cacd26ffc644ff28a7b3fcf31bf1aec$!
+重庆卫视,P2p://starvod.xyz:19806/39201d2cca2e411d8d4d7a44fbc46538$!
+云南卫视,P2p://starvod.xyz:19806/1f8b596e10b44e5eaab6523b6befd82f$!
+黑龙江卫视,P2p://starvod.xyz:19806/a35099f7b9f74c4da933c6c36916fdcd$!
+大湾区卫视,P2p://starvod.xyz:19806/9b8484a45ca94d37b95367c4e539daae$!
 
 
 北京卫视,rtsp://180.95.143.19/PLTV/88888910/224/3221225576/10000100000000060000000000107356_0.smil$!
@@ -304,33 +337,13 @@ CGTN_英,https://haoyunlai.serv00.net/Smartv-1.php?id=CGTN$!
 河南卫视,http://tv.20191209.xyz:37377/migu/790187291.m3u8?migutoken=086ba6ec3f6268d44a6979043b9df04cccad70c2a183e6b46cc15be2d0bd40d33e0be32880248cf8d79ddcf04a82560af19d8d9cc76b700a59be26618056a02a5f822c76fe3ed7f3e0b81c94$!
 大湾区卫视,http://tv.20191209.xyz:37377/migu/608917627.m3u8?migutoken=9834d810bca2c8694ae0e82057357a221a863429f08360a858b31c312185e541b0c4e94c3f4e5c15838761b6e369b796ec139c7f8c819c0861e03d26cd07a26a6738deb1cade7ee3fa7648dd$!
 
-北京卫视,P2p://starvod.xyz:19806/a4be497cfe1a45fa8573af7ed1cdc8a1$!
-东方卫视,P2p://starvod.xyz:19806/297aff89c2a64f4aa742096f79a0e15f$!
-浙江卫视,P2p://starvod.xyz:19806/ac7841a9782040a58d2d1db9840e69b4$!
-江苏卫视,P2p://starvod.xyz:19806/672a23d10003c2dcccdfb146480b660a\t$!
-湖南卫视,P2p://starvod.xyz:19806/0b395d7572ef4d16be1fa17eaa640293$!
-广东卫视,P2p://starvod.xyz:19806/97478280aced421ab1023c1daf3c991f$!
-深圳卫视,P2p://starvod.xyz:19806/c84d33a020d94e2da82903ef7cf7f1e1$!
-天津卫视,P2p://starvod.xyz:19806/babfa4e46eb8449abb74df3864ee1193$!
-河北卫视,P2p://starvod.xyz:19806/f56b59502e1d472482091263c5f88d13$!
-辽宁卫视,P2p://starvod.xyz:19806/0baf8caa5c7a4d4fb83c08693707c43c$!
-江西卫视,P2p://starvod.xyz:19806/6bc9fc5912244ebc95d2bebc28bbeca1$!
-山东卫视,P2p://starvod.xyz:19806/c023363068a54a47955b5f8321b8a6c5$!
-厦门卫视,P2p://starvod.xyz:19806/4ee09ca33832446d900098ab62b07d68$!
-湖北卫视,P2p://starvod.xyz:19806/f9a6aa03247949cd935388c124f4b932$!
-广西卫视,P2p://starvod.xyz:19806/0cacd26ffc644ff28a7b3fcf31bf1aec$!
-重庆卫视,P2p://starvod.xyz:19806/39201d2cca2e411d8d4d7a44fbc46538$!
-云南卫视,P2p://starvod.xyz:19806/1f8b596e10b44e5eaab6523b6befd82f$!
-黑龙江卫视,P2p://starvod.xyz:19806/a35099f7b9f74c4da933c6c36916fdcd$!
-大湾区卫视,P2p://starvod.xyz:19806/9b8484a45ca94d37b95367c4e539daae$!
+
 
 北京卫视,https://haoyunlai.serv00.net/Smartv-1.php?id=beijing$!
 深圳卫视,https://haoyunlai.serv00.net/Smartv-1.php?id=shenzhen$!
 广西卫视,https://haoyunlai.serv00.net/Smartv-1.php?id=guangxi$!
 湖北卫视,https://haoyunlai.serv00.net/Smartv-1.php?id=hubei$!
 东南卫视,https://haoyunlai.serv00.net/Smartv-1.php?id=fujian$!
-
-
 
 
 
