@@ -184,6 +184,17 @@ CCTV-14,https://haoyunlai.serv00.net/Smartv-1.php?id=cctv14$!
 CCTV-15,https://haoyunlai.serv00.net/Smartv-1.php?id=cctv15$!
 CGTN_英,https://haoyunlai.serv00.net/Smartv-1.php?id=CGTN$!
 
+cct4V欧洲,http://tv.20191209.xyz:37377/migu/608807419.m3u8?migutoken=f623911f12100eda47f646cc2a14f2c4563e5d65f3e99dd30284493de9b5ff8389ee51ba62d51bb0a92235ccb1109e54ab6b1b5fe401fe4f60d18b1ccc51f92aa29b70fba7a400ff9058fdf8$!
+cctv4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o$!
+cctv4欧洲,http://goo.bkpcp.top/mg/cctv4o$!
+cctV4美洲,http://tv.20191209.xyz:37377/migu/608807416.m3u8?migutoken=3e58d508ab4bf069dc535fdfc6330dfccfc52c3bb391b5b5602cff12f0acbb883fa9280c7422a00e84eba6fd1e2ddb27dc888d6e63e914595ce9fb917d9462307140d2558dac1fb322c2a85b$!
+cctv4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m$!
+cctv4美洲,http://goo.bkpcp.top/mg/cctv4m$!
+CGTN英语,https://haoyunlai.serv00.net/Smartv-1.php?id=CGTN$!
+CGTN西班牙语,http://goo.bkpcp.top/mg/cgtne$!
+CGTN阿拉伯语,http://goo.bkpcp.top/mg/cgtna$!
+CGTN法语,http://goo.bkpcp.top/mg/cgtnf$!
+
 北京卫视,P2p://starvod.xyz:19806/a4be497cfe1a45fa8573af7ed1cdc8a1$!
 东方卫视,P2p://starvod.xyz:19806/297aff89c2a64f4aa742096f79a0e15f$!
 浙江卫视,P2p://starvod.xyz:19806/ac7841a9782040a58d2d1db9840e69b4$!
