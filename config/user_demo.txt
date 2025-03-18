@@ -1,5 +1,5 @@
 央视卫视,#genre#
-中国天气,http://132.226.20.226:30001/TVOD/5000000005000031974/bestzb/index.m3u8$!
+
 CCTV-1
 CCTV-2
 CCTV-3
@@ -38,6 +38,7 @@ CGTN阿拉伯语,http://goo.bkpcp.top/mg/cgtna$!
 CGTN法语,http://goo.bkpcp.top/mg/cgtnf$!
 
 卫视频道,#genre#
+中国天气,http://132.226.20.226:30001/TVOD/5000000005000031974/bestzb/index.m3u8$!
 山东卫视
 浙江卫视
 湖南卫视
