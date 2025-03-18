@@ -7,6 +7,26 @@
 
 中国天气,http://132.226.20.226:30001/TVOD/5000000005000031974/bestzb/index.m3u8$!
 
+CCTV-1,http://1.58.244.209:9003//hls/101/index.m3u8$!
+CCTV-2,http://1.58.244.209:9003//hls/102/index.m3u8$!
+CCTV-3,http://1.58.244.209:9003//hls/103/index.m3u8$!
+CCTV-4,http://1.58.244.209:9003//hls/104/index.m3u8$!
+CCTV-05,http://1.58.244.209:9003//hls/105/index.m3u8$!
+CCTV-5+,http://1.58.244.209:9003//hls/118/index.m3u8$!
+CCTV-6,http://1.58.244.209:9003//hls/106/index.m3u8$!
+CCTV-7,http://1.58.244.209:9003//hls/107/index.m3u8$!
+CCTV-8,http://1.58.244.209:9003//hls/108/index.m3u8$!
+CCTV-9,http://1.58.244.209:9003//hls/109/index.m3u8$!
+CCTV-10,http://1.58.244.209:9003//hls/110/index.m3u8$!
+CCTV-11,http://1.58.244.209:9003//hls/111/index.m3u8$!
+CCTV-12,http://1.58.244.209:9003//hls/112/index.m3u8$!
+CCTV-13,http://1.58.244.209:9003//hls/113/index.m3u8$!
+CCTV-14,http://1.58.244.209:9003//hls/114/index.m3u8$!
+CCTV-15,http://1.58.244.209:9003//hls/115/index.m3u8$!
+CCTV-16,http://1.58.244.209:9003//hls/116/index.m3u8$!
+CCTV-17,http://1.58.244.209:9003//hls/117/index.m3u8$!
+
+
 CCTV-1,http://goo.bkpcp.top/mg/cctv1$!
 CCTV-2,http://goo.bkpcp.top/mg/cctv2$!
 CCTV-3,http://goo.bkpcp.top/mg/cctv3$!
@@ -51,24 +71,7 @@ CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17$!
 cct4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o$!
 cct4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m$!
 
-CCTV-1,http://1.58.244.209:9003//hls/101/index.m3u8
-CCTV-2,http://1.58.244.209:9003//hls/102/index.m3u8
-CCTV-3,http://1.58.244.209:9003//hls/103/index.m3u8
-CCTV-4,http://1.58.244.209:9003//hls/104/index.m3u8
-CCTV-05,http://1.58.244.209:9003//hls/105/index.m3u8
-CCTV-5+,http://1.58.244.209:9003//hls/118/index.m3u8
-CCTV-6,http://1.58.244.209:9003//hls/106/index.m3u8
-CCTV-7,http://1.58.244.209:9003//hls/107/index.m3u8
-CCTV-8,http://1.58.244.209:9003//hls/108/index.m3u8
-CCTV-9,http://1.58.244.209:9003//hls/109/index.m3u8
-CCTV-10,http://1.58.244.209:9003//hls/110/index.m3u8
-CCTV-11,http://1.58.244.209:9003//hls/111/index.m3u8
-CCTV-12,http://1.58.244.209:9003//hls/112/index.m3u8
-CCTV-13,http://1.58.244.209:9003//hls/113/index.m3u8
-CCTV-14,http://1.58.244.209:9003//hls/114/index.m3u8
-CCTV-15,http://1.58.244.209:9003//hls/115/index.m3u8
-CCTV-16,http://1.58.244.209:9003//hls/116/index.m3u8
-CCTV-17,http://1.58.244.209:9003//hls/117/index.m3u8
+
 
 
 
