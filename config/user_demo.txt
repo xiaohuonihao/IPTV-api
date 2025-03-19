@@ -3303,19 +3303,18 @@ SiTV游戏风云,http://nhljz.net:35455/itv/2000000002000000011.m3u8?cdn=Fifastb
 兵团十四师昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8$!
 
 春晚频道,#genre#
-2024年辽宁春晚（上）
-2024年辽宁春晚（下）
-2024年深圳春晚
-2024年安徽春晚
-2024年吉林春晚
-2024年山东春晚
-2024年河南春晚
-2024年山西春晚
-2024年北京春晚
-2024年湖北春晚
-2024年云南春晚
-2024年海南春晚
-2024年陕西春晚
+2024年辽宁春晚（上）,https://hcts-m3u8.hmrvideovip.com/play/0822296ce15b4aa49df1897c36d55607.m3u8
+2024年辽宁春晚（下）,https://hcts-m3u8.hmrvideovip.com/play/0822296ce15b4aa49df1897c36d55607.m3u8
+2024年北京春晚,https://hcts-m3u8.hmrvideovip.com/play/0822296ce15b4aa49df1897c36d55607.m3u8
+2024年湖南春晚,https://hcts-m3u8.hmrvideovip.com/play/0822296ce15b4aa49df1897c36d55607.m3u8
+2024年山东春晚,
+2024年吉林春晚,
+2024年河南春晚,https://hcts-m3u8.hmrvideovip.com/play/0822296ce15b4aa49df1897c36d55607.m3u8
+2024年山西春晚,
+2024年湖北春晚,https://hcts-m3u8.hmrvideovip.com/play/0822296ce15b4aa49df1897c36d55607.m3u8
+2024年云南春晚,https://hcts-m3u8.hmrvideovip.com/play/0822296ce15b4aa49df1897c36d55607.m3u8
+2024年海南春晚,https://hcts-m3u8.hmrvideovip.com/play/0822296ce15b4aa49df1897c36d55607.m3u8
+2024年东方春晚,https://play.modujx11.com/20250130/8pyWlFKH/index.m3u8
 2024安徽春晚
 
 
