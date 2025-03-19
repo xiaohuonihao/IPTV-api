@@ -1559,6 +1559,9 @@ CCTV17,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224
 超级综艺,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ejm-KqHfTZezbm9C-325YiA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNnfpAUC20DSCXUyGpDggnK%2CEND$!
 金牌综艺,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227004/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkcfszuSJNo6WZ8h7xrIswA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWi_zfgUXV5YnB6haFF-C2%2CEND$!
 
+演*唱*会,#genre#
+刘德华抖音演唱会,https://hcts-m3u8.hmrvideovip.com/play/9133eb90516e4bc8861e3e0a7be3242b.m3u8$!
+
 游戏赛事,#genre#
 「B站」CS_2,http://live.iill.top/bilibili.php?id=21622811$!
 「B站」英雄联盟,http://live.iill.top/bilibili.php?id=6$!
