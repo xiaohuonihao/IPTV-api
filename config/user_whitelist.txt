@@ -962,8 +962,8 @@ CGTN法语,http://goo.bkpcp.top/mg/cgtnf$!
 陕西秦腔频道,http://stream.snrtv.com/sxbc-5-arKPQ4.m3u8$!
 陕西体育休闲,http://stream.snrtv.com/sxbc-7-jmuzNS.m3u8$!
 陕西移动电视,http://stream.snrtv.com/sxbc-yd-klIQR4.m3u8$!
-陕西乐家购物,http://tvplay.lejogo.com/sxtv6/cnwest.m3u8$!
-陕西卫视,http://gxlive.snrtv.com/sxws-SD.m3u8$!
+
+
 陕西农林卫视,http://gxlive.snrtv.com/nlws-SD.m3u8$!
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8$!
 陕西新闻资讯,http://gxlive.snrtv.com/sx1-SD.m3u8$!
