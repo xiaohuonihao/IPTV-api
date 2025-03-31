@@ -1019,7 +1019,88 @@ CGTN阿拉伯语,http://goo.bkpcp.top/mg/cgtna$!
 CGTN法语,http://goo.bkpcp.top/mg/cgtnf$!
 
 
+4K频道,#genre#
+CCTV16 4K,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=$!
+华数4K,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/6000000003000004748/1.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=$!
+华数4K,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/2000000004000000014/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000014&livemode=1&stbId=$!
+纯享4K,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=$!
+欢笑剧场4K,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/5000000007000010001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=$!
+北京卫视4K,http://150.138.77.132:10037/北京卫视.php$!
+CCTV4K,http://58.144.234.4/live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8?E=&U=&A=&K=&P=&S=$!
+CCTV16 4K,http://58.144.234.4/live2.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8?E=&U=&A=&K=&P=&S=$!
+欢笑剧场4K,http://58.144.234.4/live2.rxip.sc96655.com/live/hxjc-4k_8000.m3u8?E=&U=&A=&K=&P=&S=$!
+峨眉电影4K,http://58.144.234.4/live2.rxip.sc96655.com/live/emdy4k_8000.m3u8?E=&U=&A=&K=&P=&S=$!
+CCTV4K,http://116.19.124.163:6666/gaoma/cctv4k_10m.m3u8$!
+CCTV4K,http://111.166.53.255:8008/gaoma/cctv4k_10m.m3u8$!
+CCTV4K,http://27.215.123.230:9997/gaoma/cctv4k_10m.m3u8$!
+CCTV4K,http://27.19.54.233:34567/gaoma/cctv4k_10m.m3u8$!
+CCTV4K,http://113.205.166.100:5003/gaoma/cctv4k_10m.m3u8$!
+CCTV4K,http://74.48.64.153:14000/gaoma/cctv4k_10m.m3u8$!
+CCTV4K,http://183.130.29.86:2014/gaoma/cctv4k_10m.m3u8$!
+CCTV4K,http://46.203.222.250:8880/gaoma/cctv4k_10m.m3u8$!
+CCTV4K,http://116.19.124.163:6666/gaoma/cctv4k.m3u8$!
+CCTV4K,http://111.166.53.255:8008/gaoma/cctv4k.m3u8$!
+CCTV4K,http://27.215.123.230:9997/gaoma/cctv4k.m3u8$!
+CCTV4K,http://113.205.166.100:5003/gaoma/cctv4k.m3u8$!
+CCTV4K,http://27.19.54.233:34567/gaoma/cctv4k.m3u8$!
+CCTV4K,http://74.48.64.153:14000/gaoma/cctv4k.m3u8$!
+CCTV4K,http://183.130.29.86:2014/gaoma/cctv4k.m3u8$!
+CCTV4K,http://46.203.222.250:8880/gaoma/cctv4k.m3u8$!
+CCTV16 4K,http://116.19.124.163:6666/gaoma/cctv4k16_10m.m3u8$!
+CCTV16 4K,http://111.166.53.255:8008/gaoma/cctv4k16_10m.m3u8$!
+CCTV16 4K,http://27.215.123.230:9997/gaoma/cctv4k16_10m.m3u8$!
+CCTV16 4K,http://113.205.166.100:5003/gaoma/cctv4k16_10m.m3u8$!
+CCTV16 4K,http://27.19.54.233:34567/gaoma/cctv4k16_10m.m3u8$!
+CCTV16 4K,http://74.48.64.153:14000/gaoma/cctv4k16_10m.m3u8$!
+CCTV16 4K,http://183.130.29.86:2014/gaoma/cctv4k16_10m.m3u8$!
+CCTV16 4K,http://46.203.222.250:8880/gaoma/cctv4k16_10m.m3u8$!
+CCTV16 4K,http://116.19.124.163:6666/gaoma/cctv4k16.m3u8$!
+CCTV16 4K,http://111.166.53.255:8008/gaoma/cctv4k16.m3u8$!
+CCTV16 4K,http://27.215.123.230:9997/gaoma/cctv4k16.m3u8$!
+CCTV16 4K,http://113.205.166.100:5003/gaoma/cctv4k16.m3u8$!
+CCTV16 4K,http://27.19.54.233:34567/gaoma/cctv4k16.m3u8$!
+CCTV16 4K,http://74.48.64.153:14000/gaoma/cctv4k16.m3u8$!
+CCTV16 4K,http://183.130.29.86:2014/gaoma/cctv4k16.m3u8$!
+CCTV16 4K,http://46.203.222.250:8880/gaoma/cctv4k16.m3u8$!
+北京卫视4K,http://116.227.118.203:4022/rtp/233.18.204.209:5140$!
+北京卫视4K,http://180.165.22.17:86/rtp/233.18.204.209:5140$!
+北京卫视4K,http://116.237.76.135:4022/rtp/233.18.204.209:5140$!
+北京卫视4K,http://116.234.84.114:4022/rtp/233.18.204.209:5140$!
+北京卫视4K,http://58.41.15.31:4022/rtp/233.18.204.209:5140$!
+北京卫视4K,http://116.231.163.8:4022/rtp/233.18.204.209:5140$!
+北京卫视4K,http://222.64.210.50:4022/rtp/233.18.204.209:5140$!
+北京卫视4K,http://114.95.154.234:4022/rtp/233.18.204.209:5140$!
+北京卫视4K,http://iantelope.dsmynas.com:4022/rtp/233.18.204.209:5140$!
+北京卫视4K,http://222.68.3.70:7088/rtp/233.18.204.209:5140$!
+北京卫视4K,http://58.39.176.58:4022/rtp/233.18.204.209:5140$!
+北京卫视4K,http://116.231.159.5:7088/rtp/233.18.204.209:5140$!
+北京卫视4K,http://180.173.166.29:4022/rtp/233.18.204.209:5140$!
+北京卫视4K,http://223.167.230.140:4022/rtp/233.18.204.209:5140$!
+北京卫视4K,http://180.165.217.5:4022/rtp/233.18.204.209:5140$!
+北京卫视4K,http://180.173.212.147:4022/rtp/233.18.204.209:5140$!
+北京卫视4K,http://121.62.52.30:4022/rtp/239.69.1.12:9712$!
+北京卫视4K,http://221.232.56.66:4022/rtp/239.69.1.12:9712$!
+北京卫视4K,http://27.16.134.223:7088/rtp/239.69.1.12:9712$!
+北京卫视4K,http://121.63.55.191:7088/rtp/239.69.1.12:9712$!
+北京卫视4K,http://223.76.232.69:9015/rtp/239.69.1.12:9712$!
+北京卫视4K,http://119.98.140.107:4022/rtp/239.69.1.12:9712$!
+北京卫视4K,http://119.102.216.28:7088/rtp/239.69.1.12:9712$!
+北京卫视4K,http://58.48.226.211:4022/rtp/239.69.1.12:9712$!
+北京卫视4K,http://171.83.32.7:4022/rtp/239.69.1.12:9712$!
+北京卫视4K,http://58.46.203.117:4022/rtp/239.76.253.214:9000$!
+北京卫视4K,http://223.156.150.215:4022/rtp/239.76.253.214:9000$!
 
+8K频道,#genre#
+CCTV8K,http://31.57.67.22:8000/ysptp/cctv8k_36m$!
+CCTV8K,http://123.120.110.215:5050/gaoma/cctv8k_36m.m3u8$!
+CCTV8K,http://111.166.53.255:8008/gaoma/cctv8k_36m.m3u8$!
+CCTV8K,http://116.19.124.163:6666/gaoma/cctv8k_36m.m3u8$!
+CCTV8K,http://27.215.123.230:9997/gaoma/cctv8k_36m.m3u8$!
+CCTV8K,http://113.205.166.100:5003/gaoma/cctv8k_36m.m3u8$!
+CCTV8K,http://14.155.252.160:1212/gaoma/cctv8k_36m.m3u8$!
+CCTV8K,http://27.19.54.233:34567/gaoma/cctv8k_36m.m3u8$!
+CCTV8K,http://74.48.64.153:14000/gaoma/cctv8k_36m.m3u8$!
+CCTV8K,http://183.130.29.86:2014/gaoma/cctv8k_36m.m3u8$!
 
 
 
