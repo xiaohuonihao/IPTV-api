@@ -80,6 +80,16 @@ CGTN法语,http://goo.bkpcp.top/mg/cgtnf$!
 凤凰卫视
 大湾区卫视
 
+4K频道,#genre#
+CCTV4K
+CCTV16 4K
+CCTV8K
+北京卫视4K
+华数4K
+纯享4K
+欢笑剧场4K
+峨眉电影4K
+
 超清频道,#genre#
 CCTV-01超清,http://www.xzbn.site:35455/gaoma/cctv1.m3u8$!
 CCTV-02超清,http://www.xzbn.site:35455/gaoma/cctv2.m3u8$!
