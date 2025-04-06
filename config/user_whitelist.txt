@@ -68,6 +68,26 @@ CETV4,http://107.174.52.32/itv.php?id=CETV4$!
 哈哈炫动,http://107.174.52.32/itv.php?id=哈哈炫动$!
 优漫卡通,http://107.174.52.32/itv.php?id=优漫卡通$!
 
+超级电影,http://107.174.52.32/itv.php?id=超级电影$!
+超级综艺,http://107.174.52.32/itv.php?id=超级综艺$!
+超级电视剧,http://107.174.52.32/itv.php?id=超级电视剧$!
+惊悚悬疑,http://107.174.52.32/itv.php?id=惊悚悬疑$!
+金牌综艺,http://107.174.52.32/itv.php?id=金牌综艺$!
+动作电影,http://107.174.52.32/itv.php?id=动作电影$!
+黑莓动画,http://107.174.52.32/itv.php?id=黑莓动画$!
+军旅剧场,http://107.174.52.32/itv.php?id=军旅剧场$!
+精品大剧,http://107.174.52.32/itv.php?id=精品大剧$!
+东北热剧,http://107.174.52.32/itv.php?id=东北热剧$!
+欢乐剧场,http://107.174.52.32/itv.php?id=欢乐剧场$!
+黑莓电影,http://107.174.52.32/itv.php?id=黑莓电影$!
+北京卫视,http://107.174.52.32/itv.php?id=北京卫视$!
+超级体育,http://107.174.52.32/itv.php?id=超级体育$!
+古装剧场,http://107.174.52.32/itv.php?id=古装剧场$!
+爱情喜剧,http://107.174.52.32/itv.php?id=爱情喜剧$!
+海外剧场,http://107.174.52.32/itv.php?id=海外剧场$!
+家庭剧场,http://107.174.52.32/itv.php?id=家庭剧场$!
+武搏世界,http://107.174.52.32/itv.php?id=武搏世界$!
+中国功夫,http://107.174.52.32/itv.php?id=中国功夫$!
 
 CCTV-1,http://goo.bkpcp.top/mg/cctv1$!
 CCTV-2,http://goo.bkpcp.top/mg/cctv2$!
