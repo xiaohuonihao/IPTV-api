@@ -77,6 +77,7 @@ CGTN法语,http://goo.bkpcp.top/mg/cgtnf$!
 三沙卫视
 海峡卫视
 延边卫视
+兵团卫视
 康巴卫视
 凤凰卫视
 大湾区卫视
@@ -92,6 +93,8 @@ CCTV8K
 峨眉电影4K
 
 超清频道,#genre#
+
+中国天气超清
 CCTV-01超清,http://www.xzbn.site:35455/gaoma/cctv1.m3u8$!
 CCTV-02超清,http://www.xzbn.site:35455/gaoma/cctv2.m3u8$!
 CCTV-03超清,http://www.xzbn.site:35455/gaoma/cctv3.m3u8$!
@@ -131,7 +134,7 @@ CCTV-14超清,http://132.226.20.226:30001/TVOD/1000000005000265013/ystenlive/ind
 CCTV-15超清,http://132.226.20.226:30001/TVOD/1000000005000265014/ystenlive/index.m3u8$!
 CCTV-16超清,http://132.226.20.226:30001/TVOD/1000000006000233002/ystenlive/index.m3u8$!
 CCTV-17超清,http://132.226.20.226:30001/TVOD/1000000005000265015/ystenlive/index.m3u8$!
-中国天气超清,http://132.226.20.226:30001/TVOD/5000000005000031974/bestzb/index.m3u8$!
+
 
 山东卫视超清,http://132.226.20.226:30001/TVOD/1000000005000265019/ystenlive/index.m3u8$!
 北京卫视超清,http://132.226.20.226:30001/TVOD/1000000005000265027/ystenlive/index.m3u8$!
