@@ -596,10 +596,7 @@ CCTV16 4K,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/5000000008000023254/1.m
 纯享4K,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=$!
 欢笑剧场4K,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/5000000007000010001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=$!
 北京卫视4K,http://150.138.77.132:10037/北京卫视.php$!
-CCTV4K,http://58.144.234.4/live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8?E=&U=&A=&K=&P=&S=$!
-CCTV16 4K,http://58.144.234.4/live2.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8?E=&U=&A=&K=&P=&S=$!
-欢笑剧场4K,http://58.144.234.4/live2.rxip.sc96655.com/live/hxjc-4k_8000.m3u8?E=&U=&A=&K=&P=&S=$!
-峨眉电影4K,http://58.144.234.4/live2.rxip.sc96655.com/live/emdy4k_8000.m3u8?E=&U=&A=&K=&P=&S=$!
+
 
 
 北京卫视4K,http://116.227.118.203:4022/rtp/233.18.204.209:5140$!
