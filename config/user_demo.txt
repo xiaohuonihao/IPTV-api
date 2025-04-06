@@ -433,7 +433,19 @@ JJ斗地主
 猫和老鼠,http://1.94.31.214:35455/huya/11352879$!
 猫和老鼠,http://b.zgjok.com:35455/huya/11352879$!
 猫和老鼠,http://www.douzhicloud.site:35455/huya/11352879$!
-
+哒啵电竞,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/2000000003000000066/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000066&livemode=1&stbId=$!
+哒啵电竞,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/1000000006000032327/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032327&livemode=1&stbId=$!
+哒啵赛事,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/2000000003000000004/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000004&livemode=1&stbId=$!
+哒啵赛事,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/2000000003000000039/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000039&livemode=1&stbId=$!
+哒啵赛事,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/2000000003000000040/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000040&livemode=1&stbId=$!
+哒啵赛事,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/1000000001000003775/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=$!
+哒啵赛事,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/1000000001000006906/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006906&livemode=1&stbId=$!
+精彩影视,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/2000000004000000063/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000063&livemode=1&stbId=$!
+精彩影视,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/6000000006000320630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=$!
+中国天气,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/5000000005000031974/1.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=$!
+中国天气,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/2000000002000000057/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000057&livemode=1&stbId=$!
+中华美食,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/2000000003000000052/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000052&livemode=1&stbId=$!
+中华美食,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/1000000005000266015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266015&livemode=1&stbId=$!
 
 经典电影,#genre#
 哪吒1魔童降世,https://vip.ffzy-play7.com/20221111/3098_4ec0b2e9/index.m3u8
