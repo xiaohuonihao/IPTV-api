@@ -889,7 +889,7 @@ Now爆谷,http://hkenlive.uk/livehttpplay?channel_id=13002$!
 tvbs
 tvbs欢乐
 tvbs精彩
-三立
+三立台湾台
 三立综合
 三立台湾
 三立都会
@@ -977,6 +977,7 @@ BBC地球
 Elatvbs体育
 博斯高球
 博斯运动
+AXN
 HBO
 HBOFamily
 HBO强档
@@ -1000,7 +1001,10 @@ EYE-旅游
 VIUtvbsV英
 大爱_HD
 霹雳台湾
-
+Now星影
+Now英超
+Now英超体育壹,http://hkenlive.uk/livehttpplay?channel_id=13010$!
+Now英超体育贰
 
 
 
