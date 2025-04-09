@@ -872,11 +872,11 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv$!
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2$!
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv$!
 ViuTV6
-香港31台
-香港32台
-香港33台
-香港34台
-香港35台
+RTHK-31
+RTHK-32
+RTHK-33
+RTHK-34
+RTHK-35
 Astro AOD
 HOY TV
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv$!
@@ -1005,7 +1005,11 @@ Now星影
 Now英超
 Now英超体育壹,http://hkenlive.uk/livehttpplay?channel_id=13010$!
 Now英超体育贰
-
+astro-QJ
+astroAec
+astroAod
+astro欢喜
+astro爱奇艺
 
 
 赛事咪咕,#genre#
