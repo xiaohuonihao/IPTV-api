@@ -106,16 +106,7 @@ CCTV-17超清,http://www.xzbn.site:35455/gaoma/cctv17.m3u8$!
 CCTV-4k超清,http://www.xzbn.site:35455/gaoma/cctv4k.m3u8$!
 CCTV-8k超清,http://www.xzbn.site:35455/gaoma/cctv8k_36m.m3u8$!
 
-CCTV-1超清,http://132.226.20.226:30001/TVOD/1000000005000265001/ystenlive/index.m3u8$!
-CCTV-2超清,http://132.226.20.226:30001/TVOD/1000000001000023315/ystenlive/index.m3u8$!
-CCTV-3超清,http://132.226.20.226:30001/TVOD/1000000005000265003/ystenlive/index.m3u8$!
-CCTV-4超清,http://132.226.20.226:30001/TVOD/1000000005000265004/ystenlive/index.m3u8$!
-CCTV-5超清,http://132.226.20.226:30001/TVOD/1000000005000265005/ystenlive/index.m3u8$!
-CCTV-5+超清,http://132.226.20.226:30001/TVOD/1000000005000265016/ystenlive/index.m3u8$!
-CCTV-6超清,http://132.226.20.226:30001/TVOD/1000000005000265006/ystenlive/index.m3u8$!
-CCTV-7超清,http://132.226.20.226:30001/TVOD/1000000005000265007/ystenlive/index.m3u8$!
-CCTV-8超清,http://132.226.20.226:30001/TVOD/1000000005000265008/ystenlive/index.m3u8$!
-CCTV-9超清,http://132.226.20.226:30001/TVOD/1000000005000265009/ystenlive/index.m3u8$!
+
 CCTV-10超清,http://132.226.20.226:30001/TVOD/1000000005000265010/ystenlive/index.m3u8$!
 CCTV-11超清,http://132.226.20.226:30001/TVOD/1000000005000265011/ystenlive/index.m3u8$!
 CCTV-12超清,http://132.226.20.226:30001/TVOD/1000000005000265012/ystenlive/index.m3u8$!
