@@ -107,14 +107,7 @@ CCTV-4k超清,http://www.xzbn.site:35455/gaoma/cctv4k.m3u8$!
 CCTV-8k超清,http://www.xzbn.site:35455/gaoma/cctv8k_36m.m3u8$!
 
 
-CCTV-10超清,http://132.226.20.226:30001/TVOD/1000000005000265010/ystenlive/index.m3u8$!
-CCTV-11超清,http://132.226.20.226:30001/TVOD/1000000005000265011/ystenlive/index.m3u8$!
-CCTV-12超清,http://132.226.20.226:30001/TVOD/1000000005000265012/ystenlive/index.m3u8$!
-CCTV-13超清,http://132.226.20.226:30001/TVOD/1000000002000021303/ystenlive/index.m3u8$!
-CCTV-14超清,http://132.226.20.226:30001/TVOD/1000000005000265013/ystenlive/index.m3u8$!
-CCTV-15超清,http://132.226.20.226:30001/TVOD/1000000005000265014/ystenlive/index.m3u8$!
-CCTV-16超清,http://132.226.20.226:30001/TVOD/1000000006000233002/ystenlive/index.m3u8$!
-CCTV-17超清,http://132.226.20.226:30001/TVOD/1000000005000265015/ystenlive/index.m3u8$!
+
 
 
 北京卫视,http://58.243.224.244:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0$!
