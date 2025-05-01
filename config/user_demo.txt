@@ -729,7 +729,7 @@ CCTV1港澳版
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8$!
 凤凰中文,http://cdn.163.dedyn.io/live/fhzw/stream.m3u8$!
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8$!
-
+翡翠台
 TVBJ1
 TVBJ2
 TVB PLUS
