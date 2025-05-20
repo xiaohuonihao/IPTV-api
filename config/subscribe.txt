@@ -54,7 +54,6 @@ http://kkk.jjjj.jiduo.me/user/tttt/api.txt
 http://我不是.摸鱼儿.com/live.php
 http://mdxgh.tpddns.cn:9999/new/mdzb.txt
 http://rihou.cc:555/gggg.nzk
-https://tttt.findvps.top/index.php?key=250217
 https://gh-proxy.com/raw.githubusercontent.com/rad168/iptv/0b3bb80aff723f9ba6df8f77c34882fc6bcdbf23/live.txt
 https://gitea.moe/xiangjiao-ge/yifa169/raw/branch/main/yiyifafa.txt
 https://gh-proxy.com/raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt
