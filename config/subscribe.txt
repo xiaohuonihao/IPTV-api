@@ -63,7 +63,7 @@ https://gh-proxy.com/raw.githubusercontent.com/80947108/888/refs/heads/main/tv/F
 http://www.lyyytv.cn/yt/zhibo/1.txt
 
 
-http://211.101.234.24:866/aishang.txt
+
 https://pastebin.com/raw/V0BhYHF4
 https://tvbox.5iclub.cloudns.biz/txt?url=https://live.5iclub.cloudns.biz/IPTV.m3u
 https://tvbox.5iclub.cloudns.biz/txt?url=https://live.yuwell.us.kg/IPTV.m3u
@@ -73,7 +73,6 @@ https://ghfast.top/https://raw.githubusercontent.com/altn2025/iptv/refs/heads/ma
 https://ghfast.top/https://raw.githubusercontent.com/BP3388/TVBOX/refs/heads/main/live.txt
 https://ghfast.top/https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
 http://iptv.catvod.com/tv.m3u
-http://szygdc.tpddns.cn:93/dsch/cmcc/chlist.txt
 https://ghfast.top/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://ghfast.top/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://ghfast.top/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
@@ -83,7 +82,6 @@ https://ghfast.top/https://raw.githubusercontent.com/iptv-org/iptv/master/stream
 https://ghfast.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 https://ghfast.top/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/refs/heads/main/my.txt
 https://ygbh.site/bh.txt
-http://aktv.top/live.txt
 http://tv.850930.xyz/kdsb.txt
 https://live.wqwqwq.sbs/tv.m3u
 https://lu.wqwqwq.sbs/tv.m3u
@@ -91,13 +89,13 @@ http://b.zgjok.com:35455/tv.m3u
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u
 https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u
-https://ghfast.top/https://raw.githubusercontent.com/jack2713/my/refs/heads/main/myq.txt
-https://ghfast.top/https://raw.githubusercontent.com/ssili126/tv/refs/heads/main/itvlist.txt
-https://ghfast.top/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.txt
+https://gh-proxy.com/raw.githubusercontent.com/jack2713/my/refs/heads/main/myq.txt
+https://gh-proxy.com/raw.githubusercontent.com/ssili126/tv/refs/heads/main/itvlist.txt
+https://gh-proxy.com/raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.txt
 https://fm1077.serv00.net/SmartTV.m3u
 https://gitlab.com/tvkj/loong/-/raw/main/loog.txt
 https://tvpass.org/playlist/m3u
-https://ghproxy.net/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.txt
+https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.txt
 http://117.72.68.25:9230/latest.txt
 
 http://rihou.cc:567/gggg.nzk
