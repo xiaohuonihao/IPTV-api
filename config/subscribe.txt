@@ -3,7 +3,7 @@
 
 https://gitee.com/yanglong1251/TV-Box/raw/master/png/tv.png
 
-
+https://gh-proxy.com/github.com/xiaohuonihao/IPTV-api/blob/master/output/tv.txt
 
 
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
