@@ -2,9 +2,9 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://gitee.com/yanglong1251/TV-Box/raw/master/png/tv.png
-
+https://13035.kstore.space/tv.txt
 https://gh-proxy.com/github.com/xiaohuonihao/IPTV-api/blob/master/output/tv.txt
-
+https://gh-proxy.com/raw.githubusercontent.com/xiaohuonihao/IPTV-api/refs/heads/master/output/tv.txt
 
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
