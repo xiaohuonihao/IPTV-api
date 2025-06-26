@@ -2,7 +2,7 @@
 CCTV-1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
 CCTV-1,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 CCTV-1,http://goo.bkpcp.top/mg/cctv1
-CCTV-1,http://smart.tv.home.kg/smtv.php?id=cctv1
+
 CCTV-1,http://182.125.175.237:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://106.15.90.42:35455/mgtv/608807420.m3u8
 CCTV-1,http://49.233.44.26:35455/mgtv/608807420.m3u8
