@@ -2,6 +2,7 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://13035.kstore.space/tv.txt
+https://gitee.com/yuan301/tv/raw/master/A/tv.png
 
 https://gh-proxy.com/github.com/xiaohuonihao/IPTV-api/blob/master/output/tv.txt
 https://gh-proxy.com/raw.githubusercontent.com/xiaohuonihao/IPTV-api/refs/heads/master/output/tv.txt
