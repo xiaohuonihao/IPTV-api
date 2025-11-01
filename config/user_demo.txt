@@ -883,6 +883,19 @@ astroAod
 astro欢喜
 astro爱奇艺
 
+演*唱*会,#genre#
+
+刘德华<今日>演唱会上,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d5752d2b128a010370019981d8805d_258.mp4
+刘德华<今日>演唱会中,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8d575b81a468c4f0370019981d7590e_258.mp4
+刘德华<今日>演唱会下,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8d576391a55d74f0370019981d9b2f3_258.mp4
+刘德华抖音精彩片段一,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d55d9a38a29a01037001998179dc88_258.mp4
+刘德华抖音精彩片段二,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d55f342b33eb0103700199818a670e_258.mp4
+刘德华今天演唱会一,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d56c0738b82a010370019981b0f51d_258.mp4
+刘德华今天演唱会二,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8d56c6a1cc47b4f0370019981b1936a_258.mp4
+刘德华今天演唱会三,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d56cda3884c0010370019981b36f0e_258.mp4
+刘德华今天演唱会四,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d56d192b31c9010370019981b350f9_258.mp4
+
+
 经典小品,#genre#
 拍电影,https://txmov2.a.kwimgs.com/bs3/video-hls/5214042559557439441_hlsb.m3u8
 警察与督察,https://txmov2.a.kwimgs.com/bs3/video-hls/5233464357625245633_hlsb.m3u8
