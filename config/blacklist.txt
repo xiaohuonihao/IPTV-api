@@ -22,3 +22,7 @@ aktv_stream1.m16tv
 aktv-stream.m16tv.cfd
 api.mytv666.top
 smart.tv.home.kg
+
+
+sk.cri.cn
+ls.qingting.fm
