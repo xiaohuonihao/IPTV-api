@@ -11,7 +11,10 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 
 https://live.hacks.tools/tv/iptv6.txt
 https://live.hacks.tools/tv/iptv4.txt
-
+https://sub.ottiptv.cc/huyayqk.m3u
+https://sub.ottiptv.cc/douyuyqk.m3u
+https://sub.ottiptv.cc/bililive.m3u
+https://sub.ottiptv.cc/yylunbo.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong-nihao/IPTV-api/refs/heads/master/output/love.txt
 https://13035.kstore.space/%E7%9B%B4%E6%92%AD/gggg.txt
 https://13035.kstore.space/TVBos/live.txt
