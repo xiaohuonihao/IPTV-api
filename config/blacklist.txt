@@ -35,3 +35,5 @@ cdn3.163189.xyz
 hls-gateway.vpstv.net
 
 zzy789.xyz
+xtvantsc.xyz
+live.catvod.com
