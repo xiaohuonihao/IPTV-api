@@ -411,18 +411,32 @@ CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 凤凰中文
 凤凰资讯
 翡翠台
+明珠台
 TVBJ1
 TVBJ2
 TVB PLUS
 tvbs闽南频道
-TVB明珠
-TVB翡翠
+无线翡翠台
+无线新闻
+无线新闻台
+无线新闻频粤
+无线娱乐台
+无线华丽
+无线生活
+无线功夫
+无线星河
 TVB无线华丽
 TVB无线功夫
 TVB娱乐新闻
 TVB无线新闻
 TVB翡翠剧集
 TVB星河
+TVB翡翠
+TVB明珠
+TVB美亚电影
+TVB创世电影
+TVB戏曲
+星河台
 翡翠综合台
 香港C+
 香港面包台
@@ -614,6 +628,63 @@ astroAec
 astroAod
 astro欢喜
 astro爱奇艺
+
+国际频道,#genre#
+CNN
+BBC
+Fox新闻
+VOA美国之音
+半岛新闻「英语」
+半岛新闻 (1080p)
+半岛新闻「阿拉伯」
+朝鲜中央台
+KCTV_광주
+半·新闻
+俄·IGITV蓝光
+法·24台
+法·时尚
+美·NASA Public Channel
+美·红牛运动
+泰·THAIPBS
+泰·公共三台
+新加坡
+越·HBTV
+新加坡中文台
+美国mytime
+NHK World
+BBS佛教广播
+泰国 ASTV News 1
+半岛电视台
+ABC新闻频道
+朝鲜中央台
+埃及 Mokameleen TV
+日本24小时新闻台
+日本世界台
+日本CGN
+日本QVC
+日本NHK
+日テレNEWS24
+日本テレビ
+NHK_BS1
+NHK教育
+NHK世界
+NHK総合
+美国CNN
+新加坡国际
+新加坡中文台
+新加坡CNA
+CNA
+CNA新闻
+韩国大田
+韩国KBS
+泰国Thai
+半岛国际新闻台
+东森美洲卫视
+东映チャンネル
+日本映画専门チャンネル
+テレビ朝日
+
+
 
 演*唱*会,#genre#
 
