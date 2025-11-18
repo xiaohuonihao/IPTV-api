@@ -1383,19 +1383,28 @@ HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 民视,https://tv.iill.top/litv/4gtv-4gtv002
 民视,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv002
 民视,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv155
+民视,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv002
+民视,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv155
 中视新闻,https://tv.iill.top/litv/4gtv-4gtv074
 中视新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv074
 中视新闻,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv074/index.m3u8
 民视新闻,https://tv.iill.top/litv/litv-ftv13
 民视新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv13
+民视新闻,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-ftv13
 台视新闻,https://tv.iill.top/litv/4gtv-4gtv051
 台视新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv051
 台视新闻,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv051/index.m3u8
+台视新闻,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv051
+台视新闻,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv051
 华视新闻,https://tv.iill.top/litv/4gtv-4gtv052
 华视新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv052
 华视新闻,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv052/index.m3u8
+华视新闻,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv052
+华视新闻,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv052
 寰宇新闻,https://tv.iill.top/litv/litv-longturn14
 寰宇新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn14
+寰宇新闻,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn14
+寰宇新闻,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn14
 三立新闻,http://pullpackage.alivecdn.com/live/GDGMQBLKWMPhyKJYSPPR6dnb2lS3FvykpFuj8AZf19Mbfd2yjx.flv
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立新闻,https://tv.iill.top/4gtv/229
@@ -1419,6 +1428,7 @@ CN卡通频道,http://pullpackage.alivecdn.com/live/S31m2rw7UUNxgJaq9YeLysJgqOz7
 民视第一台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv003
 民视第一台,https://4gtv.dxjc.pp.ua/4gtv-4gtv003/index.m3u8
 民视第一台,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv003/index.m3u8
+民视第一台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv003
 寰宇财经,https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
 寰宇财经,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv158
 台视财经,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv056
@@ -1453,10 +1463,13 @@ Astro AOD,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
 中天亚洲,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv109
 中天亚洲,https://4gtv.dxjc.pp.ua/4gtv-4gtv109/index.m3u8
+中天亚洲,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv109
 中视经典,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv080
 中视经典,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv080/index.m3u8
+中视经典,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv080
 中视菁采,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv064
 中视菁采,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv064/index.m3u8
+中视菁采,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv064
 有线综合,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 有线综合,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 无线赛马,http://tl.061833.xyz/tl/mytvsuper18
@@ -1531,6 +1544,7 @@ Plus综合,https://cdn6.101.qzz.io/163189/tvbp
 东森幼幼,http://free.cnlive.club/channel/798aeeee.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龙华戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn18
+龙华戏剧,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn18
 东森洋片,http://pullpackage.alivecdn.com/live/kik9tNVo2R9KMDD687bFX3vtLMD4Lwg69y94g8XKH40P1BOa5U.flv
 东森洋片,http://free.cnlive.club/channel/7cb8b9f4.m3u8
 千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
@@ -1553,6 +1567,7 @@ Plus综合,https://cdn6.101.qzz.io/163189/tvbp
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 八大精彩,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv034
 八大精彩,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv034/index.m3u8
+八大精彩,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv034
 AXN电影,http://pullpackage.alivecdn.com/live/29tIFCyC4BMkmhWA3mwKGNep2yAoDsJgqOMnhTcah84kP7az3x.flv
 AXN电影,http://tl.061833.xyz/tl/axn
 广东影视,https://mgev.188766.xyz/?migutoken=1bf7def12f227e3e41c9361c371b7b42&id=gd_gdys&type=sz
@@ -2972,6 +2987,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 唐诡之西行,https://live.ottiptv.cc/huya/26355763
 玫瑰的故事,https://live.ottiptv.cc/huya/23865142
 梦中的那片海,https://live.ottiptv.cc/huya/26355765
+楚汉骄雄,http://live.ottiptv.cc/huya/29465854
 倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
 倩女幽魂人间道,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
 倩女幽魂道道道,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
@@ -3073,6 +3089,7 @@ Q版三国剧集,http://rihou.cc:555/huyad.php?id=29465871
 鹿鼎记,https://lunbo.freetv.top/yy/1354658049
 寻秦记,https://lunbo.freetv.top/yy/1382851591
 寻秦记,https://yylunbo.ottiptv.cc/yy/1354658048
+寻秦记,http://live.ottiptv.cc/huya/29465848
 新白娘子传奇,https://lunbo.freetv.top/yy/1354930969
 新白娘子传奇,http://lu.wqwqwq.sbs/yy/1354490667
 新白娘子传奇,http://www.clmy.cc:35455/yy/1354490667
@@ -5048,4 +5065,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2025-11-18 06:28:10,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-11-18 18:32:17,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
