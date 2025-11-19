@@ -2052,6 +2052,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 东方影视,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
 东方影视,https://www.freetv.top/migu/617290047.m3u8?migutoken=86c02ad0875d5cc49d77bcc8bdb628f2c9d508ffc323b964a03c8f92dde4afafa0345cf5a8fefbdf915c748e3d11c6c18e27ae1e21a609cec31a45e6c437db26a7a243625f9cf35c271171a22c
 东方影视,http://shyd.695847.xyz/cms001/ch00000090990000001016/index.m3u8?IAS
+东方影视,https://live.chinacert.cftest5.cn/mg/?id=617290047
 东方财经,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
 东方财经,http://wuyivip.nyc.mn:8888/udp/239.1.1.85:8085
 东方财经,http://nas.home.plugintool.top:2333/udp/239.76.254.69:9000
@@ -2969,6 +2970,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 倚天屠龙记,http://rihou.cc:555/huyad.php?id=23734246
 倚天屠龙记,https://yylunbo.ottiptv.cc/yy/33300793
 倚天屠龙记,https://live.ottiptv.cc/huya/11342403
+倚天屠龙记,https://yylunbo.ottiptv.cc/yy/1507704566
 铁齿铜牙纪晓岚,https://yylunbo.ottiptv.cc/yy/1382781415
 铁齿铜牙纪晓岚,https://live.ottiptv.cc/huya/11342396
 康熙王朝,https://yylunbo.ottiptv.cc/yy/1382851583
@@ -4994,6 +4996,7 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 天若有情,http://jsmov2.a.yximgs.com/bs3/video-hls/5246412168297899387_hlsb.m3u8
 龙兄虎弟,http://jsmov2.a.yximgs.com/bs3/video-hls/5250352837791566632_hlsb.m3u8
 东方秃鹰,http://jsmov2.a.yximgs.com/bs3/video-hls/5218546164654879826_hlsb.m3u8
+我是谁,https://live.ottiptv.cc/bilibili/7279318
 笑傲江湖,http://lu.wqwqwq.sbs/yy/1354930909
 笑傲江湖,https://live.ottiptv.cc/huya/26355790
 笑傲江湖,https://live.iill.top/huya/23865142
@@ -5065,4 +5068,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2025-11-19 06:28:43,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-11-19 18:30:57,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
