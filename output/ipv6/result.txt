@@ -1184,6 +1184,7 @@ NewTV动作电影,http://3501776.xyz:35455/itv/1000000004000018653.m3u8?cdn=yste
 经典电影,http://goo.bkpcp.top/mg/jdxgdy
 经典电影,https://tv.iill.top/4gtv/201
 经典电影,http://ikuai.ipddns.top:8888/rtp/239.3.1.195:9024
+经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 天映经典,http://tl.061833.xyz/tl/null-1
 天映经典,http://frus7.jdiptv.cc/live/xgtyjdgy.m3u8kdstime=1743869071&kdssign=3f092afa312e4f7baae83a964e07bf1a
@@ -5104,4 +5105,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2025-11-21 18:29:39,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-11-22 06:28:42,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
