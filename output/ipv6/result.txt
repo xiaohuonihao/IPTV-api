@@ -968,7 +968,9 @@ Skysports F1,https://tzh911.qzz.io/play-smt.php?id=tiankongf1
 JJ斗地主,https://live.iill.top/douyin/685317364746
 王者荣耀,https://live.ottiptv.cc/douyu/1863767
 王者荣耀,https://live.iill.top/huya/660002
+王者荣耀,https://live.ottiptv.cc/huya/660002
 穿越火线,https://live.iill.top/huya/660101
+穿越火线,https://live.ottiptv.cc/huya/660101
 
 经典频道,#genre#
 金牌综艺,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=YanG-1989
@@ -1898,11 +1900,15 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 游戏赛事,#genre#
 王者荣耀,https://live.ottiptv.cc/douyu/1863767
 王者荣耀,https://live.iill.top/huya/660002
+王者荣耀,https://live.ottiptv.cc/huya/660002
 英雄联盟,https://live.ottiptv.cc/douyu/288016
 英雄联盟,https://live.iill.top/huya/660000
+英雄联盟,https://live.ottiptv.cc/huya/660000
 和平精英,https://live.ottiptv.cc/douyu/999
 和平精英,https://live.iill.top/huya/660006
+和平精英,https://live.ottiptv.cc/huya/660006
 穿越火线,https://live.iill.top/huya/660101
+穿越火线,https://live.ottiptv.cc/huya/660101
 绝地求生,https://live.ottiptv.cc/douyu/100
 绝地求生,https://live.iill.top/huya/660004
 【B站】英雄联盟,https://live.iill.top/bilibili/6
@@ -3066,6 +3072,7 @@ Q版三国剧集,http://rihou.cc:555/huyad.php?id=29465871
 新水浒传,http://rihou.cc:555/huyad.php?id=11342384
 新水浒传,https://live.ottiptv.cc/huya/11342384
 新水浒传,http://live.ottiptv.cc/huya/11342384
+新水浒传,https://live.ottiptv.cc/huya/30692707
 神探狄仁杰2,http://rihou.cc:555/huyad.php?id=11342425
 神探狄仁杰2,https://yylunbo.ottiptv.cc/yy/1382828767
 神探狄仁杰2,https://yylunbo.ottiptv.cc/yy/1382851146
@@ -3093,9 +3100,11 @@ Q版三国剧集,http://rihou.cc:555/huyad.php?id=29465871
 扫黄先锋,https://live.metshop.top/huya/23903196
 经典港剧,http://rihou.cc:555/huyad.php?id=11352965
 鹿鼎记,https://lunbo.freetv.top/yy/1354658049
+鹿鼎记,https://live.ottiptv.cc/huya/23650774
 寻秦记,https://lunbo.freetv.top/yy/1382851591
 寻秦记,https://yylunbo.ottiptv.cc/yy/1354658048
 寻秦记,http://live.ottiptv.cc/huya/29465848
+寻秦记,https://live.ottiptv.cc/huya/3069270730080146
 新白娘子传奇,https://lunbo.freetv.top/yy/1354930969
 新白娘子传奇,http://lu.wqwqwq.sbs/yy/1354490667
 新白娘子传奇,http://www.clmy.cc:35455/yy/1354490667
@@ -5163,4 +5172,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2025-11-25 06:27:45,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-11-25 18:33:46,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
