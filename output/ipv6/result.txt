@@ -1025,14 +1025,28 @@ NEWTV金牌综艺,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/10000000040
 周星驰,https://live.ottiptv.cc/huya/11342412
 周星驰,http://live.ottiptv.cc/huya/11342412
 五福星,https://live.metshop.top/huya/11282233
+五福星,https://www.goodiptv.club/huya/11282233
+古天乐,https://www.goodiptv.club/huya/11602041
 邱淑贞,https://live.metshop.top/huya/11352949
+玄幻,https://www.goodiptv.club/huya/11342414
 喜剧,https://live.iill.top/huya/11352877
+喜剧,https://www.goodiptv.club/huya/11352877
 港片,https://live.iill.top/huya/11602043
 港片,https://live.metshop.top/huya/11602043
+港片,https://www.goodiptv.club/huya/11602043
+怪兽,https://www.goodiptv.club/huya/21059577
+武侠,https://www.goodiptv.club/huya/11342427
+警匪,https://www.goodiptv.club/huya/11352886
+罪犯,https://www.goodiptv.club/huya/11352962
+枪战,https://www.goodiptv.club/huya/21059579
+热血,https://www.goodiptv.club/huya/11352934
+谍战,https://www.goodiptv.club/huya/21059585
 战争,https://live.iill.top/huya/21059592
 黑帮斗争,https://live.iill.top/huya/11342419
+黑帮斗争,https://www.goodiptv.club/huya/11342419
 女神系列,https://live.metshop.top/huya/11336571
 经典女神,https://live.metshop.top/huya/11352909
+许氏三杰,https://www.goodiptv.club/huya/11602033
 古墓系列,https://live.metshop.top/huya/11352913
 赌片,https://live.metshop.top/huya/11342399
 科幻动作,https://live.metshop.top/huya/11352964
@@ -1080,6 +1094,7 @@ CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d184197
 CHC动作电影,http://nas.home.plugintool.top:2333/udp/239.76.245.243:1234
 CHC动作电影,https://live.chinacert.cftest5.cn/mg/?id=644368714
 CHC动作电影,https://stream.freetv.fun/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.ctv
+CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E5%8F%B0
 淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
 淘剧场,http://dsj.motem.top:8880/bptv/10000100000000050000000003887497.m3u8
 淘剧场,http://missyao.com:35455/bptv/10000100000000050000000003887497.m3u8
@@ -1252,6 +1267,7 @@ TVB无线新闻,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 TVB翡翠,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8
@@ -1405,6 +1421,7 @@ ViuTV,http://php.jdshipin.com:8880/iptv.php?id=viutv
 ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 ViuTV,https://cdn5.163189.xyz/live/viu/stream.m3u8
+ViuTV,http://php.jdshipin.com/iptv.php?id=viutv
 Astro AOD,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 中天亚洲,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv109
 中天亚洲,https://4gtv.dxjc.pp.ua/4gtv-4gtv109/index.m3u8
@@ -1485,6 +1502,7 @@ Plus综合,http://php.jdshipin.com/PLTV/iptv.php?id=j2
 龙华卡通,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn01
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华电影,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn03
+龙华电影,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn03
 纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 纬来电影,https://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
 纬来综合,https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
@@ -1560,6 +1578,7 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 开心麻花小品,http://cdn.jdshipin.com:8880/douyu.php?id=10153463
 宋小宝小品,http://cdn.jdshipin.com:8880/douyu.php?id=9817729
 宋小宝小品,https://live.ottiptv.cc/douyu/9817729
+宋小宝小品,https://www.goodiptv.club/douyu/9817729
 许君聪小品,http://cdn.jdshipin.com:8880/douyu.php?id=10419558
 巩汉林小品,http://cdn.jdshipin.com:8880/yy.php?id=1354889035
 贾玲小品,http://cdn.jdshipin.com:8880/douyu.php?id=10419541
@@ -2107,17 +2126,20 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 湖南经视,http://nas.home.plugintool.top:2333/udp/239.76.252.116:9000
 湖南都市,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
 湖南都市,http://nas.home.plugintool.top:2333/udp/239.76.252.117:9000
+湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds
 湖南国际,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngj
 湖南国际,http://nas.home.plugintool.top:2333/udp/239.76.252.124:9000
 湖南娱乐,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnyl
 湖南娱乐,http://nas.home.plugintool.top:2333/udp/239.76.252.121:9000
 湖南爱晚,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngg
 湖南爱晚,http://nas.home.plugintool.top:2333/udp/239.76.252.123:9000
+湖南爱晚,http://php.jdshipin.com:8880/iptv.php?id=hngg
 湖南电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
 湖南电影,http://php.jdshipin.com:8880/iptv.php
 湖南电影,http://nas.home.plugintool.top:2333/udp/239.76.252.119:9000
 湖南电视剧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
 湖南电视剧,http://nas.home.plugintool.top:2333/udp/239.76.252.118:9000
+湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj
 湖南教育,http://nas.home.plugintool.top:2333/udp/239.76.252.233:9000
 长沙新闻综合,http://nas.home.plugintool.top:2333/udp/239.76.253.121:9000
 长沙政法,http://nas.home.plugintool.top:2333/udp/239.76.253.122:9000
@@ -4979,4 +5001,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2025-11-26 06:43:42,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-11-26 18:47:06,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
