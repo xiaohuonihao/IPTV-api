@@ -1204,6 +1204,7 @@ CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 TVBJ1,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 TVBJ1,https://cdn2.132.us.kg/live/j1/stream.m3u8
+TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 TVB PLUS,http://hls.168.us.kg/u/82/master.m3u8
 TVB PLUS,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
 TVB PLUS,http://php.jdshipin.com/PLTV/iptv.php?id=j2
@@ -1493,8 +1494,10 @@ Plus综合,http://php.jdshipin.com/PLTV/iptv.php?id=j2
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龙华戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn18
 龙华戏剧,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn18
+龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
 千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 龙华卡通,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn01
 龙华卡通,https://cdn3.132.us.kg/live/lhkt/stream.m3u8
@@ -1503,6 +1506,7 @@ Plus综合,http://php.jdshipin.com/PLTV/iptv.php?id=j2
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华电影,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn03
 龙华电影,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn03
+龙华电影,http://cdn8.163189.xyz/163189/lhdy
 纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 纬来电影,https://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
 纬来综合,https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
@@ -5001,4 +5005,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2025-11-27 06:43:34,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-11-27 18:47:23,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
