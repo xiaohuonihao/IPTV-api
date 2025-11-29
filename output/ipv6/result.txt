@@ -3618,12 +3618,16 @@ Q版三国剧集,http://rihou.cc:555/huyad.php?id=29465871
 赛事咪咕播32,https://msj.188766.xyz/play?id=3000000020000011521&token=902e505a902e505a902e505a902e505a
 赛事咪咕播33,https://msj.188766.xyz/play?id=3000000010000031669&token=2926121e2926121e2926121e2926121e
 赛事咪咕播33,https://msj.188766.xyz/play?id=3000000010000031669&token=df2bdda4df2bdda4df2bdda4df2bdda4
+赛事咪咕播33,https://msj.188766.xyz/play?id=3000000020000011518&token=eb313605eb313605eb313605eb313605
 赛事咪咕播34,https://msj.188766.xyz/play?id=3000000020000011518&token=bdee9180bdee9180bdee9180bdee9180
 赛事咪咕播34,https://msj.188766.xyz/play?id=3000000020000011518&token=73f45d0673f45d0673f45d0673f45d06
+赛事咪咕播34,https://msj.188766.xyz/play?id=3000000020000011519&token=eb313606eb313606eb313606eb313606
 赛事咪咕播35,https://msj.188766.xyz/play?id=3000000020000011519&token=bdee9181bdee9181bdee9181bdee9181
 赛事咪咕播35,https://msj.188766.xyz/play?id=3000000020000011519&token=73f45d0773f45d0773f45d0773f45d07
+赛事咪咕播35,https://msj.188766.xyz/play?id=3000000020000011520&token=eb31361ceb31361ceb31361ceb31361c
 赛事咪咕播36,https://msj.188766.xyz/play?id=3000000020000011520&token=bdee9197bdee9197bdee9197bdee9197
 赛事咪咕播36,https://msj.188766.xyz/play?id=3000000020000011520&token=73f45d1d73f45d1d73f45d1d73f45d1d
+赛事咪咕播36,https://msj.188766.xyz/play?id=3000000020000011521&token=eb31361deb31361deb31361deb31361d
 赛事咪咕播37,https://msj.188766.xyz/play?id=3000000020000011521&token=bdee9198bdee9198bdee9198bdee9198
 赛事咪咕播37,https://msj.188766.xyz/play?id=3000000020000011521&token=73f45d1e73f45d1e73f45d1e73f45d1e
 赛事咪咕播38,https://msj.188766.xyz/play?id=3000000020000011522&token=bdee9199bdee9199bdee9199bdee9199
@@ -5387,4 +5391,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2025-11-29 18:30:41,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-11-30 06:28:11,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
