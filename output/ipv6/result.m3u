@@ -2715,6 +2715,8 @@ https://cdn9.163189.xyz/smt1.1.php?id=rhk32_twn
 http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
 #EXTINF:-1 tvg-name="RTHK-32" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK-32.png" group-title="港*澳*台",RTHK-32
 http://cdn.163189.xyz/163189/rthk32
+#EXTINF:-1 tvg-name="RTHK-33" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK-33.png" group-title="港*澳*台",RTHK-33
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="pₒₚc电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/pₒₚc电影.png" group-title="港*澳*台",pₒₚc电影
 http://tl.061833.xyz/tl/popc
 #EXTINF:-1 tvg-name="HOY 77" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/HOY 77.png" group-title="港*澳*台",HOY 77
@@ -10523,5 +10525,5 @@ http://iptv.666230.xyz/iptv/jsyd.php/R_CAIJING
 http://iptv.666230.xyz/iptv/jsyd.php/R_WENYI
 #EXTINF:-1 tvg-name="江苏新闻广播" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏新闻广播.png" group-title="广播电台",江苏新闻广播
 http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-30 06:28:11
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-30 18:29:44
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
