@@ -1329,6 +1329,7 @@ TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河,http://r.jdshipin.com/sXuuD
 TVB星河,https://hk.188766.xyz/?migutoken=4a73f8ed1782d6ff6716355414d39657&id=hk_tvbxh&type=dy
+TVB星河,https://hk.188766.xyz/?migutoken=443e239f7ebf9f7a0cc5ae450f97cce8&id=hk_tvbxh&type=dy
 有线新闻,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
@@ -1344,12 +1345,14 @@ Now新闻,http://cdn.163189.xyz/163189/now
 Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,http://hls.168.us.kg/u/332/master.m3u8
 Now新闻,https://hk.188766.xyz/?migutoken=d958e03e74fadaf6d25e9cd3d23a955a&id=hk_now&type=dy
+Now新闻,https://hk.188766.xyz/?migutoken=1f89223e1c5a367a37da9137844a4063&id=hk_now&type=dy
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8
 澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
 澳视澳门,https://cdn6.101.qzz.io/163189/asam
 澳视澳门,http://r.jdshipin.com/n2YZI
 澳视澳门,https://hk.188766.xyz/?migutoken=9892fb89231a506b2c2f339afd96c7fe&id=hk_asam&type=dy
+澳视澳门,https://hk.188766.xyz/?migutoken=d6350cfc51984db655973d4b109d1f24&id=hk_asam&type=dy
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
 澳视卫星,https://cdn.163189.xyz/live/as/stream.m3u8
 澳视卫星,http://php.jdshipin.com/PLTV/iptv.php?id=as
@@ -4658,6 +4661,7 @@ dj舞曲金典,https://vd2.bdstatic.com/mda-mkk0g8x89nnx62tm/sc/cae_h264/1637456
 叶弦清归去来兮,https://vd2.bdstatic.com/mda-pc3ehnng4wk6jf7a/sc/cae_h264/1677925573265006809/mda-pc3ehnng4wk6jf7a.mp4
 叶筱萱爱到最后是孤独,https://vd4.bdstatic.com/mda-mh9fjm2j86uyymfa/1080p/cae_h264/1628593607912074882/mda-mh9fjm2j86uyymfa.mp4
 后悔爱上你,https://vd2.bdstatic.com/mda-je6u5fedd3sf9w5s/mda-je6u5fedd3sf9w5s.mp4
+吕方朋友别哭,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/qgljCDKewD8vEgOMrrt%40%40sd.m3u8
 周慧敏痴心换情深,https://vd2.bdstatic.com/mda-pe149jv4g64zjrkq/sc/cae_h264/1683105245483119888/mda-pe149jv4g64zjrkq.mp4
 哥还是当年的哥超好听,https://vd3.bdstatic.com/mda-nbgnipfqnp99z7zq/sc/bd265_cae_delogo/1645155978347002274/mda-nbgnipfqnp99z7zq.mp4#
 喜欢干一杯,https://vd3.bdstatic.com/mda-jdrg91sn0bat1f74/hd/bd265_cae_delogo/1644145443442392086/mda-jdrg91sn0bat1f74.mp4
@@ -4839,6 +4843,7 @@ dj舞曲金典,https://vd2.bdstatic.com/mda-mkk0g8x89nnx62tm/sc/cae_h264/1637456
 花好月圆夜,https://vd4.bdstatic.com/mda-jjbmfp4as9f0eib2/v1-cae/sc/mda-jjbmfp4as9f0eib2.mp4
 花言巧语有何用,https://vd2.bdstatic.com/mda-nbfbr99k0mx0k3cb/sc/cae_h264_delogo/1644999744049606500/mda-nbfbr99k0mx0k3cb.mp4
 苍天不负有情人,https://vd3.bdstatic.com/mda-jm5iqyuj8bapffdb/hd/mda-jm5iqyuj8bapffdb.mp4
+草蜢宝贝对不起,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/RQdMfitGKCINh4BPzc9%40%40sd.m3u8
 蔡丽津月圆情,http://vd3.bdstatic.com/mda-jm53zq7k0b0kbxch/sc/mda-jm53zq7k0b0kbxch.mp4
 蔡国权用手去走路,https://vd3.bdstatic.com/mda-pdrhfjthugz58533/sc/cae_h264/1682559151357710705/mda-pdrhfjthugz58533.mp4
 让世界充满爱,https://vd4.bdstatic.com/mda-pcgn9bzvhu0mkdmx/sc/cae_h264/1679285022155114372/mda-pcgn9bzvhu0mkdmx.mp4
@@ -5261,4 +5266,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2025-12-02 06:27:56,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-02 18:33:00,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
