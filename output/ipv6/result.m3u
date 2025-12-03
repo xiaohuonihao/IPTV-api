@@ -2665,6 +2665,8 @@ http://hls.168.us.kg/u/332/master.m3u8
 https://hk.188766.xyz/?migutoken=d958e03e74fadaf6d25e9cd3d23a955a&id=hk_now&type=dy
 #EXTINF:-1 tvg-name="Now新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/Now新闻.png" group-title="港*澳*台",Now新闻
 https://hk.188766.xyz/?migutoken=1f89223e1c5a367a37da9137844a4063&id=hk_now&type=dy
+#EXTINF:-1 tvg-name="Now新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/Now新闻.png" group-title="港*澳*台",Now新闻
+https://hk.188766.xyz/?migutoken=683f0250c33aba37dd73b6e073c1df99&id=hk_now&type=dy
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/澳视澳门.png" group-title="港*澳*台",澳视澳门
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/澳视澳门.png" group-title="港*澳*台",澳视澳门
@@ -2679,6 +2681,8 @@ http://r.jdshipin.com/n2YZI
 https://hk.188766.xyz/?migutoken=9892fb89231a506b2c2f339afd96c7fe&id=hk_asam&type=dy
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/澳视澳门.png" group-title="港*澳*台",澳视澳门
 https://hk.188766.xyz/?migutoken=d6350cfc51984db655973d4b109d1f24&id=hk_asam&type=dy
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/澳视澳门.png" group-title="港*澳*台",澳视澳门
+https://hk.188766.xyz/?migutoken=471241753d79c51ee6d2b9cfdf8c5f0b&id=hk_asam&type=dy
 #EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/澳视卫星.png" group-title="港*澳*台",澳视卫星
 http://php.jdshipin.com/TVOD/iptv.php?id=as
 #EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/澳视卫星.png" group-title="港*澳*台",澳视卫星
@@ -2727,8 +2731,6 @@ https://cdn9.163189.xyz/smt1.1.php?id=rhk32_twn
 http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
 #EXTINF:-1 tvg-name="RTHK-32" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK-32.png" group-title="港*澳*台",RTHK-32
 http://cdn.163189.xyz/163189/rthk32
-#EXTINF:-1 tvg-name="RTHK-33" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK-33.png" group-title="港*澳*台",RTHK-33
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="pₒₚc电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/pₒₚc电影.png" group-title="港*澳*台",pₒₚc电影
 http://tl.061833.xyz/tl/popc
 #EXTINF:-1 tvg-name="HOY 77" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/HOY 77.png" group-title="港*澳*台",HOY 77
@@ -9369,8 +9371,6 @@ https://vd2.bdstatic.com/mda-pc3ehnng4wk6jf7a/sc/cae_h264/1677925573265006809/md
 https://vd4.bdstatic.com/mda-mh9fjm2j86uyymfa/1080p/cae_h264/1628593607912074882/mda-mh9fjm2j86uyymfa.mp4
 #EXTINF:-1 tvg-name="后悔爱上你" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/后悔爱上你.png" group-title="音乐频道",后悔爱上你
 https://vd2.bdstatic.com/mda-je6u5fedd3sf9w5s/mda-je6u5fedd3sf9w5s.mp4
-#EXTINF:-1 tvg-name="吕方朋友别哭" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/吕方朋友别哭.png" group-title="音乐频道",吕方朋友别哭
-http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/qgljCDKewD8vEgOMrrt%40%40sd.m3u8
 #EXTINF:-1 tvg-name="周慧敏痴心换情深" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/周慧敏痴心换情深.png" group-title="音乐频道",周慧敏痴心换情深
 https://vd2.bdstatic.com/mda-pe149jv4g64zjrkq/sc/cae_h264/1683105245483119888/mda-pe149jv4g64zjrkq.mp4
 #EXTINF:-1 tvg-name="哥还是当年的哥超好听" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/哥还是当年的哥超好听.png" group-title="音乐频道",哥还是当年的哥超好听
@@ -9733,8 +9733,6 @@ https://vd4.bdstatic.com/mda-jjbmfp4as9f0eib2/v1-cae/sc/mda-jjbmfp4as9f0eib2.mp4
 https://vd2.bdstatic.com/mda-nbfbr99k0mx0k3cb/sc/cae_h264_delogo/1644999744049606500/mda-nbfbr99k0mx0k3cb.mp4
 #EXTINF:-1 tvg-name="苍天不负有情人" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/苍天不负有情人.png" group-title="音乐频道",苍天不负有情人
 https://vd3.bdstatic.com/mda-jm5iqyuj8bapffdb/hd/mda-jm5iqyuj8bapffdb.mp4
-#EXTINF:-1 tvg-name="草蜢宝贝对不起" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/草蜢宝贝对不起.png" group-title="音乐频道",草蜢宝贝对不起
-http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/RQdMfitGKCINh4BPzc9%40%40sd.m3u8
 #EXTINF:-1 tvg-name="蔡丽津月圆情" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/蔡丽津月圆情.png" group-title="音乐频道",蔡丽津月圆情
 http://vd3.bdstatic.com/mda-jm53zq7k0b0kbxch/sc/mda-jm53zq7k0b0kbxch.mp4
 #EXTINF:-1 tvg-name="蔡国权用手去走路" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/蔡国权用手去走路.png" group-title="音乐频道",蔡国权用手去走路
@@ -10535,5 +10533,5 @@ http://iptv.666230.xyz/iptv/jsyd.php/R_CAIJING
 http://iptv.666230.xyz/iptv/jsyd.php/R_WENYI
 #EXTINF:-1 tvg-name="江苏新闻广播" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏新闻广播.png" group-title="广播电台",江苏新闻广播
 http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-03 06:28:09
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-03 18:34:07
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
