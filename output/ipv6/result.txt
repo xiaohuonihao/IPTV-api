@@ -955,6 +955,7 @@ Skysports F1,https://smt.858.qzz.io/Smart.php
 Skysports F1,https://smt.858.qzz.io/Smart.php?id=tiankongf1
 Skysports F1,https://smart.pendy.dpdns.org/Smart.php?id=tiankongf1
 Skysports F1,https://tzh911.qzz.io/play-smt.php?id=tiankongf1
+Skysports F1,https://smt.go-iptv.ggff.net/smart.php?id=tiankongf1&token=Goiptv
 美国摔跤,https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8
 天元围棋,https://cc06.tv12.xyz/47.m3u8
 天元围棋,http://wouu.net:9977/udp/239.93.42.55:5140
@@ -1331,6 +1332,7 @@ TVB星河,http://r.jdshipin.com/sXuuD
 TVB星河,https://hk.188766.xyz/?migutoken=4a73f8ed1782d6ff6716355414d39657&id=hk_tvbxh&type=dy
 TVB星河,https://hk.188766.xyz/?migutoken=443e239f7ebf9f7a0cc5ae450f97cce8&id=hk_tvbxh&type=dy
 有线新闻,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
+有线新闻,https://smt.go-iptv.ggff.net/smart.php?id=hoycaijing_twn&token=Goiptv
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
@@ -1347,6 +1349,7 @@ Now新闻,http://hls.168.us.kg/u/332/master.m3u8
 Now新闻,https://hk.188766.xyz/?migutoken=d958e03e74fadaf6d25e9cd3d23a955a&id=hk_now&type=dy
 Now新闻,https://hk.188766.xyz/?migutoken=1f89223e1c5a367a37da9137844a4063&id=hk_now&type=dy
 Now新闻,https://hk.188766.xyz/?migutoken=683f0250c33aba37dd73b6e073c1df99&id=hk_now&type=dy
+Now新闻,https://hk.188766.xyz/?migutoken=011b88a99a4e77fcb8262e7836bedc35&id=hk_now&type=dy
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8
 澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
@@ -1355,6 +1358,7 @@ Now新闻,https://hk.188766.xyz/?migutoken=683f0250c33aba37dd73b6e073c1df99&id=h
 澳视澳门,https://hk.188766.xyz/?migutoken=9892fb89231a506b2c2f339afd96c7fe&id=hk_asam&type=dy
 澳视澳门,https://hk.188766.xyz/?migutoken=d6350cfc51984db655973d4b109d1f24&id=hk_asam&type=dy
 澳视澳门,https://hk.188766.xyz/?migutoken=471241753d79c51ee6d2b9cfdf8c5f0b&id=hk_asam&type=dy
+澳视澳门,https://hk.188766.xyz/?migutoken=5db3947dc88059726423f6821838bc81&id=hk_asam&type=dy
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
 澳视卫星,https://cdn.163189.xyz/live/as/stream.m3u8
 澳视卫星,http://php.jdshipin.com/PLTV/iptv.php?id=as
@@ -1390,6 +1394,7 @@ HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+美亚电影,https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
 台视,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv066
 台视,https://tv.iill.top/litv/4gtv-4gtv066
 台视,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv066
@@ -1658,6 +1663,7 @@ Animax,https://smt.858.qzz.io/Smart.php
 Animax,https://smt.858.qzz.io/Smart.php?id=Animax
 Animax,https://smart.pendy.dpdns.org/Smart.php?id=Animax
 Animax,https://tzh911.qzz.io/play-smt.php?id=Animax
+Animax,https://smt.go-iptv.ggff.net/smart.php?id=Animax&token=Goiptv
 美食星球,http://free.cnlive.club/channel/6272ba2c.m3u8
 亚洲美食,http://pullpackage.alivecdn.com/live/p5HpHnJAym8SCQH745OfVD3vebxkKjhoHVzddBzXJs4Z8nFnxO.flv
 亚洲美食,http://free.cnlive.club/channel/4b914480.m3u8
@@ -3018,6 +3024,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 倚天屠龙记,https://yylunbo.ottiptv.cc/yy/33300793
 倚天屠龙记,https://live.ottiptv.cc/huya/11342403
 倚天屠龙记,https://yylunbo.ottiptv.cc/yy/1507704566
+倚天屠龙记,https://live.ottiptv.cc/bilibili/14262592
 铁齿铜牙纪晓岚,https://yylunbo.ottiptv.cc/yy/1382781415
 铁齿铜牙纪晓岚,https://live.ottiptv.cc/huya/11342396
 康熙王朝,https://yylunbo.ottiptv.cc/yy/1382851583
@@ -3496,15 +3503,19 @@ Q版三国剧集,http://rihou.cc:555/huyad.php?id=29465871
 赛事咪咕播33,https://msj.188766.xyz/play?id=3000000010000031669&token=2926121e2926121e2926121e2926121e
 赛事咪咕播33,https://msj.188766.xyz/play?id=3000000010000031669&token=df2bdda4df2bdda4df2bdda4df2bdda4
 赛事咪咕播33,https://msj.188766.xyz/play?id=3000000020000011518&token=eb313605eb313605eb313605eb313605
+赛事咪咕播33,https://msj.188766.xyz/play?id=3000000020000011518&token=c553c69fc553c69fc553c69fc553c69f
 赛事咪咕播34,https://msj.188766.xyz/play?id=3000000020000011518&token=bdee9180bdee9180bdee9180bdee9180
 赛事咪咕播34,https://msj.188766.xyz/play?id=3000000020000011518&token=73f45d0673f45d0673f45d0673f45d06
 赛事咪咕播34,https://msj.188766.xyz/play?id=3000000020000011519&token=eb313606eb313606eb313606eb313606
+赛事咪咕播34,https://msj.188766.xyz/play?id=3000000020000011519&token=c553c6a0c553c6a0c553c6a0c553c6a0
 赛事咪咕播35,https://msj.188766.xyz/play?id=3000000020000011519&token=bdee9181bdee9181bdee9181bdee9181
 赛事咪咕播35,https://msj.188766.xyz/play?id=3000000020000011519&token=73f45d0773f45d0773f45d0773f45d07
 赛事咪咕播35,https://msj.188766.xyz/play?id=3000000020000011520&token=eb31361ceb31361ceb31361ceb31361c
+赛事咪咕播35,https://msj.188766.xyz/play?id=3000000020000011520&token=c553c6b6c553c6b6c553c6b6c553c6b6
 赛事咪咕播36,https://msj.188766.xyz/play?id=3000000020000011520&token=bdee9197bdee9197bdee9197bdee9197
 赛事咪咕播36,https://msj.188766.xyz/play?id=3000000020000011520&token=73f45d1d73f45d1d73f45d1d73f45d1d
 赛事咪咕播36,https://msj.188766.xyz/play?id=3000000020000011521&token=eb31361deb31361deb31361deb31361d
+赛事咪咕播36,https://msj.188766.xyz/play?id=3000000020000011521&token=c553c6b7c553c6b7c553c6b7c553c6b7
 赛事咪咕播37,https://msj.188766.xyz/play?id=3000000020000011521&token=bdee9198bdee9198bdee9198bdee9198
 赛事咪咕播37,https://msj.188766.xyz/play?id=3000000020000011521&token=73f45d1e73f45d1e73f45d1e73f45d1e
 赛事咪咕播38,https://msj.188766.xyz/play?id=3000000020000011522&token=bdee9199bdee9199bdee9199bdee9199
@@ -3861,6 +3872,7 @@ iHOT爱动漫,http://[2409:8087:5e08:24::17]:6610/000000001000/20000000040000000
 iHOT爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8
 
 舞曲,#genre#
+浪子闲话,https://v4-vod.kwaicdn.com/bs3/video-hls/5210383404224451227_hlsb.m3u8?ftt=R&pkey=AAXQdQrGksz-XD2RBhGklNiauXKhCZvMhALeOZLZPhlvliW1qkft7nvltrxs3I-HHznQpZVHIiKW44jvqNBFj39NboYpb0SCJJUxbGSQb88EfLH5ibzpJsmhGW6P1idVX3M&ss=vp
 天若有情,http://jsmov2.a.yximgs.com/bs3/video-hls/5246412168297899387_hlsb.m3u8
 
 dj歌曲,#genre#
@@ -4662,7 +4674,6 @@ dj舞曲金典,https://vd2.bdstatic.com/mda-mkk0g8x89nnx62tm/sc/cae_h264/1637456
 叶弦清归去来兮,https://vd2.bdstatic.com/mda-pc3ehnng4wk6jf7a/sc/cae_h264/1677925573265006809/mda-pc3ehnng4wk6jf7a.mp4
 叶筱萱爱到最后是孤独,https://vd4.bdstatic.com/mda-mh9fjm2j86uyymfa/1080p/cae_h264/1628593607912074882/mda-mh9fjm2j86uyymfa.mp4
 后悔爱上你,https://vd2.bdstatic.com/mda-je6u5fedd3sf9w5s/mda-je6u5fedd3sf9w5s.mp4
-吕方朋友别哭,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/qgljCDKewD8vEgOMrrt%40%40sd.m3u8
 周慧敏痴心换情深,https://vd2.bdstatic.com/mda-pe149jv4g64zjrkq/sc/cae_h264/1683105245483119888/mda-pe149jv4g64zjrkq.mp4
 哥还是当年的哥超好听,https://vd3.bdstatic.com/mda-nbgnipfqnp99z7zq/sc/bd265_cae_delogo/1645155978347002274/mda-nbgnipfqnp99z7zq.mp4#
 喜欢干一杯,https://vd3.bdstatic.com/mda-jdrg91sn0bat1f74/hd/bd265_cae_delogo/1644145443442392086/mda-jdrg91sn0bat1f74.mp4
@@ -4844,7 +4855,6 @@ dj舞曲金典,https://vd2.bdstatic.com/mda-mkk0g8x89nnx62tm/sc/cae_h264/1637456
 花好月圆夜,https://vd4.bdstatic.com/mda-jjbmfp4as9f0eib2/v1-cae/sc/mda-jjbmfp4as9f0eib2.mp4
 花言巧语有何用,https://vd2.bdstatic.com/mda-nbfbr99k0mx0k3cb/sc/cae_h264_delogo/1644999744049606500/mda-nbfbr99k0mx0k3cb.mp4
 苍天不负有情人,https://vd3.bdstatic.com/mda-jm5iqyuj8bapffdb/hd/mda-jm5iqyuj8bapffdb.mp4
-草蜢宝贝对不起,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/RQdMfitGKCINh4BPzc9%40%40sd.m3u8
 蔡丽津月圆情,http://vd3.bdstatic.com/mda-jm53zq7k0b0kbxch/sc/mda-jm53zq7k0b0kbxch.mp4
 蔡国权用手去走路,https://vd3.bdstatic.com/mda-pdrhfjthugz58533/sc/cae_h264/1682559151357710705/mda-pdrhfjthugz58533.mp4
 让世界充满爱,https://vd4.bdstatic.com/mda-pcgn9bzvhu0mkdmx/sc/cae_h264/1679285022155114372/mda-pcgn9bzvhu0mkdmx.mp4
@@ -5267,4 +5277,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2025-12-04 06:30:53,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-04 18:34:15,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
