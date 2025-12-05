@@ -956,6 +956,7 @@ Skysports F1,https://smt.858.qzz.io/Smart.php?id=tiankongf1
 Skysports F1,https://smart.pendy.dpdns.org/Smart.php?id=tiankongf1
 Skysports F1,https://tzh911.qzz.io/play-smt.php?id=tiankongf1
 Skysports F1,https://smt.go-iptv.ggff.net/smart.php?id=tiankongf1&token=Goiptv
+Skysports F1,http://jp.809899.xyz/smt.php?id=tiankongf1
 美国摔跤,https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8
 天元围棋,https://cc06.tv12.xyz/47.m3u8
 天元围棋,http://wouu.net:9977/udp/239.93.42.55:5140
@@ -1334,6 +1335,7 @@ TVB星河,https://hk.188766.xyz/?migutoken=4a73f8ed1782d6ff6716355414d39657&id=h
 TVB星河,https://hk.188766.xyz/?migutoken=443e239f7ebf9f7a0cc5ae450f97cce8&id=hk_tvbxh&type=dy
 有线新闻,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
 有线新闻,https://smt.go-iptv.ggff.net/smart.php?id=hoycaijing_twn&token=Goiptv
+有线新闻,http://jp.809899.xyz/smt.php?id=hoycaijing_twn
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
@@ -1351,6 +1353,7 @@ Now新闻,https://hk.188766.xyz/?migutoken=d958e03e74fadaf6d25e9cd3d23a955a&id=h
 Now新闻,https://hk.188766.xyz/?migutoken=1f89223e1c5a367a37da9137844a4063&id=hk_now&type=dy
 Now新闻,https://hk.188766.xyz/?migutoken=683f0250c33aba37dd73b6e073c1df99&id=hk_now&type=dy
 Now新闻,https://hk.188766.xyz/?migutoken=011b88a99a4e77fcb8262e7836bedc35&id=hk_now&type=dy
+Now新闻,https://hk.188766.xyz/?migutoken=3ea265992823f9f656d4582161fd3265&id=hk_now&type=dy
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8
 澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
@@ -1360,6 +1363,7 @@ Now新闻,https://hk.188766.xyz/?migutoken=011b88a99a4e77fcb8262e7836bedc35&id=h
 澳视澳门,https://hk.188766.xyz/?migutoken=d6350cfc51984db655973d4b109d1f24&id=hk_asam&type=dy
 澳视澳门,https://hk.188766.xyz/?migutoken=471241753d79c51ee6d2b9cfdf8c5f0b&id=hk_asam&type=dy
 澳视澳门,https://hk.188766.xyz/?migutoken=5db3947dc88059726423f6821838bc81&id=hk_asam&type=dy
+澳视澳门,https://hk.188766.xyz/?migutoken=6979d32287677730952e5a88431ffa0f&id=hk_asam&type=dy
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
 澳视卫星,https://cdn.163189.xyz/live/as/stream.m3u8
 澳视卫星,http://php.jdshipin.com/PLTV/iptv.php?id=as
@@ -1384,6 +1388,7 @@ RTHK-32,https://smt.1678520.xyz/smt3.2.1.php?id=rhk32_twn
 RTHK-32,https://cdn9.163189.xyz/smt1.1.php?id=rhk32_twn
 RTHK-32,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
 RTHK-32,http://cdn.163189.xyz/163189/rthk32
+RTHK-33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 pₒₚc电影,http://tl.061833.xyz/tl/popc
 HOY 77,https://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php
@@ -1396,6 +1401,7 @@ HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亚电影,https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
+美亚电影,http://jp.809899.xyz/smt.php?id=meiyamovie_twn
 台视,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv066
 台视,https://tv.iill.top/litv/4gtv-4gtv066
 台视,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv066
@@ -1665,6 +1671,7 @@ Animax,https://smt.858.qzz.io/Smart.php?id=Animax
 Animax,https://smart.pendy.dpdns.org/Smart.php?id=Animax
 Animax,https://tzh911.qzz.io/play-smt.php?id=Animax
 Animax,https://smt.go-iptv.ggff.net/smart.php?id=Animax&token=Goiptv
+Animax,http://jp.809899.xyz/smt.php?id=Animax
 美食星球,http://free.cnlive.club/channel/6272ba2c.m3u8
 亚洲美食,http://pullpackage.alivecdn.com/live/p5HpHnJAym8SCQH745OfVD3vebxkKjhoHVzddBzXJs4Z8nFnxO.flv
 亚洲美食,http://free.cnlive.club/channel/4b914480.m3u8
@@ -2633,6 +2640,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 鹤岗新闻综合,http://[2409:8087:1a01:df::4059]:80/TVOD/88888888/224/3221226073/main.m3u8
 鹤岗新闻综合,http://[2409:8087:1a01:df::4060]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
 鹤岗新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+鹤岗新闻综合,http://[2409:8087:1a01:df::4060]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
 
 河北,#genre#
 河北农民,https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd#http://hbfc.chinashadt.com:2036/live/1003.stream/playlist.m3u8#http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38
@@ -2815,6 +2823,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 鹤岗新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226534
 鹤岗新闻综合,http://[2409:8087:1a01:df::4059]:80/TVOD/88888888/224/3221226073/main.m3u8
 鹤岗新闻综合,http://[2409:8087:1a01:df::4060]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+鹤岗新闻综合,http://[2409:8087:1a01:df::4060]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
 佳木斯新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226451
 齐齐哈尔新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226437
 齐齐哈尔新闻综合,http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
@@ -5280,4 +5289,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2025-12-05 06:27:43,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-05 18:31:47,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
