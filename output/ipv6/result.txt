@@ -899,6 +899,7 @@ CCTV-5+,http://3501776.xyz:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
 五星体育,https://other.ottiptv.cc/wxty.m3u8
 五星体育,https://iptv.catvod.com/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2
 五星体育,http://shyd.695847.xyz/cms001/ch00000090990000001018/index.m3u8?IAS
+五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
 劲爆体育,http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000002000000008
 劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
 劲爆体育,http://3501776.xyz:35455/itv/5000000002000029972.m3u8?cdn=bestzb
@@ -1410,7 +1411,6 @@ RTHK-32,https://smt.1678520.xyz/smt3.2.1.php?id=rhk32_twn
 RTHK-32,https://cdn9.163189.xyz/smt1.1.php?id=rhk32_twn
 RTHK-32,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
 RTHK-32,http://cdn.163189.xyz/163189/rthk32
-RTHK-33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 pₒₚc电影,http://tl.061833.xyz/tl/popc
 HOY 77,https://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php
@@ -1706,6 +1706,7 @@ cn卡通,http://pullpackage.alivecdn.com/live/S31m2rw7UUNxgJaq9YeLysJgqOz7htk7A1
 五星体育,https://other.ottiptv.cc/wxty.m3u8
 五星体育,https://iptv.catvod.com/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2
 五星体育,http://shyd.695847.xyz/cms001/ch00000090990000001018/index.m3u8?IAS
+五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
 HBO,http://pullpackage.alivecdn.com/live/GfPVn0eDChnsJgqOmsvZeKXYTNMgH8clNLUesg4VlSCLjkEICb.flv
 HBO,https://bee.188766.xyz/bee?id=beesport&pid=HBO&token=e45259d7e45259d7e45259d7e45259d7
 HBO,https://smart.pendy.dpdns.org/Smart.php?id=Hbo
@@ -1726,11 +1727,13 @@ Animax,http://jp.809899.xyz/smt.php?id=Animax
 博斯网球,http://pullpackage.alivecdn.com/live/8zU0swMFiNzCmM4UR8nGnBHBzyR2zddBzos3DpAMBFw541akw1.flv
 astroAec,http://php.jdshipin.com/smt.php?id=AEC
 astroAod,http://php.jdshipin.com/smt.php?id=Aodhd
+astroAod,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 astro欢喜,http://php.jdshipin.com/smt.php?id=Huahee
 astro爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 
 演*唱*会,#genre#
 ⬇️欣赏粤韵音乐⬇️,https://cloud.7so.top/f/Q1ZWso/80%E5%B9%B4%E4%BB%A3%E8%B5%B0%E8%B7%AF.mp4
+⬇️欣赏粤韵音乐⬇️,https://suo.yt/R6oJbv0
 
 经典小品,#genre#
 赵本山小品,http://cdn.jdshipin.com:8880/douyu.php?id=9817716
@@ -2152,6 +2155,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
 上海都市,https://zby.130519.xyz/PLTV/11/224/3221225749/index.m3u8
 上海都市,http://shyd.695847.xyz/cms001/ch00000090990000001015/index.m3u8?IAS
+上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
 东方影视,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032212
 东方影视,http://z.b.bkpcp.top/m.php?id=shys
 东方影视,http://gat.bkpcp.top/ymg.php?id=shys
@@ -2210,6 +2214,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 第一财经,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8
 第一财经,https://www.freetv.top/migu/608780988.m3u8?migutoken=62e21890acbd9928d0be0b4eae9f5e32e1879604b785ee7ce8751d5001a9ff431d7714025aa03d48a2b190ff214e5115dcb6ba455c3d26b1db0f5b3cb49c5967429ff3b1fe8e96e87cc6146543
 第一财经,http://shyd.695847.xyz/cms001/ch00000090990000001017/index.m3u8?IAS
+第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
 纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 纪实人文,http://wuyivip.nyc.mn:8888/udp/239.1.1.45:8045
 纪实人文,http://shyd.695847.xyz/cms001/ch00000090990000001019/index.m3u8?IAS
@@ -2469,6 +2474,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 镇江新闻综合,http://gslbmgsplive.miguvideo.com/migu/kailu/zjxwzh/50/20251127/index.m3u8?msisdn=20251206080345c6b198548f7a4137bc34f4fc1877f2c2&mdspid=&spid=699067&netType=0&sid=5500469365&pid=2028597139&timestamp=20251206080345&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=639731783&ParentNodeID=-99&assertID=5500469365&client_ip=218.28.233.106&SecurityKey=20251206080345&promotionId=&mvid=5102012619&mcid=500020&playurlVersion=WX-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=5d35d17d8948be41fe9df1c12a69cc94&ddCalcu=459dvc3ac5x9da61a72d18c914f8db9ee4f1&sv=10004&ct=android
 镇江新闻综合,http://gslbmgsplive.miguvideo.com/migu/kailu/zjxwzh/50/20251127/index.m3u8?msisdn=202512070804180dc971d1028249d9ba74a7370ff6b1c3&mdspid=&spid=699067&netType=0&sid=5500469365&pid=2028597139&timestamp=20251207080418&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=639731783&ParentNodeID=-99&assertID=5500469365&client_ip=218.28.233.106&SecurityKey=20251207080418&promotionId=&mvid=5102012619&mcid=500020&playurlVersion=WX-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=7b7c75694c990bae0016294382e20c45&ddCalcu=574bvc7a0cx27ae52689344c9929601b0a0e&sv=10004&ct=android
 镇江新闻综合,http://gslbmgsplive.miguvideo.com/migu/kailu/zjxwzh/50/20251127/index.m3u8?msisdn=20251208080341313571580fa8460da91165977ac1e06f&mdspid=&spid=699067&netType=0&sid=5500469365&pid=2028597139&timestamp=20251208080341&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=639731783&ParentNodeID=-99&assertID=5500469365&client_ip=218.28.233.106&SecurityKey=20251208080341&promotionId=&mvid=5102012619&mcid=500020&playurlVersion=WX-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=2c7a0ae2fd26eca75203005af08c49b5&ddCalcu=52bcv97a4axc0a8a0ef2af5d02063e0c2a57&sv=10004&ct=android
+镇江新闻综合,http://gslbmgsplive.miguvideo.com/migu/kailu/zjxwzh/50/20251127/index.m3u8?msisdn=202512090804173580256011aa4d078a2137bc1a9d5136&mdspid=&spid=699067&netType=0&sid=5500469365&pid=2028597139&timestamp=20251209080417&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=639731783&ParentNodeID=-99&assertID=5500469365&client_ip=218.28.233.106&SecurityKey=20251209080417&promotionId=&mvid=5102012619&mcid=500020&playurlVersion=WX-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f6e47246808c5e75188d4c264e6ec6a4&ddCalcu=4fa6v6eac4xe7a62e4466820c84cd58e8715&sv=10004&ct=android
 
 福建,#genre#
 云霄综合,https://live.zzyxxw.com:2443/live/xwzh.m3u8
@@ -4780,7 +4786,6 @@ dj舞曲金典,https://vd2.bdstatic.com/mda-mkk0g8x89nnx62tm/sc/cae_h264/1637456
 叶弦清归去来兮,https://vd2.bdstatic.com/mda-pc3ehnng4wk6jf7a/sc/cae_h264/1677925573265006809/mda-pc3ehnng4wk6jf7a.mp4
 叶筱萱爱到最后是孤独,https://vd4.bdstatic.com/mda-mh9fjm2j86uyymfa/1080p/cae_h264/1628593607912074882/mda-mh9fjm2j86uyymfa.mp4
 后悔爱上你,https://vd2.bdstatic.com/mda-je6u5fedd3sf9w5s/mda-je6u5fedd3sf9w5s.mp4
-吕方朋友别哭,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/qgljCDKewD8vEgOMrrt%40%40sd.m3u8
 周慧敏痴心换情深,https://vd2.bdstatic.com/mda-pe149jv4g64zjrkq/sc/cae_h264/1683105245483119888/mda-pe149jv4g64zjrkq.mp4
 哥还是当年的哥超好听,https://vd3.bdstatic.com/mda-nbgnipfqnp99z7zq/sc/bd265_cae_delogo/1645155978347002274/mda-nbgnipfqnp99z7zq.mp4#
 喜欢干一杯,https://vd3.bdstatic.com/mda-jdrg91sn0bat1f74/hd/bd265_cae_delogo/1644145443442392086/mda-jdrg91sn0bat1f74.mp4
@@ -4962,7 +4967,6 @@ dj舞曲金典,https://vd2.bdstatic.com/mda-mkk0g8x89nnx62tm/sc/cae_h264/1637456
 花好月圆夜,https://vd4.bdstatic.com/mda-jjbmfp4as9f0eib2/v1-cae/sc/mda-jjbmfp4as9f0eib2.mp4
 花言巧语有何用,https://vd2.bdstatic.com/mda-nbfbr99k0mx0k3cb/sc/cae_h264_delogo/1644999744049606500/mda-nbfbr99k0mx0k3cb.mp4
 苍天不负有情人,https://vd3.bdstatic.com/mda-jm5iqyuj8bapffdb/hd/mda-jm5iqyuj8bapffdb.mp4
-草蜢宝贝对不起,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/RQdMfitGKCINh4BPzc9%40%40sd.m3u8
 蔡丽津月圆情,http://vd3.bdstatic.com/mda-jm53zq7k0b0kbxch/sc/mda-jm53zq7k0b0kbxch.mp4
 蔡国权用手去走路,https://vd3.bdstatic.com/mda-pdrhfjthugz58533/sc/cae_h264/1682559151357710705/mda-pdrhfjthugz58533.mp4
 让世界充满爱,https://vd4.bdstatic.com/mda-pcgn9bzvhu0mkdmx/sc/cae_h264/1679285022155114372/mda-pcgn9bzvhu0mkdmx.mp4
@@ -5385,4 +5389,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2025-12-09 06:29:17,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-09 18:33:09,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
