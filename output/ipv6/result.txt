@@ -1489,6 +1489,7 @@ HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 中视新闻,https://tv.iill.top/litv/4gtv-4gtv074&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a780217564b2ab7896
 中视新闻,https://tv.iill.top/litv/4gtv-4gtv074&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54dac2eacd7d0dbd56b0a
 中视新闻,https://tv.iill.top/litv/4gtv-4gtv074&token=bde1753ec6759720c20ecedff6ec428eed4e2dd71d1433181fa7f50b8724a5bf
+中视新闻,https://tv.iill.top/litv/4gtv-4gtv074&token=bc76ab7564df296b4275f3dc9e3cead14dfa08c65b4ac7cd82092d502cef3a24
 民视新闻,https://tv.iill.top/litv/litv-ftv13
 民视新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv13
 民视新闻,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-ftv13
@@ -1497,6 +1498,7 @@ HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 民视新闻,https://tv.iill.top/litv/litv-ftv13&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a780217564b2ab7896
 民视新闻,https://tv.iill.top/litv/litv-ftv13&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54dac2eacd7d0dbd56b0a
 民视新闻,https://tv.iill.top/litv/litv-ftv13&token=bde1753ec6759720c20ecedff6ec428eed4e2dd71d1433181fa7f50b8724a5bf
+民视新闻,https://tv.iill.top/litv/litv-ftv13&token=bc76ab7564df296b4275f3dc9e3cead14dfa08c65b4ac7cd82092d502cef3a24
 台视新闻,https://tv.iill.top/litv/4gtv-4gtv051
 台视新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv051
 台视新闻,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv051/index.m3u8
@@ -1526,6 +1528,7 @@ HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 寰宇新闻,https://tv.iill.top/litv/litv-longturn14&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a780217564b2ab7896
 寰宇新闻,https://tv.iill.top/litv/litv-longturn14&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54dac2eacd7d0dbd56b0a
 寰宇新闻,https://tv.iill.top/litv/litv-longturn14&token=bde1753ec6759720c20ecedff6ec428eed4e2dd71d1433181fa7f50b8724a5bf
+寰宇新闻,https://tv.iill.top/litv/litv-longturn14&token=bc76ab7564df296b4275f3dc9e3cead14dfa08c65b4ac7cd82092d502cef3a24
 三立新闻,http://pullpackage.alivecdn.com/live/GDGMQBLKWMPhyKJYSPPR6dnb2lS3FvykpFuj8AZf19Mbfd2yjx.flv
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立新闻,https://tv.iill.top/4gtv/229
@@ -1535,6 +1538,7 @@ HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 非凡新闻,https://tv.iill.top/litv/4gtv-4gtv010&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a780217564b2ab7896
 非凡新闻,https://tv.iill.top/litv/4gtv-4gtv010&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54dac2eacd7d0dbd56b0a
 非凡新闻,https://tv.iill.top/litv/4gtv-4gtv010&token=bde1753ec6759720c20ecedff6ec428eed4e2dd71d1433181fa7f50b8724a5bf
+非凡新闻,https://tv.iill.top/litv/4gtv-4gtv010&token=bc76ab7564df296b4275f3dc9e3cead14dfa08c65b4ac7cd82092d502cef3a24
 CN卡通频道,http://pullpackage.alivecdn.com/live/S31m2rw7UUNxgJaq9YeLysJgqOz7htk7A1VwbXBom2OkGoom4h.flv
 中天新闻,https://tv.iill.top/litv/4gtv-4gtv009
 中天新闻,https://epg-1.iill.top/v/444.mp4
@@ -1553,6 +1557,7 @@ CN卡通频道,http://pullpackage.alivecdn.com/live/S31m2rw7UUNxgJaq9YeLysJgqOz7
 东森新闻,https://tv.iill.top/litv/4gtv-4gtv152&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a780217564b2ab7896
 东森新闻,https://tv.iill.top/litv/4gtv-4gtv152&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54dac2eacd7d0dbd56b0a
 东森新闻,https://tv.iill.top/litv/4gtv-4gtv152&token=bde1753ec6759720c20ecedff6ec428eed4e2dd71d1433181fa7f50b8724a5bf
+东森新闻,https://tv.iill.top/litv/4gtv-4gtv152&token=bc76ab7564df296b4275f3dc9e3cead14dfa08c65b4ac7cd82092d502cef3a24
 民视台湾台,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
 民视第一台,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 民视第一台,https://tv.iill.top/litv/4gtv-4gtv003
@@ -5582,6 +5587,7 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 交通广播,https://tv.iill.top/fm/557&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a780217564b2ab7896
 交通广播,https://tv.iill.top/fm/557&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54dac2eacd7d0dbd56b0a
 交通广播,https://tv.iill.top/fm/557&token=bde1753ec6759720c20ecedff6ec428eed4e2dd71d1433181fa7f50b8724a5bf
+交通广播,https://tv.iill.top/fm/557&token=bc76ab7564df296b4275f3dc9e3cead14dfa08c65b4ac7cd82092d502cef3a24
 中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv.m3u8
 中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv
 中广流行网,http://stream.rcs.revma.com/aw9uqyxy2tzuv.m3u8
@@ -5596,4 +5602,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2025-12-17 06:29:59,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-17 18:33:15,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
