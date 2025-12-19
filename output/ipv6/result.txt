@@ -1542,6 +1542,7 @@ HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 非凡新闻,https://tv.iill.top/litv/4gtv-4gtv010&token=bde1753ec6759720c20ecedff6ec428eed4e2dd71d1433181fa7f50b8724a5bf
 非凡新闻,https://tv.iill.top/litv/4gtv-4gtv010&token=bc76ab7564df296b4275f3dc9e3cead14dfa08c65b4ac7cd82092d502cef3a24
 非凡新闻,https://tv.iill.top/litv/4gtv-4gtv010&token=d01b299b3b7eff22e7b7962a052f17f146b2e5e7c020e54920b6b236fd31d6b1
+非凡新闻,https://tv.iill.top/litv/4gtv-4gtv010&token=18d1c387d427be148b32f27842c48c0a118c85e789664b986bfa64b09da442be
 CN卡通频道,http://pullpackage.alivecdn.com/live/S31m2rw7UUNxgJaq9YeLysJgqOz7htk7A1VwbXBom2OkGoom4h.flv
 中天新闻,https://tv.iill.top/litv/4gtv-4gtv009
 中天新闻,https://epg-1.iill.top/v/444.mp4
@@ -1562,6 +1563,7 @@ CN卡通频道,http://pullpackage.alivecdn.com/live/S31m2rw7UUNxgJaq9YeLysJgqOz7
 东森新闻,https://tv.iill.top/litv/4gtv-4gtv152&token=bde1753ec6759720c20ecedff6ec428eed4e2dd71d1433181fa7f50b8724a5bf
 东森新闻,https://tv.iill.top/litv/4gtv-4gtv152&token=bc76ab7564df296b4275f3dc9e3cead14dfa08c65b4ac7cd82092d502cef3a24
 东森新闻,https://tv.iill.top/litv/4gtv-4gtv152&token=d01b299b3b7eff22e7b7962a052f17f146b2e5e7c020e54920b6b236fd31d6b1
+东森新闻,https://tv.iill.top/litv/4gtv-4gtv152&token=18d1c387d427be148b32f27842c48c0a118c85e789664b986bfa64b09da442be
 民视台湾台,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
 民视第一台,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 民视第一台,https://tv.iill.top/litv/4gtv-4gtv003
@@ -3907,6 +3909,7 @@ Q版三国剧集,http://rihou.cc:555/huyad.php?id=29465871
 赛事咪咕播33,https://msj.188766.xyz/play?id=3000000020000011518&token=7b5992257b5992257b5992257b599225
 赛事咪咕播33,https://msj.188766.xyz/play?id=3000000020000011518&token=5370c03d5370c03d5370c03d5370c03d
 赛事咪咕播33,https://msj.188766.xyz/play?id=3000000020000011518&token=ae73a600ae73a600ae73a600ae73a600
+赛事咪咕播33,https://msj.188766.xyz/play?id=3000000020000011518&token=09768bc309768bc309768bc309768bc3
 赛事咪咕播34,https://msj.188766.xyz/play?id=3000000020000011518&token=bdee9180bdee9180bdee9180bdee9180
 赛事咪咕播34,https://msj.188766.xyz/play?id=3000000020000011518&token=73f45d0673f45d0673f45d0673f45d06
 赛事咪咕播34,https://msj.188766.xyz/play?id=3000000020000011519&token=eb313606eb313606eb313606eb313606
@@ -3915,6 +3918,7 @@ Q版三国剧集,http://rihou.cc:555/huyad.php?id=29465871
 赛事咪咕播34,https://msj.188766.xyz/play?id=3000000020000011519&token=7b5992267b5992267b5992267b599226
 赛事咪咕播34,https://msj.188766.xyz/play?id=3000000020000011519&token=5370c03e5370c03e5370c03e5370c03e
 赛事咪咕播34,https://msj.188766.xyz/play?id=3000000020000011519&token=ae73a601ae73a601ae73a601ae73a601
+赛事咪咕播34,https://msj.188766.xyz/play?id=3000000020000011519&token=09768bc409768bc409768bc409768bc4
 赛事咪咕播35,https://msj.188766.xyz/play?id=3000000020000011519&token=bdee9181bdee9181bdee9181bdee9181
 赛事咪咕播35,https://msj.188766.xyz/play?id=3000000020000011519&token=73f45d0773f45d0773f45d0773f45d07
 赛事咪咕播35,https://msj.188766.xyz/play?id=3000000020000011520&token=eb31361ceb31361ceb31361ceb31361c
@@ -3923,6 +3927,7 @@ Q版三国剧集,http://rihou.cc:555/huyad.php?id=29465871
 赛事咪咕播35,https://msj.188766.xyz/play?id=3000000020000011520&token=7b59923c7b59923c7b59923c7b59923c
 赛事咪咕播35,https://msj.188766.xyz/play?id=3000000020000011520&token=5370c0545370c0545370c0545370c054
 赛事咪咕播35,https://msj.188766.xyz/play?id=3000000020000011520&token=ae73a617ae73a617ae73a617ae73a617
+赛事咪咕播35,https://msj.188766.xyz/play?id=3000000020000011520&token=09768bda09768bda09768bda09768bda
 赛事咪咕播36,https://msj.188766.xyz/play?id=3000000020000011520&token=bdee9197bdee9197bdee9197bdee9197
 赛事咪咕播36,https://msj.188766.xyz/play?id=3000000020000011520&token=73f45d1d73f45d1d73f45d1d73f45d1d
 赛事咪咕播36,https://msj.188766.xyz/play?id=3000000020000011521&token=eb31361deb31361deb31361deb31361d
@@ -3931,6 +3936,7 @@ Q版三国剧集,http://rihou.cc:555/huyad.php?id=29465871
 赛事咪咕播36,https://msj.188766.xyz/play?id=3000000020000011521&token=7b59923d7b59923d7b59923d7b59923d
 赛事咪咕播36,https://msj.188766.xyz/play?id=3000000020000011521&token=5370c0555370c0555370c0555370c055
 赛事咪咕播36,https://msj.188766.xyz/play?id=3000000020000011521&token=ae73a618ae73a618ae73a618ae73a618
+赛事咪咕播36,https://msj.188766.xyz/play?id=3000000020000011521&token=09768bdb09768bdb09768bdb09768bdb
 赛事咪咕播37,https://msj.188766.xyz/play?id=3000000020000011521&token=bdee9198bdee9198bdee9198bdee9198
 赛事咪咕播37,https://msj.188766.xyz/play?id=3000000020000011521&token=73f45d1e73f45d1e73f45d1e73f45d1e
 赛事咪咕播38,https://msj.188766.xyz/play?id=3000000020000011522&token=bdee9199bdee9199bdee9199bdee9199
@@ -5730,6 +5736,7 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 交通广播,https://tv.iill.top/fm/557&token=bde1753ec6759720c20ecedff6ec428eed4e2dd71d1433181fa7f50b8724a5bf
 交通广播,https://tv.iill.top/fm/557&token=bc76ab7564df296b4275f3dc9e3cead14dfa08c65b4ac7cd82092d502cef3a24
 交通广播,https://tv.iill.top/fm/557&token=d01b299b3b7eff22e7b7962a052f17f146b2e5e7c020e54920b6b236fd31d6b1
+交通广播,https://tv.iill.top/fm/557&token=18d1c387d427be148b32f27842c48c0a118c85e789664b986bfa64b09da442be
 中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv.m3u8
 中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv
 中广流行网,http://stream.rcs.revma.com/aw9uqyxy2tzuv.m3u8
@@ -5744,4 +5751,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2025-12-19 06:28:39,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-19 18:31:58,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
