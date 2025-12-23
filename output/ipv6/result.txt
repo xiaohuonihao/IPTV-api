@@ -645,6 +645,11 @@ CCTV中学生,http://gslbmgsplive.miguvideo.com/migu/kailu/20210415/cctvzhongxue
 大湾区卫视,http://gslbmgsplive.miguvideo.com/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=2025110708005230778d0c454d4991b8faf3c0214860d4&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20251107080052&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=106.13.250.90&SecurityKey=20251107080052&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b6ed26e7cd7e03ca0514d0297a979763&ddCalcu=3b66e7e09d872096ae779c2d07de40135c0a
 大湾区卫视,https://www.freetv.top/migu/608917627.m3u8?migutoken=bad0a45eea94649f2e7f1b35e1d98d034b874a02984a76abb21e4537dee28f974e6da241dc7705109722be71c8b1302302b51cd4cb06c69ca55fdcf7279d415e0a0fce7c492b6842956ab34fcc
 大湾区卫视,https://www.freetv.top/migu/608917627.m3u8?migutoken=6e23ed23803d2776218fbd5b6931d4dd0d0a20d0269ca0da6b2efaaf101f71c62689ec1d6f73e16a10d1b756f7e23f0de494b881e2bc39c12250715721f84c185577680003f363869dba1b7e90
+美亚电影,https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
+美亚电影,https://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
+美亚电影,https://011v4.pendy.dpdns.org/stream/tvb/cmam/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc&token=tmxk
+美亚电影,https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8?token=tmxk
+美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn&token=tmxk
 中国天气,http://maoda.cc:9999/udp/239.81.0.63:4056
 中国天气,http://nas.home.plugintool.top:2333/udp/239.76.253.61:9000
 中国天气,http://gslbmgsplive.miguvideo.com/migu/kailu/zgtq/51/20251103/index.m3u8?msisdn=202511080800560889db55c56f44deb01de0745e3aa74d&mdspid=&spid=600697&netType=0&sid=5910022296&pid=2028597139&timestamp=20251108080056&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=959986621&ParentNodeID=-99&assertID=5910022296&client_ip=106.13.250.83&SecurityKey=20251108080056&promotionId=&mvid=5900006772&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=25038cc6f41f99d6cec3d914ed67a6c6&ddCalcu=62c5e600a397806cdce64f1491df39c9edc6
@@ -1360,6 +1365,16 @@ TVB PLUS,http://php.jdshipin.com/PLTV/iptv.php?id=j2
 TVB PLUS,http://jp.809899.xyz/smt.php?id=j2_twn
 TVB PLUS,http://php.666230.xyz/smt.php?id=j2_twn
 TVB PLUS,https://smart.dxjc.pp.ua/smart.php?id=j2_twn&token=tmxk
+美亚电影,http://tl.061833.xyz/tl/null-5
+美亚电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+美亚电影,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
+美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+美亚电影,https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
+美亚电影,http://jp.809899.xyz/smt.php?id=meiyamovie_twn
+美亚电影,https://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
+美亚电影,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
@@ -1513,16 +1528,6 @@ RTHK-33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 pₒₚc电影,http://tl.061833.xyz/tl/popc
 HOY 77,https://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-美亚电影,http://tl.061833.xyz/tl/null-5
-美亚电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-美亚电影,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
-美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
-美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-美亚电影,https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
-美亚电影,http://jp.809899.xyz/smt.php?id=meiyamovie_twn
-美亚电影,https://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
-美亚电影,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 台视,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv066
 台视,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv066
 台视,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv066
@@ -6017,4 +6022,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2025-12-23 18:55:38,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-24 06:53:20,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
