@@ -430,6 +430,8 @@ CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 TVBJ1
 TVBJ2
 TVB PLUS
+美亚电影
+星空
 tvbs闽南频道
 无线翡翠台
 无线新闻
@@ -472,7 +474,7 @@ pₒₚc电影
 HOY TV
 HOY 77
 HOY 78
-美亚电影
+
 台视
 中视
 华视
