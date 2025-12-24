@@ -111,18 +111,60 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 江苏综艺 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
 浙江少儿 (1080p),https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 湖南都市 (576p),http://hnsd.chinashadt.com:2036/live/stream:hunandushi.stream/playlist.m3u8
+Animation Show Channel,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1
 滁州市广播电视台 公共频道 (400p),http://live.cztv.cc:85/live/ggpd.m3u8
+Anshun Comprehensive News Channel,https://hplayer1.juyun.tv/camera/154379194.m3u8
+Beijing Traffic Radio TV [Geo-blocked],http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8
 滁州市广播电视台 新闻综合频道 (1080p),http://live.cztv.cc:85/live/xwpd.m3u8
+Beijing Youth Radio [Geo-blocked],http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
 滁州市广播电视台 科教频道 (400p),http://live.cztv.cc:85/live/sjpd.m3u8
+Bingtuan Satellite TV,http://49.113.179.174:4022/udp/238.125.4.13:5140
 白城新闻综合 [Geo-blocked],https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
+Bread TV面包台 (720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 萍鄉新聞綜合 (576p) [Not 24/7],http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
+BRTV Kaku Childrens Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140
 西安丝路 (404p) [Not 24/7],http://stream2.xiancity.cn/xatv5/playlist.m3u8
+CGTN,https://0472.org/hls/cgtn.m3u8
+BRTV Kaku Childrens Channel,http://223.72.123.28:85/tsfile/live/1026_1.m3u8?authid=0&key=txiptv&playlive=1
 西安商务资讯 (180p) [Not 24/7],http://stream2.xiancity.cn/xatv3/playlist.m3u8
+CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+BRTV Kaku Childrens Channel,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
 酒泉新闻综合 (576p),http://117.156.28.119/270000001111/1110000001/index.m3u8
+CGTN,https://play.kankanlive.com/live/1698423645566913.m3u8
+湖南卫视4K,http://101.35.240.114:88/live.php?id=湖南卫视4K
+BRTV Science & Education Channel,http://49.113.179.174:4022/udp/238.125.3.121:5140
 长沙女性 [Geo-blocked],http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
+浙江卫视4K,http://101.35.240.114:88/live.php?id=浙江卫视4K
+BRTV 北京卫视 [Not 24/7],http://ivi.bupt.edu.cn/hls/btv1.m3u8
 长沙政法 [Geo-blocked],http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
+CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
+江苏卫视4K,http://101.35.240.114:88/live.php?id=江苏卫视4K
+2025-03-06 16:04:54,http://45.145.229.71:8866/TVOD/6000000001000029752/wasusyt/index.m3u8
+BRTV 北京卫视,http://118.81.195.79:9003/hls/20/index.m3u8
 长沙新闻 [Geo-blocked],http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
+CGTN纪录,https://0472.org/hls/cgtnd.m3u8
+广东卫视4K,http://101.35.240.114:88/live.php?id=广东卫视4K
+CETV1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
+CETV1 (576p),http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 风尚购物 (1080p),http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
+CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+深圳卫视4K,http://101.35.240.114:88/live.php?id=深圳卫视
+CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
+CETV2 (576p),http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
 高台电视台 (1080p),http://117.156.28.119/270000001111/1110000146/index.m3u8
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
+深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
+CETV1,https://piccpndali.v.myalicdn.com/audio/cetv1_2.m3u8
+CETV-1,http://121.19.134.246:808/hls/62/index.m3u8
 鹤壁新闻综合 (480p) [Not 24/7],http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
+山东卫视4K,http://101.35.240.114:88/live.php?id=山东卫视4K
+CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
+CETV-4,http://49.113.179.174:4022/udp/238.125.3.92:5140
 黑龙江 (1080p),http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
+CETV2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8?msisdn=20250903090033bf55eab2bb984fe0b4ac863e60d28ac6&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20250903090033&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=106.13.250.83&SecurityKey=20250903090033&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ebfbdc6c83654112720d2b5599373223&ddCalcu=3e2bv2fa3ba7da3c969c5853b625d4012172&sv=10004&ct=android
+四川卫视4K,http://101.35.240.114:88/live.php?id=四川卫视4K
+CETV1,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226858/63768493.smil
+CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
