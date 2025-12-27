@@ -2249,6 +2249,8 @@ https://live.ottiptv.cc/huya/11342412
 http://live.ottiptv.cc/huya/11342412
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="电影频道",周星驰
 https://4gtv.dxjc.pp.ua/ofiii73/index.m3u8?token=tmxk
+#EXTINF:-1 tvg-name="林正英" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/林正英.png" group-title="电影频道",林正英
+https://live.ottiptv.cc/bilibili/30900066
 #EXTINF:-1 tvg-name="五福星" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/五福星.png" group-title="电影频道",五福星
 https://live.metshop.top/huya/11282233
 #EXTINF:-1 tvg-name="五福星" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/五福星.png" group-title="电影频道",五福星
@@ -11527,5 +11529,5 @@ http://iptv.666230.xyz/iptv/jsyd.php/R_CAIJING
 http://iptv.666230.xyz/iptv/jsyd.php/R_WENYI
 #EXTINF:-1 tvg-name="江苏新闻广播" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏新闻广播.png" group-title="广播电台",江苏新闻广播
 http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-27 18:55:04
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-28 06:53:30
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
