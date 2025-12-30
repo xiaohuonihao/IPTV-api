@@ -1252,6 +1252,8 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 纬来电影,http://jp.809899.xyz/smt.php?id=videolandmovie
 纬来电影,http://php.666230.xyz/smt.php?id=videolandmovie
 纬来电影,https://smart.dxjc.pp.ua/smart.php?id=videolandmovie&token=tmxk
+纬来电影,https://smt.858.qzz.io/Smart.php?id=videolandmovie
+纬来电影,https://smt.go-iptv.ggff.net/smart.php?id=videolandmovie&token=Goiptv
 靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
 靖天映画,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv055/index.m3u8
 靖天映画,https://4gtv.dxjc.pp.ua/4gtv-4gtv055/index.m3u8
@@ -1296,6 +1298,7 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 东森洋片,http://php.666230.xyz/smt.php?id=ettvwestern
 东森洋片,https://smart.dxjc.pp.ua/smart.php?id=ettvwestern&token=tmxk
 东森洋片,https://smt.go-iptv.ggff.net/smart.php?id=ettvwestern&token=Goiptv
+东森洋片,https://smt.858.qzz.io/Smart.php?id=ettvwestern
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 东森超视,https://smart.dxjc.pp.ua/smart.php?id=ettvsuper&token=tmxk
 
@@ -1814,6 +1817,7 @@ Plus综合,http://php.jdshipin.com/PLTV/iptv.php?id=j2
 东森洋片,http://php.666230.xyz/smt.php?id=ettvwestern
 东森洋片,https://smart.dxjc.pp.ua/smart.php?id=ettvwestern&token=tmxk
 东森洋片,https://smt.go-iptv.ggff.net/smart.php?id=ettvwestern&token=Goiptv
+东森洋片,https://smt.858.qzz.io/Smart.php?id=ettvwestern
 千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
@@ -1837,6 +1841,8 @@ Plus综合,http://php.jdshipin.com/PLTV/iptv.php?id=j2
 纬来电影,http://jp.809899.xyz/smt.php?id=videolandmovie
 纬来电影,http://php.666230.xyz/smt.php?id=videolandmovie
 纬来电影,https://smart.dxjc.pp.ua/smart.php?id=videolandmovie&token=tmxk
+纬来电影,https://smt.858.qzz.io/Smart.php?id=videolandmovie
+纬来电影,https://smt.go-iptv.ggff.net/smart.php?id=videolandmovie&token=Goiptv
 纬来综合,https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
 纬来综合,http://jp.809899.xyz/smt.php?id=videolandzonghe
 纬来综合,http://php.666230.xyz/smt.php?id=videolandzonghe
@@ -5903,4 +5909,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2025-12-30 18:57:56,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-31 06:54:21,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
