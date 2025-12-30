@@ -1290,6 +1290,8 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193
 东森电影,https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
+龙祥电影,https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
+龙祥电影,https://smt.go-iptv.ggff.net/smart.php?id=lungxiangtime_twn&token=Goiptv
 东森洋片,http://jp.809899.xyz/smt.php?id=ettvwestern
 东森洋片,http://php.666230.xyz/smt.php?id=ettvwestern
 东森洋片,https://smart.dxjc.pp.ua/smart.php?id=ettvwestern&token=tmxk
@@ -1899,6 +1901,8 @@ AXN电影,http://tl.061833.xyz/tl/axn
 龙华洋片,https://smart.dxjc.pp.ua/smart.php?id=lunghuawestern_twn&token=tmxk
 龙华洋片,https://4gtv.dxjc.pp.ua/li-litv-longturn02/index.m3u8?token=tmxk
 龙华洋片,https://4gtv.dxjc.pp.ua/litv-longturn02/index.m3u8?token=tmxk
+龙祥电影,https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
+龙祥电影,https://smt.go-iptv.ggff.net/smart.php?id=lungxiangtime_twn&token=Goiptv
 好莱坞电影,http://jp.809899.xyz/smt.php?id=hollywoodmovies_twn
 好莱坞电影,http://php.666230.xyz/smt.php?id=hollywoodmovies_twn
 爱尔达影剧,https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
@@ -5899,4 +5903,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2025-12-30 07:00:28,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-30 18:57:56,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
