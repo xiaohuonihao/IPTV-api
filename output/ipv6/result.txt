@@ -5681,4 +5681,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2025-12-31 18:29:58,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-01 06:28:23,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
