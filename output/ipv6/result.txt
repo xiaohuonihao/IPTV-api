@@ -3540,6 +3540,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 倚天屠龙记,https://yylunbo.ottiptv.cc/yy/33300793
 倚天屠龙记,https://live.ottiptv.cc/huya/11342403
 倚天屠龙记,https://yylunbo.ottiptv.cc/yy/1507704566
+倚天屠龙记,https://live.ottiptv.cc/bilibili/14262592
 铁齿铜牙纪晓岚,https://yylunbo.ottiptv.cc/yy/1382781415
 铁齿铜牙纪晓岚,https://live.ottiptv.cc/huya/11342396
 康熙王朝,https://yylunbo.ottiptv.cc/yy/1382851583
@@ -5910,4 +5911,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-01-01 06:56:27,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-01 18:58:52,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
