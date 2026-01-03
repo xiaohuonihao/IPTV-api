@@ -1137,6 +1137,7 @@ NEWTV金牌综艺,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/10000000040
 周星驰,http://live.ottiptv.cc/huya/11342412
 周星驰,https://4gtv.dxjc.pp.ua/ofiii73/index.m3u8?token=tmxk
 林正英,https://live.ottiptv.cc/bilibili/30900066
+林正英,https://live.ottiptv.cc/bilibili/1729314361
 五福星,https://live.metshop.top/huya/11282233
 五福星,https://www.goodiptv.club/huya/11282233
 古天乐,https://www.goodiptv.club/huya/11602041
@@ -5911,4 +5912,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-01-03 18:58:48,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-04 06:56:56,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
