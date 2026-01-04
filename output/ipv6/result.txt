@@ -951,14 +951,22 @@ CCTV-5+,http://3501776.xyz:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
 风云足球,http://wuyivip.nyc.mn:8888/udp/239.1.1.101:8101
 风云足球,http://nas.home.plugintool.top:2333/udp/239.76.254.52:9000
 博斯网球,http://pullpackage.alivecdn.com/live/8zU0swMFiNzCmM4UR8nGnBHBzyR2zddBzos3DpAMBFw541akw1.flv
+博斯网球,https://t.freetv.fun/live/bo-si-wang-qiu-3.m3u8
+博斯网球,https://t.freetv.fun/live/bo-si-wang-qiu-4.m3u8
 博斯魅力,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn04
 博斯魅力,https://4gtv.dxjc.pp.ua/litv-longturn04/index.m3u8
 博斯魅力,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn04
+博斯魅力,https://t.freetv.fun/live/bo-si-mei-li-3.m3u8
+博斯魅力,https://t.freetv.fun/live/bo-si-mei-li-4.m3u8
 博斯无限,http://pullpackage.alivecdn.com/live/TCD7pgTmDrjoVbmKVzddBzotStrXuppbuDp6ZH4Vg1Px3le2Nf.flv
 智林体育,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv101
 智林体育,http://pullpackage.alivecdn.com/live/vceGKKHBVezUhHvWcKcCeOWAUWi8tOzBbsJgqOKJCiPyqpiBpE.flv
 智林体育,https://mao.ffmking888.dpdns.org/?id=5pm65p6X6auU6IKy5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 智林体育,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv101
+智林体育,https://t.freetv.fun/live/zhi-lin-ti-yu-10.m3u8
+智林体育,https://t.freetv.fun/live/zhi-lin-ti-yu-6.m3u8
+智林体育,https://t.freetv.fun/live/zhi-lin-ti-yu-7.m3u8
+智林体育,https://t.freetv.fun/live/zhi-lin-ti-yu-9.m3u8
 Skysports F1,http://free.cnlive.club/channel/n57ed90b2.m3u8
 Skysports F1,https://smt.858.qzz.io/Smart.php
 Skysports F1,https://smt.858.qzz.io/Smart.php?id=tiankongf1
@@ -1230,6 +1238,10 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 靖天戏剧,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
+靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-11.m3u8
+靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-6.m3u8
+靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-8.m3u8
+靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-9.m3u8
 经典电影,http://goo.bkpcp.top/mg/jdxgdy
 经典电影,https://tv.iill.top/4gtv/201
 经典电影,http://ikuai.ipddns.top:8888/rtp/239.3.1.195:9024
@@ -1595,9 +1607,14 @@ CN卡通频道,http://pullpackage.alivecdn.com/live/S31m2rw7UUNxgJaq9YeLysJgqOz7
 寰宇财经,http://php.666230.xyz/smt.php?id=huanyutaiwan_twn
 寰宇财经,https://smt.858.qzz.io/Smart.php?id=huanyutaiwan_twn
 寰宇财经,https://smt.go-iptv.ggff.net/smart.php?id=huanyutaiwan_twn&token=Goiptv
+寰宇财经,https://t.freetv.fun/live/huan-yu-cai-jing-10.m3u8
+寰宇财经,https://t.freetv.fun/live/huan-yu-cai-jing-6.m3u8
+寰宇财经,https://t.freetv.fun/live/huan-yu-cai-jing-9.m3u8
 台视财经,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv056
 台视财经,https://4gtv.dxjc.pp.ua/4gtv-4gtv056/index.m3u8
 台视财经,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv056
+台视财经,https://t.freetv.fun/live/tai-shi-cai-jing-3.m3u8
+台视财经,https://t.freetv.fun/live/tai-shi-cai-jing-4.m3u8
 RtvbsHK-31,http://api.mg.itv888.cn:8080/hls/7f79a251429/index.m3u8
 RtvbsHK-31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RtvbsHK-31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
@@ -1635,6 +1652,10 @@ Astro AOD,https://cdn9.163189.xyz/smt1.1.php
 Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 Astro AOD,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
+tvbs欢乐,https://t.freetv.fun/live/tvbshuan-le-12.m3u8
+tvbs欢乐,https://t.freetv.fun/live/tvbshuan-le-13.m3u8
+tvbs欢乐,https://t.freetv.fun/live/tvbshuan-le-8.m3u8
+tvbs欢乐,https://t.freetv.fun/live/tvbshuan-le-9.m3u8
 中天亚洲,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv109
 中天亚洲,https://4gtv.dxjc.pp.ua/4gtv-4gtv109/index.m3u8
 中天亚洲,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv109
@@ -1688,6 +1709,10 @@ Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
 天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 靖天国际,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv063
 靖天国际,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv063
+靖天国际,https://t.freetv.fun/live/jing-tian-guo-ji-10.m3u8
+靖天国际,https://t.freetv.fun/live/jing-tian-guo-ji-11.m3u8
+靖天国际,https://t.freetv.fun/live/jing-tian-guo-ji-7.m3u8
+靖天国际,https://t.freetv.fun/live/jing-tian-guo-ji-8.m3u8
 靖天卡通,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv044
 靖天卡通,http://free.cnlive.club/channel/n6567f5b8.m3u8
 靖天卡通,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5Y2h6YCa5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
@@ -1696,14 +1721,22 @@ Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
 靖天卡通,http://jp.809899.xyz/smt.php?id=jingtiancartoon_twn
 靖天卡通,http://php.666230.xyz/smt.php?id=jingtiancartoon_twn
 靖天卡通,https://smt.go-iptv.ggff.net/smart.php?id=jingtiancartoon_twn&token=Goiptv
+靖天卡通,https://t.freetv.fun/live/jing-tian-qia-tong-10.m3u8
+靖天卡通,https://t.freetv.fun/live/jing-tian-qia-tong-11.m3u8
 靖天资讯,http://pullpackage.alivecdn.com/live/jSi62v69ef4x6iYBScl4GTgr9WaWuRtR1v7DfyIDrCzlEjd4oO.flv
 靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
 靖天资讯,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp6LOH6KiK5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖天资讯,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065
 靖天资讯,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv065
+靖天资讯,https://t.freetv.fun/live/jing-tian-zi-xun-10.m3u8
+靖天资讯,https://t.freetv.fun/live/jing-tian-zi-xun-11.m3u8
+靖天资讯,https://t.freetv.fun/live/jing-tian-zi-xun-8.m3u8
+靖天资讯,https://t.freetv.fun/live/jing-tian-zi-xun-9.m3u8
 靖天综合,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv046
 靖天综合,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp57ac5ZCI5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖天综合,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv046
+靖天综合,https://t.freetv.fun/live/jing-tian-zong-he-4.m3u8
+靖天综合,https://t.freetv.fun/live/jing-tian-zong-he-5.m3u8
 靖天欢乐,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv054
 靖天欢乐,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv054
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
@@ -1711,6 +1744,10 @@ Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 靖天戏剧,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
+靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-11.m3u8
+靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-6.m3u8
+靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-8.m3u8
+靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-9.m3u8
 Now财经,http://hls.168.us.kg/u/333/master.m3u8
 Plus综合,http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
 Plus综合,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
@@ -1859,6 +1896,8 @@ EYE-戏剧,https://smt.go-iptv.ggff.net/smart.php?id=eyetvxiju_twn&token=Goiptv
 亚洲美食,http://pullpackage.alivecdn.com/live/p5HpHnJAym8SCQH745OfVD3vebxkKjhoHVzddBzXJs4Z8nFnxO.flv
 亚洲美食,http://free.cnlive.club/channel/4b914480.m3u8
 博斯网球,http://pullpackage.alivecdn.com/live/8zU0swMFiNzCmM4UR8nGnBHBzyR2zddBzos3DpAMBFw541akw1.flv
+博斯网球,https://t.freetv.fun/live/bo-si-wang-qiu-3.m3u8
+博斯网球,https://t.freetv.fun/live/bo-si-wang-qiu-4.m3u8
 astroAec,http://php.jdshipin.com/smt.php?id=AEC
 astroAod,http://php.jdshipin.com/smt.php?id=Aodhd
 astroAod,http://php.jdshipin.com/PLTV/iptv.php?id=aod
@@ -2520,6 +2559,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 广东影视,https://mgev.188766.xyz/?migutoken=eefb9e95a4f47362f406fb963568f075&id=gd_gdys&type=sz
 广东影视,https://mgev.188766.xyz/?migutoken=d586ba7a65458dfb6ef5a1a4a30e5367&id=gd_gdys&type=sz
 广东影视,https://mgev.188766.xyz/?migutoken=52d7426b4fb8406db831ff762a1fd9c0&id=gd_gdys&type=sz
+广东经济科教,https://t.freetv.fun/live/yan-dong-jing-ji-ke-jiao.m3u8
 岭南戏曲,https://mgev.188766.xyz/?migutoken=00687bbe91b0a83bb374ca9f678edc02&id=gd_lnxq&type=sz
 岭南戏曲,https://iptv.catvod.com/live.php?id=%E5%B2%AD%E5%8D%97%E6%88%8F%E6%9B%B2
 岭南戏曲,https://mgev.188766.xyz/?migutoken=2bd41714041993aa546db1dbcd1da072&id=gd_lnxq&type=sz
@@ -2550,6 +2590,8 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
 佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
 东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
+东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-1-1.flv
+东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-1.m3u8
 东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
 梅州-1,http://php.jdshipin.com:8880/chudian.php?id=mzzh
 
@@ -2753,6 +2795,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 荆门新闻综合,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+十堰经济,https://t.freetv.fun/live/shi-yan-jing-ji.m3u8
 
 天津,#genre#
 
@@ -2867,6 +2910,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&amp;wsTime=1654956569
 郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8
 郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
+郸城新闻综合,https://t.freetv.fun/live/dan-cheng-xin-wen-zong-he.m3u8
 鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
 项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8#@http://live.dxhmt.cn:9081/tv/11681-1.m3u8#@http://p2.weizan.cn/978354/131995006225520039/live.m3u8
@@ -2916,6 +2960,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 偃师新闻,http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
 偃师新闻,http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8
 封丘新闻综合,http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
+封丘新闻综合,https://t.freetv.fun/live/feng-qiu-xin-wen-zong-he.m3u8
 辉县新闻综合,http://tvpull.dxhmt.cn:9081/tv/10782-1.m3u8
 获嘉综合,http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8
 浚县一套,http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
@@ -3012,6 +3057,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 乐山文旅,http://iptv.666230.xyz/iptv/sxg.php/lsggpd_4000
 广元文化生活,http://iptv.666230.xyz/iptv/sxg.php/gyggH265_4000
 内江综合,http://iptv.666230.xyz/iptv/sxg.php/njzh_4000
+内江综合,https://t.freetv.fun/live/nei-jiang-zong-he.m3u8
 眉山综合,http://iptv.666230.xyz/iptv/sxg.php/msxwzhgq_2000
 眉山文旅乡村,http://iptv.666230.xyz/iptv/sxg.php/msgg_2000
 泸州科教生活,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
@@ -3090,12 +3136,19 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 北海新闻,http://maoda.cc:9999/udp/239.81.0.136:4056
 桂林新闻,http://maoda.cc:9999/udp/239.81.0.135:4056
 南宁影视娱乐,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/YSYL_244.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e7eb508555e76e08cc1b198d04f41fb5
+南宁影视娱乐,https://t.freetv.fun/live/nan-zhu-ying-shi-yu-le-3.m3u8
+南宁影视娱乐,https://t.freetv.fun/live/nan-zhu-ying-shi-yu-le.m3u8
 
 山西,#genre#
 山西影视,http://wuyivip.nyc.mn:8888/udp/239.1.1.4:8004
 山西文体生活,http://wuyivip.nyc.mn:8888/udp/239.1.1.6:8006
 山西社会与法治,http://wuyivip.nyc.mn:8888/udp/239.1.1.5:8005
 山西经济与科技,http://wuyivip.nyc.mn:8888/udp/239.1.1.3:8003
+晋城新闻,https://t.freetv.fun/live/jin-cheng-xin-wen-1-1.m3u8
+晋城新闻,https://t.freetv.fun/live/jin-cheng-xin-wen-1.m3u8
+晋城新闻,https://t.freetv.fun/live/jin-cheng-xin-wen-2.m3u8
+晋城公共,https://t.freetv.fun/live/jin-cheng-gong-gong-1.m3u8
+晋城公共,https://t.freetv.fun/live/jin-cheng-gong-gong.m3u8
 五台综合,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
 平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
 怀仁综合,https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
@@ -5682,4 +5735,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-01-04 06:27:17,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-04 18:28:51,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
