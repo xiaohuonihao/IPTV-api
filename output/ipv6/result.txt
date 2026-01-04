@@ -1268,6 +1268,7 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
 靖天戏剧,https://4gtv.dxjc.pp.ua/4gtv-4gtv058/index.m3u8?token=tmxk
 靖天戏剧,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv058/index.m3u8?token=tmxk
+靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-11.m3u8
 经典电影,http://goo.bkpcp.top/mg/jdxgdy
 经典电影,https://tv.iill.top/4gtv/201
 经典电影,http://ikuai.ipddns.top:8888/rtp/239.3.1.195:9024
@@ -1790,6 +1791,7 @@ Astro AOD,http://php.jdshipin.com:8880/smt.php?id=Aodhd&token=tmxk
 靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
 靖天戏剧,https://4gtv.dxjc.pp.ua/4gtv-4gtv058/index.m3u8?token=tmxk
 靖天戏剧,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv058/index.m3u8?token=tmxk
+靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-11.m3u8
 Now财经,http://hls.168.us.kg/u/333/master.m3u8
 Plus综合,http://tl.061833.xyz/tl/pluse
 Plus综合,https://cdn6.101.qzz.io/163189/tvbp
@@ -3139,6 +3141,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
 郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
 郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8
+郸城新闻综合,https://t.freetv.fun/live/dan-cheng-xin-wen-zong-he.m3u8
 鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
 项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8#@http://live.dxhmt.cn:9081/tv/11681-1.m3u8#@http://p2.weizan.cn/978354/131995006225520039/live.m3u8
@@ -3388,6 +3391,8 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 北海新闻,http://maoda.cc:9999/udp/239.81.0.136:4056
 桂林新闻,http://maoda.cc:9999/udp/239.81.0.135:4056
 南宁影视娱乐,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/YSYL_244.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e7eb508555e76e08cc1b198d04f41fb5
+南宁影视娱乐,https://t.freetv.fun/live/nan-zhu-ying-shi-yu-le-3.m3u8
+南宁影视娱乐,https://t.freetv.fun/live/nan-zhu-ying-shi-yu-le.m3u8
 
 山西,#genre#
 山西影视,https://live.lalifeier.eu.org/sxrtv/sxys.m3u8?t=1745796321&key=0721c661fb4b291613b070d85d8af084
@@ -6043,4 +6048,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-01-04 18:58:05,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-05 06:57:50,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
