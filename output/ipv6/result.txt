@@ -3552,6 +3552,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 铁齿铜牙纪晓岚,https://live.ottiptv.cc/huya/11342396
 康熙王朝,https://yylunbo.ottiptv.cc/yy/1382851583
 康熙王朝,https://live.ottiptv.cc/huya/11352940
+康熙王朝,https://yylunbo.ottiptv.cc/yy/1382768483
 鬼吹灯之精绝古城,https://live.ottiptv.cc/huya/11352871
 鬼吹灯之怒晴湘西,https://live.ottiptv.cc/huya/11602075
 鬼吹灯之龙岭迷窟,https://live.ottiptv.cc/huya/29465863
@@ -5918,4 +5919,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-01-05 19:02:38,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-06 06:59:17,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
