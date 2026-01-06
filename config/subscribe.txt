@@ -8,9 +8,7 @@ https://sub.ottiptv.cc/douyuyqk.m3u
 https://sub.ottiptv.cc/bililive.m3u
 https://sub.ottiptv.cc/yylunbo.m3u
 
-https://13035.kstore.space/%E7%9B%B4%E6%92%AD/gggg.txt
-https://13035.kstore.space/TVBos/live.txt
-https://13035.kstore.space/tv.txt
+
 https://gitee.com/yuan301/tv/raw/master/A/tv.png
 https://live.zbds.top/tv/iptv4.txt
 
