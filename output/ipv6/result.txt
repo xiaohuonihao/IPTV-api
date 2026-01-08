@@ -4068,6 +4068,7 @@ Q版三国剧集,http://rihou.cc:555/huyad.php?id=29465871
 士兵突击,http://rihou.cc:555/huyad.php?id=11342430
 士兵突击,https://yylunbo.ottiptv.cc/yy/1382851600
 士兵突击,https://live.ottiptv.cc/huya/11342430
+士兵突击,https://live.metshop.top/huya/11342430
 玄幻剧场,http://rihou.cc:555/huyad.php?id=11342414
 联合抗日,http://rihou.cc:555/huyad.php?id=11352910
 联合抗日,https://live.metshop.top/huya/11352910
@@ -6536,4 +6537,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-01-08 06:38:46,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-08 18:41:46,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
