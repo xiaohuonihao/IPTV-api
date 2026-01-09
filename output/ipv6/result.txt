@@ -6338,6 +6338,7 @@ DJ视频5,https://vd4.bdstatic.com/mda-mkj6mgsuic4gdknp/sc/cae_h264/163738367794
 雨花石云朵,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/20a65dbb23e4448cbcb52a756ebdc74d/2000.m3u8
 韩可可错位时空DJ版,https://vd3.bdstatic.com/mda-mgciytzb45z6z8yj/1080p/cae_h264/1626183756603775947/mda-mgciytzb45z6z8yj.mp4
 韩宝仪几度花落时,https://vd2.bdstatic.com/mda-pd0chept9m0iiys3/sc/cae_h264/1680339580292418129/mda-pd0chept9m0iiys3.mp4
+劫,https://live.ottiptv.cc/bilibili/692924
 飘,https://vd3.bdstatic.com/mda-ne8nihg8cefenzmd/hd/cae_h264/1652138180329496706/mda-ne8nihg8cefenzmd.mp4
 飞鸟和蝉任然,https://vd4.bdstatic.com/mda-kmagpap54qyv855r/v1-cae/1080p/mda-kmagpap54qyv855r.mp4
 香港美女合集,https://vd2.bdstatic.com/mda-njp7d8di8vi21tj4/1080p/cae_h264/1666610067673495644/mda-njp7d8di8vi21tj4.mp4
@@ -6742,4 +6743,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-01-09 07:04:19,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-09 19:05:37,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
