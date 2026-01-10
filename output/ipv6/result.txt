@@ -5351,6 +5351,371 @@ iHOT爱动漫,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=60000000060002806
 iHOT爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235628/1/index.m3u8?fmt=ts2hls
 iHOT爱幼教,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000180630
 
+英国频道,#genre#
+Cartoon Network,https://smt.858.qzz.io/Smart.php?id=Cn
+Cartoon Network,https://smt.go-iptv.ggff.net/smart.php?id=Cn&token=Goiptv
+Cartoon Network,http://jp.809899.xyz/smt.php?id=Cn
+Cartoon Network,https://smart.dxjc.pp.ua/smart.php?id=Cn&token=tmxk
+CBBC,https://smt.858.qzz.io/Smart.php?id=cbbc_antik
+CBBC,https://smt.go-iptv.ggff.net/smart.php?id=cbbc_antik&token=Goiptv
+CBBC,http://jp.809899.xyz/smt.php?id=cbbc_antik
+CBBC,https://smart.dxjc.pp.ua/smart.php?id=cbbc_antik&token=tmxk
+Channel 5,https://smt.858.qzz.io/Smart.php?id=Channel5HD
+Channel 5,http://cdn6.163189.xyz/163189/ch5
+Channel 5,https://smt.go-iptv.ggff.net/smart.php?id=Channel5HD&token=Goiptv
+Channel 5,http://jp.809899.xyz/smt.php?id=Channel5HD
+Channel 5,https://smart.dxjc.pp.ua/smart.php?id=Channel5HD&token=tmxk
+More4,https://smt.858.qzz.io/Smart.php?id=more4_antik
+More4,https://smt.go-iptv.ggff.net/smart.php?id=more4_antik&token=Goiptv
+More4,http://jp.809899.xyz/smt.php?id=more4_antik
+More4,https://smart.dxjc.pp.ua/smart.php?id=more4_antik&token=tmxk
+TLC,https://smt.858.qzz.io/Smart.php?id=Tlc
+TLC,https://smt.go-iptv.ggff.net/smart.php?id=Tlc&token=Goiptv
+TLC,http://jp.809899.xyz/smt.php?id=Tlc
+TLC,https://smart.dxjc.pp.ua/smart.php?id=Tlc&token=tmxk
+Channel 4,https://smt.858.qzz.io/Smart.php?id=channel4_antik
+Channel 4,https://smt.go-iptv.ggff.net/smart.php?id=channel4_antik&token=Goiptv
+Channel 4,http://jp.809899.xyz/smt.php?id=channel4_antik
+Channel 4,https://smart.dxjc.pp.ua/smart.php?id=channel4_antik&token=tmxk
+
+美国频道,#genre#
+CNBC,https://smt.858.qzz.io/Smart.php?id=cnbc_twn
+CNBC,https://smt.go-iptv.ggff.net/smart.php?id=cnbc_twn&token=Goiptv
+CNBC,http://jp.809899.xyz/smt.php?id=cnbc_twn
+CNBC,https://smart.dxjc.pp.ua/smart.php?id=cnbc_twn&token=tmxk
+CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+NBA TV,https://smt.858.qzz.io/Smart.php?id=Nba
+NBA TV,https://smt.go-iptv.ggff.net/smart.php?id=Nba&token=Goiptv
+NBA TV,http://jp.809899.xyz/smt.php?id=Nba
+NBA TV,https://smart.dxjc.pp.ua/smart.php?id=Nba&token=tmxk
+CA Adult Swim (R),https://omg.pendy.dpdns.org/4wVQA7/625159/11644?token=tmxk
+Cartoon Network,https://smt.858.qzz.io/Smart.php?id=Cn
+Cartoon Network,https://smt.go-iptv.ggff.net/smart.php?id=Cn&token=Goiptv
+Cartoon Network,http://jp.809899.xyz/smt.php?id=Cn
+Cartoon Network,https://smart.dxjc.pp.ua/smart.php?id=Cn&token=tmxk
+CA Discovery Velocity HD,https://omg.pendy.dpdns.org/4wVQA7/625159/46212?token=tmxk
+Fox News,https://smt.858.qzz.io/Smart.php?id=foxnews_twn
+Fox News,https://smt.go-iptv.ggff.net/smart.php?id=foxnews_twn&token=Goiptv
+Fox News,http://jp.809899.xyz/smt.php?id=foxnews_twn
+Fox News,https://smart.dxjc.pp.ua/smart.php?id=foxnews_twn&token=tmxk
+HBO,https://smart.pendy.dpdns.org/Smart.php?id=Hbo
+ION,https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
+Lifetime,https://4gtv.dxjc.pp.ua/4gtv-live029/index.m3u8?token=tmxk
+National Geographic,https://live.iill.top/youtube/O6Qdxrf-6CM
+Nick Jr,https://smt.858.qzz.io/Smart.php?id=Nickjr
+Nick Jr,https://smt.go-iptv.ggff.net/smart.php?id=Nickjr&token=Goiptv
+Nick Jr,http://jp.809899.xyz/smt.php?id=Nickjr
+Nick Jr,https://smart.dxjc.pp.ua/smart.php?id=Nickjr&token=tmxk
+Paramount Network,https://smt.858.qzz.io/Smart.php?id=Paramountnetwork
+Paramount Network,https://smt.go-iptv.ggff.net/smart.php?id=Paramountnetwork&token=Goiptv
+Paramount Network,http://jp.809899.xyz/smt.php?id=Paramountnetwork
+Paramount Network,https://smart.dxjc.pp.ua/smart.php?id=Paramountnetwork&token=tmxk
+CA Turner Classic Movies,https://omg.pendy.dpdns.org/4wVQA7/625159/66242?token=tmxk
+
+法国频道,#genre#
+CNBC,https://smt.858.qzz.io/Smart.php?id=cnbc_twn
+CNBC,https://smt.go-iptv.ggff.net/smart.php?id=cnbc_twn&token=Goiptv
+CNBC,http://jp.809899.xyz/smt.php?id=cnbc_twn
+CNBC,https://smart.dxjc.pp.ua/smart.php?id=cnbc_twn&token=tmxk
+FRANCE 24,https://live.iill.top/youtube/l8PMl7tUDIE
+TLC,https://smt.858.qzz.io/Smart.php?id=Tlc
+TLC,https://smt.go-iptv.ggff.net/smart.php?id=Tlc&token=Goiptv
+TLC,http://jp.809899.xyz/smt.php?id=Tlc
+TLC,https://smart.dxjc.pp.ua/smart.php?id=Tlc&token=tmxk
+
+德国频道,#genre#
+
+日本频道,#genre#
+フジテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0
+テレビ朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
+テレビ東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
+NHK BS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+NHK BSP4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+BS日テレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
+BS朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
+BS-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
+BS-TBS,https://smt.858.qzz.io/Smart.php?id=bstbs_japan
+BS-TBS,https://smt.go-iptv.ggff.net/smart.php?id=bstbs_japan&token=Goiptv
+BS-TBS,http://jp.809899.xyz/smt.php?id=bstbs_japan
+BSテレ東,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
+BSフジ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
+WOWOWプライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+WOWOWライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+WOWOWシネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+BSアニマックス,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
+JSPORTS 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+JSPORTS 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+JSPORTS 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+JSPORTS 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+ゴルフネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+ホームドラマチャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=10&bind=0&uin=159413&playseek=0
+LaLaTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+CNN J,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+Shop Channel,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+ANN News,https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+SHOPCHANNEL,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+日本Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
+日本UN WeTV,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+AT-X 2,https://neetball.net/live/neet3.m3u8
+Cartoon Network,https://smt.858.qzz.io/Smart.php?id=Cn
+Cartoon Network,https://smt.go-iptv.ggff.net/smart.php?id=Cn&token=Goiptv
+Cartoon Network,http://jp.809899.xyz/smt.php?id=Cn
+Cartoon Network,https://smart.dxjc.pp.ua/smart.php?id=Cn&token=tmxk
+ウェザーニュース,https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3audio-only=false).m3u8
+
+韩国频道,#genre#
+Arirang 阿里郎,http://php.jdshipin.com:8880/xsj.php?id=arirang
+tvN 꽃보다할배,https://d3kirm9c53tl5m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-us244sbpf51mr-ssai-prd/1e735686_e190_4801_944d_651719fca85a/hls/playlist.m3u8
+tvN 나의 아저씨,https://dp9vqmqe1b62.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqup1fpzurgqx-ssai-prd/dc942d76_e776_4c34_8e0c_f09008912455/hls/playlist.m3u8
+tvN 도깨비,https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
+tvN 라켓보이즈,https://dcqm3yrmhgffm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kl2somy43z7lq-ssai-prd/afb160a1_1669_46f6_aba5_e55f48c7b2ca/hls/playlist.m3u8
+tvN 마인,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8
+tvN 멜랑꼴리아,https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8
+tvN 철인왕후,https://dmnsygceaez9z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kugwkm0rtsyfv-ssai-prd/89a2b732_7d4e_4098_9b82_f8e829ab07f0/hls/playlist.m3u8
+tvN THE K2,https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8
+KBS 1,http://mytv.dothome.co.kr/ch/public/1.php
+KBS 2,http://mytv.dothome.co.kr/ch/public/3.php
+BBS 불교 방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
+CJ OnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+CJ OnStyle Plus,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+EBS+ 1,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+EBS+ 2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+EBS 1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
+EBS 1,https://smt.858.qzz.io/Smart.php?id=ebs1_korea
+EBS 1,https://smt.go-iptv.ggff.net/smart.php?id=ebs1_korea&token=Goiptv
+EBS 1,http://jp.809899.xyz/smt.php?id=ebs1_korea
+EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
+EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
+Gugak TV,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+KBC SBS 综艺,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
+KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php
+KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php
+KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
+KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
+KBS World,http://mytv.dothome.co.kr/ch/catv/7.php
+KBS World,https://smt.858.qzz.io/Smart.php?id=KBS
+KBS World,https://smt.go-iptv.ggff.net/smart.php?id=KBS&token=Goiptv
+KBS World,http://jp.809899.xyz/smt.php?id=KBS
+KBS World,https://smart.dxjc.pp.ua/smart.php?id=KBS&token=tmxk
+KCTV 광주,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+Korea TV,https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
+MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+국방国防TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+
+意大利频道,#genre#
+Cartoon Network,https://smt.858.qzz.io/Smart.php?id=Cn
+Cartoon Network,https://smt.go-iptv.ggff.net/smart.php?id=Cn&token=Goiptv
+Cartoon Network,http://jp.809899.xyz/smt.php?id=Cn
+Cartoon Network,https://smart.dxjc.pp.ua/smart.php?id=Cn&token=tmxk
+HGTV,https://smt.858.qzz.io/Smart.php?id=HGTV
+HGTV,https://live.iill.top/youtube/38AgCP7jEww
+HGTV,https://smt.go-iptv.ggff.net/smart.php?id=HGTV&token=Goiptv
+HGTV,http://jp.809899.xyz/smt.php?id=HGTV
+HGTV,https://smart.dxjc.pp.ua/smart.php?id=HGTV&token=tmxk
+History,https://smt.858.qzz.io/Smart.php?id=History
+History,https://smt.go-iptv.ggff.net/smart.php?id=History&token=Goiptv
+History,http://jp.809899.xyz/smt.php?id=History
+History,https://smart.dxjc.pp.ua/smart.php?id=History&token=tmxk
+Nickelodeon,https://smt.858.qzz.io/Smart.php?id=Nickelodeon
+Nickelodeon,https://smt.go-iptv.ggff.net/smart.php?id=Nickelodeon&token=Goiptv
+Nickelodeon,http://jp.809899.xyz/smt.php?id=Nickelodeon
+Nickelodeon,https://smart.dxjc.pp.ua/smart.php?id=Nickelodeon&token=tmxk
+Nickelodeon,https://4gtv.dxjc.pp.ua/4gtv-live105/index.m3u8?token=tmxk
+
+西班牙频道,#genre#
+Al Jazeera,https://live.iill.top/youtube/gCNeDWCI0vo
+Baby TV,https://smt.858.qzz.io/Smart.php?id=babytv_twn
+Baby TV,https://live.iill.top/youtube/T4mEvdOBvcA
+Baby TV,https://smt.go-iptv.ggff.net/smart.php?id=babytv_twn&token=Goiptv
+Baby TV,http://jp.809899.xyz/smt.php?id=babytv_twn
+Baby TV,https://smart.dxjc.pp.ua/smart.php?id=babytv_twn&token=tmxk
+Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+CNBC,https://smt.858.qzz.io/Smart.php?id=cnbc_twn
+CNBC,https://smt.go-iptv.ggff.net/smart.php?id=cnbc_twn&token=Goiptv
+CNBC,http://jp.809899.xyz/smt.php?id=cnbc_twn
+CNBC,https://smart.dxjc.pp.ua/smart.php?id=cnbc_twn&token=tmxk
+CNN International,https://smt.858.qzz.io/Smart.php?id=Cnn
+CNN International,https://smt.go-iptv.ggff.net/smart.php?id=Cnn&token=Goiptv
+CNN International,http://jp.809899.xyz/smt.php?id=Cnn
+CNN International,https://smart.dxjc.pp.ua/smart.php?id=Cnn&token=tmxk
+Disney Junior,https://live.iill.top/youtube/Dkkp4KfdGPY
+Dreamworks,https://smt.858.qzz.io/Smart.php?id=Dreamworks
+Dreamworks,https://smt.go-iptv.ggff.net/smart.php?id=Dreamworks&token=Goiptv
+Dreamworks,http://jp.809899.xyz/smt.php?id=Dreamworks
+Dreamworks,https://smart.dxjc.pp.ua/smart.php?id=Dreamworks&token=tmxk
+Euronews,https://smt.858.qzz.io/Smart.php?id=euronews_antik
+Euronews,https://aegis-cloudfront-1.tubi.video/4748bce1-cc5e-471f-a922-bcf11fece245/index.m3u8
+Euronews,https://smt.go-iptv.ggff.net/smart.php?id=euronews_antik&token=Goiptv
+Euronews,http://jp.809899.xyz/smt.php?id=euronews_antik
+Euronews,https://smart.dxjc.pp.ua/smart.php?id=euronews_antik&token=tmxk
+EWTN,https://smt.858.qzz.io/Smart.php?id=Ewtn
+EWTN,https://smt.go-iptv.ggff.net/smart.php?id=Ewtn&token=Goiptv
+EWTN,http://jp.809899.xyz/smt.php?id=Ewtn
+EWTN,https://smart.dxjc.pp.ua/smart.php?id=Ewtn&token=tmxk
+France 24,https://smt.858.qzz.io/Smart.php?id=france24_twn
+France 24,https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist.m3u8
+France 24,https://smt.go-iptv.ggff.net/smart.php?id=france24_twn&token=Goiptv
+France 24,http://jp.809899.xyz/smt.php?id=france24_twn
+France 24,https://smart.dxjc.pp.ua/smart.php?id=france24_twn&token=tmxk
+National Geographic,https://live.iill.top/youtube/O6Qdxrf-6CM
+Nickelodeon,https://smt.858.qzz.io/Smart.php?id=Nickelodeon
+Nickelodeon,https://smt.go-iptv.ggff.net/smart.php?id=Nickelodeon&token=Goiptv
+Nickelodeon,http://jp.809899.xyz/smt.php?id=Nickelodeon
+Nickelodeon,https://smart.dxjc.pp.ua/smart.php?id=Nickelodeon&token=tmxk
+Nickelodeon,https://4gtv.dxjc.pp.ua/4gtv-live105/index.m3u8?token=tmxk
+Paramount Network,https://smt.858.qzz.io/Smart.php?id=Paramountnetwork
+Paramount Network,https://smt.go-iptv.ggff.net/smart.php?id=Paramountnetwork&token=Goiptv
+Paramount Network,http://jp.809899.xyz/smt.php?id=Paramountnetwork
+Paramount Network,https://smart.dxjc.pp.ua/smart.php?id=Paramountnetwork&token=tmxk
+Warner TV,https://smt.858.qzz.io/Smart.php?id=WarnerTV
+Warner TV,https://smt.go-iptv.ggff.net/smart.php?id=WarnerTV&token=Goiptv
+Warner TV,http://jp.809899.xyz/smt.php?id=WarnerTV
+Warner TV,https://smart.dxjc.pp.ua/smart.php?id=WarnerTV&token=tmxk
+
+马来西亚,#genre#
+Adithya,https://smt.858.qzz.io/Smart.php?id=Adithya
+Adithya,https://smt.go-iptv.ggff.net/smart.php?id=Adithya&token=Goiptv
+Adithya,http://jp.809899.xyz/smt.php?id=Adithya
+Adithya,https://smart.dxjc.pp.ua/smart.php?id=Adithya&token=tmxk
+Astro Cricket,https://smt.858.qzz.io/Smart.php?id=Acricket
+Astro Cricket,https://smt.go-iptv.ggff.net/smart.php?id=Acricket&token=Goiptv
+Astro Cricket,http://jp.809899.xyz/smt.php?id=Acricket
+Astro Cricket,https://smart.dxjc.pp.ua/smart.php?id=Acricket&token=tmxk
+Awesome TV,https://smt.858.qzz.io/Smart.php?id=Dsangat
+Awesome TV,https://smt.go-iptv.ggff.net/smart.php?id=Dsangat&token=Goiptv
+Awesome TV,http://jp.809899.xyz/smt.php?id=Dsangat
+Awesome TV,https://smart.dxjc.pp.ua/smart.php?id=Dsangat&token=tmxk
+Bernama,https://smt.858.qzz.io/Smart.php?id=Bernama
+Bernama,https://smt.go-iptv.ggff.net/smart.php?id=Bernama&token=Goiptv
+Bernama,http://jp.809899.xyz/smt.php?id=Bernama
+Bernama,https://smart.dxjc.pp.ua/smart.php?id=Bernama&token=tmxk
+CCTV4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
+CCTV4,http://z.b.bkpcp.top/m.php?id=CCTV-4国际
+CCTV4,https://migu.pl10000.top/cctv4
+CCTV4,https://live.chinacert.cftest5.cn/mg/?id=631780421
+CCTV4,https://4k.pl10000.top/4.m3u8
+CCTV4,https://4k.pl10000.top/18.m3u8
+CCTV4,https://4k.pl10000.top/19.m3u8
+CCTV4,http://shyd.695847.xyz/cms001/ch00000090990000001221/index.m3u8?IAS
+CCTV4,http://k.061899.xyz/m.php?id=cctv4
+CCTV4,http://ott.mobaibox.com/PLTV/3/224/3221228091/index.m3u8
+CGTN,https://0472.org/hls/cgtn.m3u8
+CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+CGTN,https://migu.pl10000.top/cgtn-6
+CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227350/index.m3u8
+CGTN,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010095
+CGTN,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=7745129417417101820
+CGTN,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225604
+CGTN,http://3501776.xyz:35455/itv/7745129417417101820.m3u8?cdn=hnbblive
+CGTN,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226443/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ebu8iDniP_aAtg-APxKXKAA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOeLGc8fhipDF_paLm6VUd-%2CEND
+CGTN,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+Cinemax,https://smt.858.qzz.io/Smart.php?id=Cinemax
+Cinemax,https://smt.go-iptv.ggff.net/smart.php?id=Cinemax&token=Goiptv
+Cinemax,http://jp.809899.xyz/smt.php?id=Cinemax
+Cinemax,https://smart.dxjc.pp.ua/smart.php?id=Cinemax&token=tmxk
+CNA,https://smt.858.qzz.io/Smart.php?id=cna
+CNA,https://smart.pendy.dpdns.org/Smart.php?id=cna
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA,https://smt.go-iptv.ggff.net/smart.php?id=cna&token=Goiptv
+CNA,https://smart.dxjc.pp.ua/smart.php?id=cna&token=tmxk
+CNBC,https://smt.858.qzz.io/Smart.php?id=cnbc_twn
+CNBC,https://smt.go-iptv.ggff.net/smart.php?id=cnbc_twn&token=Goiptv
+CNBC,http://jp.809899.xyz/smt.php?id=cnbc_twn
+CNBC,https://smart.dxjc.pp.ua/smart.php?id=cnbc_twn&token=tmxk
+Colors Tamil,https://smt.858.qzz.io/Smart.php?id=Colorstam
+Colors Tamil,https://smt.go-iptv.ggff.net/smart.php?id=Colorstam&token=Goiptv
+Colors Tamil,http://jp.809899.xyz/smt.php?id=Colorstam
+Colors Tamil,https://smart.dxjc.pp.ua/smart.php?id=Colorstam&token=tmxk
+Discovery Asia,https://smt.858.qzz.io/Smart.php?id=discoverytwn_twn
+Discovery Asia,https://smt.go-iptv.ggff.net/smart.php?id=discoverytwn_twn&token=Goiptv
+Discovery Asia,http://jp.809899.xyz/smt.php?id=discoverytwn_twn
+Discovery Asia,https://smart.dxjc.pp.ua/smart.php?id=discoverytwn_twn&token=tmxk
+Disney Junior,https://live.iill.top/youtube/Dkkp4KfdGPY
+Global Trekker,https://4gtv.dxjc.pp.ua/4gtv-live112/index.m3u8?token=tmxk
+HBO Family,https://smt.858.qzz.io/Smart.php?id=Hbofamily
+HBO Family,https://smt.go-iptv.ggff.net/smart.php?id=Hbofamily&token=Goiptv
+HBO Family,http://jp.809899.xyz/smt.php?id=Hbofamily
+HBO Family,https://smart.dxjc.pp.ua/smart.php?id=Hbofamily&token=tmxk
+HBO Hits,https://smt.858.qzz.io/Smart.php?id=Hbohitshd
+HBO Hits,https://smt.go-iptv.ggff.net/smart.php?id=Hbohitshd&token=Goiptv
+HBO Hits,http://jp.809899.xyz/smt.php?id=Hbohitshd
+HBO Hits,https://smart.dxjc.pp.ua/smart.php?id=Hbohitshd&token=tmxk
+HBO Signature,https://smt.858.qzz.io/Smart.php?id=Hbosignature
+HBO Signature,https://smt.go-iptv.ggff.net/smart.php?id=Hbosignature&token=Goiptv
+HBO Signature,http://jp.809899.xyz/smt.php?id=Hbosignature
+HBO Signature,https://smart.dxjc.pp.ua/smart.php?id=Hbosignature&token=tmxk
+History,https://smt.858.qzz.io/Smart.php?id=History
+History,https://smt.go-iptv.ggff.net/smart.php?id=History&token=Goiptv
+History,http://jp.809899.xyz/smt.php?id=History
+History,https://smart.dxjc.pp.ua/smart.php?id=History&token=tmxk
+Hits,https://smt.858.qzz.io/Smart.php?id=Hits
+Hits,https://smt.go-iptv.ggff.net/smart.php?id=Hits&token=Goiptv
+Hits,http://jp.809899.xyz/smt.php?id=Hits
+Hits,https://smart.dxjc.pp.ua/smart.php?id=Hits&token=tmxk
+iQIYI,http://php.jdshipin.com/smt.php?id=Qiyi
+KBS World,https://smt.858.qzz.io/Smart.php?id=KBS
+KBS World,https://smt.go-iptv.ggff.net/smart.php?id=KBS&token=Goiptv
+KBS World,http://jp.809899.xyz/smt.php?id=KBS
+KBS World,https://smart.dxjc.pp.ua/smart.php?id=KBS&token=tmxk
+Lifetime,https://4gtv.dxjc.pp.ua/4gtv-live029/index.m3u8?token=tmxk
+Nickelodeon,https://smt.858.qzz.io/Smart.php?id=Nickelodeon
+Nickelodeon,https://smt.go-iptv.ggff.net/smart.php?id=Nickelodeon&token=Goiptv
+Nickelodeon,http://jp.809899.xyz/smt.php?id=Nickelodeon
+Nickelodeon,https://smart.dxjc.pp.ua/smart.php?id=Nickelodeon&token=tmxk
+Nickelodeon,https://4gtv.dxjc.pp.ua/4gtv-live105/index.m3u8?token=tmxk
+NTV7,https://smt.858.qzz.io/Smart.php?id=NTV7
+NTV7,https://smt.go-iptv.ggff.net/smart.php?id=NTV7&token=Goiptv
+NTV7,http://jp.809899.xyz/smt.php?id=NTV7
+NTV7,https://smart.dxjc.pp.ua/smart.php?id=NTV7&token=tmxk
+One,https://smt.858.qzz.io/Smart.php?id=One
+One,https://smt.go-iptv.ggff.net/smart.php?id=One&token=Goiptv
+One,http://jp.809899.xyz/smt.php?id=One
+One,https://smart.dxjc.pp.ua/smart.php?id=One&token=tmxk
+Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+Sky News,https://d25w9q07b2mtmw.cloudfront.net/live/master.m3u8
+Star Vijay,https://smt.858.qzz.io/Smart.php?id=Starvijay
+Star Vijay,https://smt.go-iptv.ggff.net/smart.php?id=Starvijay&token=Goiptv
+Star Vijay,http://jp.809899.xyz/smt.php?id=Starvijay
+Star Vijay,https://smart.dxjc.pp.ua/smart.php?id=Starvijay&token=tmxk
+TLC,https://smt.858.qzz.io/Smart.php?id=Tlc
+TLC,https://smt.go-iptv.ggff.net/smart.php?id=Tlc&token=Goiptv
+TLC,http://jp.809899.xyz/smt.php?id=Tlc
+TLC,https://smart.dxjc.pp.ua/smart.php?id=Tlc&token=tmxk
+TV2,https://smt.858.qzz.io/Smart.php?id=TV2
+TV2,https://smt.go-iptv.ggff.net/smart.php?id=TV2&token=Goiptv
+TV2,http://jp.809899.xyz/smt.php?id=TV2
+TV2,https://smart.dxjc.pp.ua/smart.php?id=TV2&token=tmxk
+TV3,https://smt.858.qzz.io/Smart.php?id=TV3
+TV3,https://smt.go-iptv.ggff.net/smart.php?id=TV3&token=Goiptv
+TV3,http://jp.809899.xyz/smt.php?id=TV3
+TV3,https://smart.dxjc.pp.ua/smart.php?id=TV3&token=tmxk
+TV9,https://smt.858.qzz.io/Smart.php?id=TV9
+TV9,https://smt.go-iptv.ggff.net/smart.php?id=TV9&token=Goiptv
+TV9,http://jp.809899.xyz/smt.php?id=TV9
+TV9,https://smart.dxjc.pp.ua/smart.php?id=TV9&token=tmxk
+TVB Classic,https://smt.858.qzz.io/Smart.php?id=Tvbclassic
+TVB Classic,https://smt.go-iptv.ggff.net/smart.php?id=Tvbclassic&token=Goiptv
+TVB Classic,http://jp.809899.xyz/smt.php?id=Tvbclassic
+TVB Classic,https://smart.dxjc.pp.ua/smart.php?id=Tvbclassic&token=tmxk
+TVB Jade,https://smt.858.qzz.io/Smart.php?id=Tvbjade
+TVB Jade,https://smt.go-iptv.ggff.net/smart.php?id=Tvbjade&token=Goiptv
+TVB Jade,http://jp.809899.xyz/smt.php?id=Tvbjade
+TVB Jade,https://smart.dxjc.pp.ua/smart.php?id=Tvbjade&token=tmxk
+Warner TV,https://smt.858.qzz.io/Smart.php?id=WarnerTV
+Warner TV,https://smt.go-iptv.ggff.net/smart.php?id=WarnerTV&token=Goiptv
+Warner TV,http://jp.809899.xyz/smt.php?id=WarnerTV
+Warner TV,https://smart.dxjc.pp.ua/smart.php?id=WarnerTV&token=tmxk
+
 舞曲,#genre#
 浪子闲话,https://v4-vod.kwaicdn.com/bs3/video-hls/5210383404224451227_hlsb.m3u8?ftt=R&pkey=AAXQdQrGksz-XD2RBhGklNiauXKhCZvMhALeOZLZPhlvliW1qkft7nvltrxs3I-HHznQpZVHIiKW44jvqNBFj39NboYpb0SCJJUxbGSQb88EfLH5ibzpJsmhGW6P1idVX3M&ss=vp
 
@@ -6745,4 +7110,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-01-10 07:03:17,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-10 19:04:38,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
