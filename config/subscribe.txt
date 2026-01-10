@@ -2,8 +2,15 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://gh-proxy.org/https://raw.githubusercontent.com/x22c/okk/refs/heads/master/output/user_result.txt
+组播
 https://ghfast.top/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
+港澳
+https://bxtv.3a.ink/live.txt
 
+https://gitee.com/rgzyyuncang/vip/raw/master/jars/quanq.png
+看球
+http://rihou.cc:555/gggg.nzk
+http://rihou.cc:567/gggg.nzk
 
 
 https://live.hacks.tools/tv/iptv4.txt
@@ -18,8 +25,7 @@ https://live.zbds.top/tv/iptv4.txt
 
 http://bxtv.3a.ink/live.m3u
 
-http://rihou.cc:555/gggg.nzk
-http://rihou.cc:567/gggg.nzk
+
 
 
 
