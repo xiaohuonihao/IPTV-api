@@ -2,6 +2,10 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://gh-proxy.org/https://raw.githubusercontent.com/x22c/okk/refs/heads/master/output/user_result.txt
+https://ghfast.top/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
+
+
+
 https://live.hacks.tools/tv/iptv4.txt
 https://sub.ottiptv.cc/huyayqk.m3u
 https://sub.ottiptv.cc/douyuyqk.m3u
