@@ -13,6 +13,9 @@ https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output
 https://gitlab.com/tvkj/loong/-/raw/main/loog.txt
 https://gitee.com/rgzyyuncang/vip/raw/master/jars/quanq.png
 
+国际
+http://tv.850930.xyz/kdsb.txt
+
 看球
 https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 http://rihou.cc:555/gggg.nzk
