@@ -3452,8 +3452,6 @@ https://hk.188766.xyz/?migutoken=f1bc94894205183fe3bddc8a6769ab6c&id=hk_tvbxh&ty
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="港*澳*台",TVB星河
 https://hk.188766.xyz/?migutoken=e550440a8c09c0876f8f005e2e3bb88f&id=hk_tvbxh&type=dy
 #EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="港*澳*台",TVB翡翠
-http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="港*澳*台",TVB翡翠
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 #EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="港*澳*台",TVB翡翠
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
@@ -3471,6 +3469,8 @@ http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 http://php.jdshipin.com/PLTV/iptv.php?id=fct2
 #EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="港*澳*台",TVB翡翠
 http://php.jdshipin.com/PLTV/iptv.php?id=fct
+#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="港*澳*台",TVB翡翠
+http://r.jdshipin.com/qrfbg
 #EXTINF:-1 tvg-name="TVB明珠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB明珠.png" group-title="港*澳*台",TVB明珠
 http://php.jdshipin.com/smt.php?id=pearl_twn
 #EXTINF:-1 tvg-name="TVB明珠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB明珠.png" group-title="港*澳*台",TVB明珠
@@ -14227,5 +14227,5 @@ http://iptv.666230.xyz/iptv/jsyd.php/R_CAIJING
 http://iptv.666230.xyz/iptv/jsyd.php/R_WENYI
 #EXTINF:-1 tvg-name="江苏新闻广播" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏新闻广播.png" group-title="广播电台",江苏新闻广播
 http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-12 07:05:04
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-12 19:11:21
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
