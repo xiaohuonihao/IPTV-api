@@ -653,6 +653,7 @@ CCTV中学生,http://gslbmgsplive.miguvideo.com/migu/kailu/20210415/cctvzhongxue
 大湾区卫视,https://www.freetv.top/migu/608917627.m3u8?migutoken=bad0a45eea94649f2e7f1b35e1d98d034b874a02984a76abb21e4537dee28f974e6da241dc7705109722be71c8b1302302b51cd4cb06c69ca55fdcf7279d415e0a0fce7c492b6842956ab34fcc
 大湾区卫视,https://www.freetv.top/migu/608917627.m3u8?migutoken=6e23ed23803d2776218fbd5b6931d4dd0d0a20d0269ca0da6b2efaaf101f71c62689ec1d6f73e16a10d1b756f7e23f0de494b881e2bc39c12250715721f84c185577680003f363869dba1b7e90
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
+星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 美亚电影,https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
 美亚电影,https://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
@@ -1666,6 +1667,7 @@ TVB PLUS,https://smart.dxjc.pp.ua/smart.php?id=j2_twn&token=tmxk
 美亚电影,https://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
 美亚电影,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
+星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
@@ -7252,4 +7254,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-01-14 07:10:10,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-14 19:12:49,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
