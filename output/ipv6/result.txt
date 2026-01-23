@@ -1972,6 +1972,7 @@ HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 中视菁采台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv064
 中天亚洲台,https://4gtv.dxjc.pp.ua/4gtv-4gtv109/index.m3u8?token=tmxk
 中天亚洲台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv109
+中天亚洲台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv109
 民视台湾台,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
 民视台湾台,https://smart.dxjc.pp.ua/smart.php?id=ftvtaiwan_twn&token=tmxk
 民视台湾台,https://4gtv.dxjc.pp.ua/4gtv-4gtv001/index.m3u8?token=tmxk
@@ -2161,6 +2162,7 @@ Plus综合,http://php.jdshipin.com/PLTV/iptv.php?id=j2
 龙华戏剧,https://4gtv.dxjc.pp.ua/litv-longturn18/index.m3u8?token=tmxk
 龙华戏剧,http://php.666230.xyz/smt.php?id=lunghuaxiju_twn
 龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
+龙华戏剧,http://cdn8.veryfast.filegear-sg.me/live/lhxj/stream.m3u8
 东森洋片,http://jp.809899.xyz/smt.php?id=ettvwestern
 东森洋片,http://php.666230.xyz/smt.php?id=ettvwestern
 东森洋片,https://smart.dxjc.pp.ua/smart.php?id=ettvwestern&token=tmxk
@@ -2178,6 +2180,7 @@ Plus综合,http://php.jdshipin.com/PLTV/iptv.php?id=j2
 龙华卡通,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn01
 龙华卡通,https://4gtv.dxjc.pp.ua/li-litv-longturn01/index.m3u8?token=tmxk
 龙华卡通,https://4gtv.dxjc.pp.ua/litv-longturn01/index.m3u8?token=tmxk
+龙华卡通,http://cdn8.veryfast.filegear-sg.me/live/lhkt/stream.m3u8
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华电影,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn03
 龙华电影,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn03
@@ -2185,6 +2188,7 @@ Plus综合,http://php.jdshipin.com/PLTV/iptv.php?id=j2
 龙华电影,https://smart.dxjc.pp.ua/smart.php?id=xingwei_movie&token=tmxk
 龙华电影,https://4gtv.dxjc.pp.ua/li-litv-longturn03/index.m3u8?token=tmxk
 龙华电影,https://4gtv.dxjc.pp.ua/litv-longturn03/index.m3u8?token=tmxk
+龙华电影,http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
 纬来电影,http://mytv.cdn.com.mp/live/wldy/stream.m3u8
 纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 纬来电影,https://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
@@ -2266,6 +2270,7 @@ AXN电影,https://smt.858.qzz.io/Smart.php?id=axn_twn
 龙华日韩,https://4gtv.dxjc.pp.ua/li-litv-longturn11/index.m3u8?token=tmxk
 龙华日韩,https://4gtv.dxjc.pp.ua/litv-longturn11/index.m3u8?token=tmxk
 龙华日韩,https://cdn8.163189.xyz/163189/lhrh
+龙华日韩,http://cdn8.veryfast.filegear-sg.me/live/lhrh/stream.m3u8
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 龙华洋片,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn02
 龙华洋片,http://cdn8.163189.xyz/163189/lhyp
@@ -2273,6 +2278,7 @@ AXN电影,https://smt.858.qzz.io/Smart.php?id=axn_twn
 龙华洋片,https://smart.dxjc.pp.ua/smart.php?id=lunghuawestern_twn&token=tmxk
 龙华洋片,https://4gtv.dxjc.pp.ua/li-litv-longturn02/index.m3u8?token=tmxk
 龙华洋片,https://4gtv.dxjc.pp.ua/litv-longturn02/index.m3u8?token=tmxk
+龙华洋片,http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
 龙祥电影,https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
 龙祥电影,https://smt.go-iptv.ggff.net/smart.php?id=lungxiangtime_twn&token=Goiptv
 好莱坞电影,http://mytv.cdn.com.mp/live/hlwdy/stream.m3u8
@@ -2319,6 +2325,7 @@ NHK World,http://jp.809899.xyz/smt.php?id=nhkworld_japan
 NHK World,https://smart.dxjc.pp.ua/smart.php?id=nhkworld_japan&token=tmxk
 新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡CNA,https://live.lalifeier.eu.org/youtube/XWq5kBlakcQ.m3u8?t=1768778809&key=9f5ae26f88b8785a9c52f52cc96f8b60
+新加坡CNA,https://live.lalifeier.eu.org/youtube/XWq5kBlakcQ.m3u8?t=1769124524&key=303481fbe78cf317e97b3bf06791d7f1
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,https://tzh911.qzz.io/play-smt.php?id=cna
@@ -7265,4 +7272,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-01-23 07:16:36,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-23 19:19:14,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
