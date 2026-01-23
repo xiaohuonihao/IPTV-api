@@ -1947,6 +1947,7 @@ CN卡通频道,http://pullpackage.alivecdn.com/live/S31m2rw7UUNxgJaq9YeLysJgqOz7
 中天亚洲台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv109
 中天亚洲台,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
 中天亚洲台,https://4gtv.dxjc.pp.ua/4gtv-4gtv109/index.m3u8?token=tmxk
+中天亚洲台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv109
 民视台湾台,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
 民视台湾台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv001
 民视台湾台,https://smart.dxjc.pp.ua/smart.php?id=ftvtaiwan_twn&token=tmxk
@@ -2182,6 +2183,7 @@ Plus综合,https://cdn6.101.qzz.io/163189/tvbp
 龙华戏剧,https://smart.dxjc.pp.ua/smart.php?id=lunghuaxiju_twn&token=tmxk
 龙华戏剧,https://4gtv.dxjc.pp.ua/li-litv-longturn18/index.m3u8?token=tmxk
 龙华戏剧,https://4gtv.dxjc.pp.ua/litv-longturn18/index.m3u8?token=tmxk
+龙华戏剧,http://cdn8.veryfast.filegear-sg.me/live/lhxj/stream.m3u8
 东森洋片,http://pullpackage.alivecdn.com/live/kik9tNVo2R9KMDD687bFX3vtLMD4Lwg69y94g8XKH40P1BOa5U.flv
 东森洋片,http://free.cnlive.club/channel/7cb8b9f4.m3u8
 东森洋片,http://jp.809899.xyz/smt.php?id=ettvwestern
@@ -2202,6 +2204,7 @@ Plus综合,https://cdn6.101.qzz.io/163189/tvbp
 龙华卡通,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn01
 龙华卡通,https://4gtv.dxjc.pp.ua/li-litv-longturn01/index.m3u8?token=tmxk
 龙华卡通,https://4gtv.dxjc.pp.ua/litv-longturn01/index.m3u8?token=tmxk
+龙华卡通,http://cdn8.veryfast.filegear-sg.me/live/lhkt/stream.m3u8
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华电影,http://free.cnlive.club/channel/n5e8ca809.m3u8
 龙华电影,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn03
@@ -2210,6 +2213,7 @@ Plus综合,https://cdn6.101.qzz.io/163189/tvbp
 龙华电影,https://smart.dxjc.pp.ua/smart.php?id=xingwei_movie&token=tmxk
 龙华电影,https://4gtv.dxjc.pp.ua/li-litv-longturn03/index.m3u8?token=tmxk
 龙华电影,https://4gtv.dxjc.pp.ua/litv-longturn03/index.m3u8?token=tmxk
+龙华电影,http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
 纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 纬来电影,http://pullpackage.alivecdn.com/live/LIjQbqWr0oCfwR6SjWMVXyUh5m1qsJgqORFprvbBloK6NfqVBD.flv
 纬来电影,https://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
@@ -2295,6 +2299,7 @@ AXN电影,https://smt.go-iptv.ggff.net/smart.php?id=axn_twn&token=Goiptv
 龙华日韩,https://cdn8.163189.xyz/163189/lhrh
 龙华日韩,https://4gtv.dxjc.pp.ua/li-litv-longturn11/index.m3u8?token=tmxk
 龙华日韩,https://4gtv.dxjc.pp.ua/litv-longturn11/index.m3u8?token=tmxk
+龙华日韩,http://cdn8.veryfast.filegear-sg.me/live/lhrh/stream.m3u8
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 龙华洋片,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn02
 龙华洋片,http://free.cnlive.club/channel/n5e8d9249.m3u8
@@ -2303,6 +2308,7 @@ AXN电影,https://smt.go-iptv.ggff.net/smart.php?id=axn_twn&token=Goiptv
 龙华洋片,https://smart.dxjc.pp.ua/smart.php?id=lunghuawestern_twn&token=tmxk
 龙华洋片,https://4gtv.dxjc.pp.ua/li-litv-longturn02/index.m3u8?token=tmxk
 龙华洋片,https://4gtv.dxjc.pp.ua/litv-longturn02/index.m3u8?token=tmxk
+龙华洋片,http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
 龙祥电影,https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
 龙祥电影,https://smt.go-iptv.ggff.net/smart.php?id=lungxiangtime_twn&token=Goiptv
 好莱坞电影,http://jp.809899.xyz/smt.php?id=hollywoodmovies_twn
@@ -6981,4 +6987,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-01-23 06:41:28,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-23 18:43:44,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
