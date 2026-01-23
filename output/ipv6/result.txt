@@ -4332,6 +4332,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 狂飙,https://yylunbo.ottiptv.cc/yy/1353873252
 狂飙,https://live.ottiptv.cc/yy/1354936131
 狂飙,https://yylunbo.ottiptv.cc/yy/22089862
+狂飙,https://yylunbo.ottiptv.cc/yy/1382626335
 唐诡之西行,https://live.ottiptv.cc/huya/26355763
 玫瑰的故事,https://live.ottiptv.cc/huya/23865142
 梦中的那片海,https://live.ottiptv.cc/huya/26355765
@@ -6498,6 +6499,7 @@ dj舞曲金典,https://vd2.bdstatic.com/mda-mkk0g8x89nnx62tm/sc/cae_h264/1637456
 狂飙,https://yylunbo.ottiptv.cc/yy/1353873252
 狂飙,https://live.ottiptv.cc/yy/1354936131
 狂飙,https://yylunbo.ottiptv.cc/yy/22089862
+狂飙,https://yylunbo.ottiptv.cc/yy/1382626335
 狭路相逢,https://vd3.bdstatic.com/mda-kd0mku18u3rui7gz/v1-cae/hd/mda-kd0mku18u3rui7gz.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
 狭路相逢,https://vd3.bdstatic.com/mda-kanfj7h320ueqgkg/v1-cae/hd/mda-kanfj7h320ueqgkg.mp4
 王启文老鼠爱大米,https://vd3.bdstatic.com/mda-pd3dun5ckgtdf71z/sc/cae_h264/1680602128481942845/mda-pd3dun5ckgtdf71z.mp4
@@ -6987,4 +6989,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-01-23 18:43:44,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-24 06:37:53,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
