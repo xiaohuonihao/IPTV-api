@@ -1,6 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/dianshijia_10.1.txt
 
 电视家重生
 https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/电视家.m3u
