@@ -2,7 +2,13 @@
 # This is a list of subscription sources, with one subscription address per line
 
 
-
+电视家重生
+https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/电视家.m3u
+好朋友直播（几万电影频道）
+https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/几万电影频道.m3u
+全球直播
+https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/全球直播.m3u
+Guovin: https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
 
 https://gh-proxy.org/https://raw.githubusercontent.com/x22c/okk/refs/heads/master/output/user_result.txt
 组播
