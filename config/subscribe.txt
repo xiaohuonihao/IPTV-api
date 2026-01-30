@@ -2,6 +2,8 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/dianshijia_10.1.txt
+https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/好朋友直播_几万电影频道.txt
+https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/冰茶去体育去推广.m3u
 
 电视家重生
 https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/电视家.m3u
@@ -9,7 +11,7 @@ https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources
 https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/几万电影频道.m3u
 全球直播
 https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/全球直播.m3u
-Guovin: https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+
 
 https://gh-proxy.org/https://raw.githubusercontent.com/x22c/okk/refs/heads/master/output/user_result.txt
 组播
