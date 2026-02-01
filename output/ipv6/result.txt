@@ -3241,6 +3241,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-1.m3u8
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-3.m3u8
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng.m3u8
+浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-1.m3u8
 杭州综合,http://goo.bkpcp.top/mg/hzzh
 杭州明珠,http://goo.bkpcp.top/mg/hzmz
 杭州生活,http://goo.bkpcp.top/mg/hzsh
@@ -7331,4 +7332,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-02-01 07:24:00,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-02-01 19:27:46,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
