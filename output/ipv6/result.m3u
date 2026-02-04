@@ -3291,6 +3291,10 @@ https://live.ottiptv.cc/bilibili/10697457
 https://live.ottiptv.cc/bilibili/25929800
 #EXTINF:-1 tvg-name="TVBJ2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBJ2.png" group-title="港*澳*台",TVBJ2
 https://live.ottiptv.cc/bilibili/1741660755
+#EXTINF:-1 tvg-name="TVBJ2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBJ2.png" group-title="港*澳*台",TVBJ2
+https://live.ottiptv.cc/bilibili/1805401285
+#EXTINF:-1 tvg-name="TVBJ2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBJ2.png" group-title="港*澳*台",TVBJ2
+https://live.ottiptv.cc/bilibili/822367
 #EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB PLUS.png" group-title="港*澳*台",TVB PLUS
 http://hls.168.us.kg/u/82/master.m3u8
 #EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB PLUS.png" group-title="港*澳*台",TVB PLUS
@@ -14213,6 +14217,8 @@ http://uptt.gcwduoduo.com/webup/220716/4ec6d242079fa332891d09f3b8db3071.mp4
 http://uptt.gcwduoduo.com/v/210309/7007f4d54f2ebc09af78f28a09d04acd.mp4
 #EXTINF:-1 tvg-name="我是谁" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/我是谁.png" group-title="蛇年电影",我是谁
 https://live.ottiptv.cc/bilibili/7279318
+#EXTINF:-1 tvg-name="我是谁" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/我是谁.png" group-title="蛇年电影",我是谁
+https://live.ottiptv.cc/bilibili/21375185
 #EXTINF:-1 tvg-name="龙腾虎跃" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/龙腾虎跃.png" group-title="蛇年电影",龙腾虎跃
 https://vd2.bdstatic.com/mda-nb48vhn84vq41zf3/1080p/cae_h264_delogo/1644042257215201305/mda-nb48vhn84vq41zf3.mp4
 #EXTINF:-1 tvg-name="活着" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/活着.png" group-title="蛇年电影",活着
@@ -14367,5 +14373,5 @@ http://iptv.666230.xyz/iptv/jsyd.php/R_CAIJING
 http://iptv.666230.xyz/iptv/jsyd.php/R_WENYI
 #EXTINF:-1 tvg-name="江苏新闻广播" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏新闻广播.png" group-title="广播电台",江苏新闻广播
 http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-04 07:34:12
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-04 19:43:30
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33

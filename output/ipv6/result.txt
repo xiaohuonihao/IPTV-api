@@ -1659,6 +1659,8 @@ TVBJ2,https://live.ottiptv.cc/bilibili/477706
 TVBJ2,https://live.ottiptv.cc/bilibili/10697457
 TVBJ2,https://live.ottiptv.cc/bilibili/25929800
 TVBJ2,https://live.ottiptv.cc/bilibili/1741660755
+TVBJ2,https://live.ottiptv.cc/bilibili/1805401285
+TVBJ2,https://live.ottiptv.cc/bilibili/822367
 TVB PLUS,http://hls.168.us.kg/u/82/master.m3u8
 TVB PLUS,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
 TVB PLUS,http://php.jdshipin.com/PLTV/iptv.php?id=j2
@@ -7250,6 +7252,7 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 少林小子,http://uptt.gcwduoduo.com/webup/220716/4ec6d242079fa332891d09f3b8db3071.mp4
 南北少林,http://uptt.gcwduoduo.com/v/210309/7007f4d54f2ebc09af78f28a09d04acd.mp4
 我是谁,https://live.ottiptv.cc/bilibili/7279318
+我是谁,https://live.ottiptv.cc/bilibili/21375185
 龙腾虎跃,https://vd2.bdstatic.com/mda-nb48vhn84vq41zf3/1080p/cae_h264_delogo/1644042257215201305/mda-nb48vhn84vq41zf3.mp4
 活着,https://live.ottiptv.cc/bilibili/11168469
 笑傲江湖,http://lu.wqwqwq.sbs/yy/1354930909
@@ -7335,4 +7338,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-02-04 07:34:12,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-02-04 19:43:30,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
