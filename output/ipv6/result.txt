@@ -1178,6 +1178,7 @@ Skysports F1,https://tzh911.qzz.io/play-smt.php?id=tiankongf1
 Skysports F1,https://smt.go-iptv.ggff.net/smart.php?id=tiankongf1&token=Goiptv
 Skysports F1,http://jp.809899.xyz/smt.php?id=tiankongf1
 Skysports F1,https://smart.dxjc.pp.ua/smart.php?id=tiankongf1&token=tmxk
+Skysports F1,http://dreamdeu.sylu.net:8080/smt.php?id=tiankongf1
 美国摔跤,https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8
 天元围棋,https://cc06.tv12.xyz/47.m3u8
 天元围棋,http://wouu.net:9977/udp/239.93.42.55:5140
@@ -2332,6 +2333,7 @@ cn卡通,http://pullpackage.alivecdn.com/live/S31m2rw7UUNxgJaq9YeLysJgqOz7htk7A1
 五星体育,http://home.dzlove.top:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 五星体育,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/index.m3u8
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8
+AXN,http://tl.061833.xyz/tl/axn
 HBO,http://pullpackage.alivecdn.com/live/GfPVn0eDChnsJgqOmsvZeKXYTNMgH8clNLUesg4VlSCLjkEICb.flv
 HBO,https://bee.188766.xyz/bee?id=beesport&pid=HBO&token=e45259d7e45259d7e45259d7e45259d7
 HBO,https://smart.pendy.dpdns.org/Smart.php?id=Hbo
@@ -2349,6 +2351,7 @@ Animax,https://tzh911.qzz.io/play-smt.php?id=Animax
 Animax,https://smt.go-iptv.ggff.net/smart.php?id=Animax&token=Goiptv
 Animax,http://jp.809899.xyz/smt.php?id=Animax
 Animax,https://smart.dxjc.pp.ua/smart.php?id=Animax&token=tmxk
+Animax,http://dreamdeu.sylu.net:8080/smt.php?id=Animax
 EYE-戏剧,https://smt.858.qzz.io/Smart.php?id=eyetvxiju_twn
 EYE-戏剧,https://smt.go-iptv.ggff.net/smart.php?id=eyetvxiju_twn&token=Goiptv
 美食星球,http://free.cnlive.club/channel/6272ba2c.m3u8
@@ -7047,4 +7050,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-02-08 06:47:49,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-02-08 18:49:39,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
