@@ -5644,6 +5644,7 @@ BS-TBS,https://smt.858.qzz.io/Smart.php?id=bstbs_japan
 BS-TBS,https://smt.go-iptv.ggff.net/smart.php?id=bstbs_japan&token=Goiptv
 BS-TBS,http://jp.809899.xyz/smt.php?id=bstbs_japan
 BS-TBS,http://dreamdeu.sylu.net:8080/smt.php?id=bstbs_japan
+BS-TBS,https://smart.dxjc.pp.ua/smart.php?id=bstbs_japan&token=tmxk
 BSテレ東,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
 BSフジ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
 WOWOWプライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
@@ -5694,6 +5695,7 @@ EBS 1,https://smt.858.qzz.io/Smart.php?id=ebs1_korea
 EBS 1,https://smt.go-iptv.ggff.net/smart.php?id=ebs1_korea&token=Goiptv
 EBS 1,http://jp.809899.xyz/smt.php?id=ebs1_korea
 EBS 1,http://dreamdeu.sylu.net:8080/smt.php?id=ebs1_korea
+EBS 1,https://smart.dxjc.pp.ua/smart.php?id=ebs1_korea&token=tmxk
 EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
 EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
 Gugak TV,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
@@ -7404,4 +7406,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-02-12 07:40:10,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-02-12 19:55:34,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
