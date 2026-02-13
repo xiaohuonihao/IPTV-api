@@ -41,6 +41,7 @@ live.catvod.com
 
 iptv.catvod.com/live.php
 iptv.catvod.com
+php.jdshipin.com
 
 110.42.37.69:6688
 fbd48279.ott.oxtvs.com
