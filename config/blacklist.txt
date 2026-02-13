@@ -40,6 +40,7 @@ xtvantsc.xyz
 live.catvod.com
 
 iptv.catvod.com/live.php
+iptv.catvod.com
 
 110.42.37.69:6688
 fbd48279.ott.oxtvs.com
