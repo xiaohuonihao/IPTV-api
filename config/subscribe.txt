@@ -2,7 +2,7 @@
 # This is a list of subscription sources, with one subscription address per line
 
 
-https://13035.kstore.space/url/%E6%AD%8C%E6%9B%B2.txt
+
 https://13035.kstore.space/url/歌曲.txt
 
 
