@@ -47,9 +47,9 @@ php.jdshipin.com
 hk.188766.xyz
 live.ottiptv.cc
 
-php.jdshipin.com/TVOD
-php.jdshipin.com:8880
-php.jdshipin.com/PLTV
+php.jdshipin.com/TVOD/iptv.php
+php.jdshipin.com:8880/smt.php
+php.jdshipin.com/TVOD/iptv.php
 
 
 110.42.37.69:6688
