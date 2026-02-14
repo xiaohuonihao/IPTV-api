@@ -1,6 +1,12 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+
+https://13035.kstore.space/url/歌曲.txt
+
+
+
+
 https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/dianshijia_10.1.txt
 https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/好朋友直播_几万电影频道.txt
 https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/冰茶去体育去推广.m3u
