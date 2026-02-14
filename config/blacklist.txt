@@ -46,3 +46,17 @@ live.catvod.com
 iptv.catvod.com/live.php
 iptv.catvod.com
 php.jdshipin.com
+php.jdshipin.com
+hk.188766.xyz
+live.ottiptv.cc
+
+php.jdshipin.com/TVOD/iptv.php
+php.jdshipin.com:8880/smt.php
+php.jdshipin.com/TVOD/iptv.php
+
+
+
+
+
+
+
