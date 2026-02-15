@@ -1407,6 +1407,7 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 古天乐电影,https://live.metshop.top/huya/29982675
 成龙电影,https://live.metshop.top/huya/11342386
 甄子丹电影,https://live.metshop.top/huya/11352935
+沈腾电影,https://live.metshop.top/huya/11601968
 黄渤电影,https://live.metshop.top/huya/11352876
 强森电影,https://live.metshop.top/huya/21059581
 王晶电影,https://live.metshop.top/huya/11602058
@@ -6704,4 +6705,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-02-15 06:46:22,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-02-15 18:49:31,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
