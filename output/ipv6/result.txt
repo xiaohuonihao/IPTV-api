@@ -681,6 +681,7 @@ CCTV中学生,http://gslbmgsplive.miguvideo.com/migu/kailu/20210415/cctvzhongxue
 央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
 央视台球,http://www.xiaomo520.cn:4020/udp/239.252.219.80:5140
 央视台球,http://iptv.666230.xyz/iptv/jsyd.php/G_TAIQIU-CQ
+央视台球,http://www.qfly9236.cn:8888/rtp/239.253.93.231:6409
 电视指南,http://iptv.666230.xyz/iptv/jsyd.php/G_DIANSHIZN-CQ
 电视指南,http://ott.mobaibox.com/PLTV/3/224/3221228689/index.m3u8
 风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
@@ -982,11 +983,13 @@ CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415
 CHC影迷电影,https://live.chinacert.cftest5.cn/mg/?id=952383261
 七龙珠,https://live.iill.top/huya/11601966
 七龙珠,https://live.metshop.top/huya/11601966
+七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966
 蜡笔小新,http://aiony.top:35455/huya/11352970
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
 中华小当家,https://live.iill.top/huya/11342413
 中华小当家,http://live.iill.top/huya.php?id=11342413
+中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413
 斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105
 经典动漫,https://www.goodiptv.club/yy/22777075
 经典动漫,https://yylunbo.ottiptv.cc/yy/67857780
@@ -4286,6 +4289,7 @@ Q版三国剧集,http://rihou.cc:555/huyad.php?id=29465871
 三国演义,https://live.metshop.top/yy/1354936241
 三国演义,http://live.iill.top/yy.php?id=1354936241
 三国演义,https://live.metshop.top/huya/11602081
+三国演义,http://cdn.jdshipin.com:8880/huya.php?id=11602081
 三国,http://rihou.cc:555/huyad.php?id=11352944
 三国,https://live.metshop.top/huya/11352944
 三国,https://4gtv.dxjc.pp.ua/ofiii103/index.m3u8?token=tmxk
@@ -7238,4 +7242,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 江苏新闻广播,http://iptv.666230.xyz/iptv/jsyd.php/R_XINWEN
 
 🕘️更新时间,#genre#
-2026-02-25 07:52:31,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-02-25 20:10:58,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
