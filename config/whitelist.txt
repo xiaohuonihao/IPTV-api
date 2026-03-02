@@ -7,7 +7,20 @@
 
 
 
-
+民视,rtmp://f13h.mine.nu/sat/tv051$!
+台视,rtmp://f13h.mine.nu/sat/tv071$!
+中视,rtmp://f13h.mine.nu/sat/tv091$!
+华视,rtmp://f13h.mine.nu/sat/tv111$!
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581$!
+东森超视,rtmp://f13h.mine.nu/sat/tv331$!
+纬来体育,rtmp://f13h.mine.nu/sat/tv721$!
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701$!
+纬来日本,rtmp://f13h.mine.nu/sat/tv771$!
+MOMO综合,rtmp://f13h.mine.nu/sat/tv761$!
+DAZN体育1,rtmp://f13h.mine.nu/sat/tv731$!
+DAZN体育2,rtmp://f13h.mine.nu/sat/tv741$!
+ELTA体育3,rtmp://9hv9.mine.nu/sat/md011$!
+ELTA体育4,rtmp://9hv9.mine.nu/sat/md021$!
 
 [KEYWORDS]
 # 以下区域是关键字白名单，某频道获取到的接口地址中含有指定关键字，则该接口会被加入该频道的白名单，多条记录换行输入。
