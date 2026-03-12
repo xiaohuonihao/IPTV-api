@@ -10,7 +10,9 @@ name: 'Update schedule'
 # If scheduled execution is required, use other deployment methods.
 
 on:
-  workflow_dispatch:
+  schedule:                    # 新增
+    - cron: '0 0,10 * * *'    # 新增（北京时间 8:00 和 18:00）
+  workflow_dispatch:           # 原有的保持不变
 
 jobs:
   push:
