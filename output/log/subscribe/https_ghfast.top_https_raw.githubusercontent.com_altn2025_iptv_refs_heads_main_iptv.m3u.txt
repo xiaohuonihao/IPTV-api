@@ -1,0 +1,837 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港",翡翠台 (源1)
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港",翡翠台 (源2)
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港",翡翠台 (源3)
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港",翡翠台 (源4)
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港",翡翠台 (马来西亚版)
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="香港",无线新闻台 (源1)
+http://php.jdshipin.com/smt.php?id=inews_twn
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="香港",无线新闻台 (源2)
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBJ1.png" group-title="香港",TVB J1 (源1)
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBJ1.png" group-title="香港",TVB J1 (源2)
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBPlus.png" group-title="香港",TVB Plus (源1)
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBPlus.png" group-title="香港",TVB Plus (源2)
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png" group-title="香港",TVB星河 (源1)
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png" group-title="香港",TVB星河 (源2)
+http://php.jdshipin.com/smt.php?id=Xinhe
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/明珠台.png" group-title="香港",明珠台
+http://php.jdshipin.com/smt.php?id=pearl_twn
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/TVB娱乐新闻台.png" group-title="香港",TVB娱乐新闻台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVB千禧经典台.png" group-title="香港",TVB千禧经典台
+http://php.jdshipin.com/smt.php?id=Tvbclassic
+
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="香港",美亚电影台
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/ViuTV.png" group-title="香港",ViuTV (源1)
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/ViuTV.png" group-title="香港",ViuTV (源2)
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/HOYTV.png" group-title="香港",HOY TV (源1)
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/HOYTV.png" group-title="香港",HOY TV (源2)
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/港台电视31台.png" group-title="香港",港台电视31台
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/港台电视32台.png" group-title="香港",港台电视32台
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="香港",凤凰中文 (源1)
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="香港",凤凰中文 (源2)
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="香港",凤凰资讯 (源1)
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="香港",凤凰资讯 (源2)
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="香港",凤凰香港 (源1)
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="香港",凤凰香港 (源2)
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBSNEWS.png" group-title="台湾",TVBS NEWS
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/中天娱乐.png" group-title="台湾",中天娱乐
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/动物星球.png" group-title="台湾",动物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/纬来精采.png" group-title="台湾",纬来精采
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/三立戏剧台.png" group-title="台湾",三立戏剧台
+http://61.221.215.25:8800/hls/41/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/华视.png" group-title="台湾",华视
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/台视.png" group-title="台湾",台视
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/中视.png" group-title="台湾",中视
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/民视.png" group-title="台湾",民视
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/东森超视.png" group-title="台湾",东森超视
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/非凡新闻.png" group-title="台湾",非凡新闻
+rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/MOMO綜合台.png" group-title="台湾",MOMO綜合台
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/纬来育乐.png" group-title="台湾",纬来育乐
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 "纬来日本" tvg-logo="https://live.fanmingming.cn/tv/纬来日本.png" group-title="台湾",纬来日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/纬来体育.png" group-title="台湾",纬来体育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/DAZN.png" group-title="台湾",DAZN 体育1台
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/DAZN.png" group-title="台湾",DAZN 体育2台
+rtmp://f13h.mine.nu/sat/tv741
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBS-Asia.png" group-title="台湾",TVBS Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="台湾",民视新闻台
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="台湾",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="台湾",HBO (VPN)
+http://125.227.210.55:8153/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="" group-title="台湾",Cinemax (VPN)
+http://125.227.210.55:8151/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="" group-title="台湾",卡通頻道 (VPN)
+http://125.227.210.55:8167/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="" group-title="台湾",三立新聞 (VPN)
+http://125.227.210.55:8162/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="" group-title="台湾",TVBS (VPN)
+http://125.227.210.55:8188/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="" group-title="台湾",TVBS新聞台 (VPN)
+http://125.227.210.55:8186/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="" group-title="台湾",TVBS歡樂台 (VPN)
+http://125.227.210.55:8187/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/500px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="国际",BBC News
+https://b638a299.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDTmV3c19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s292162/images/logod.png" group-title="国际",CNN International
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.disneyadvertising.com/wp-content/uploads/2023/03/abc-news-live_2021_logo_sq-uai-516x516-1.png" group-title="国际",ABC News Live
+https://aegis-cloudfront-1.tubi.video/33c5cde2-7a0c-4dd4-8dd2-edd99dbf1427/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/CBS_News_old_app_icon.png" group-title="国际",CBS News 24/7
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-logo="https://newsblues.com/wp-content/uploads/2024/11/HwdTwNVp_400x400.jpg" group-title="国际",NBC News NOW
+https://plex-xumoent-nbcnn-x17gi.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://talkingbiznews.wpenginepowered.com/wp-content/uploads/2023/03/l0FPfXAr_400x400.png" group-title="国际",LiveNow from Fox
+https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt99ae31f3e053a966/blt9bbbb4cdcd684a59/60b75691960d552520f73625/PROFILE_PIC_800x800.png" group-title="国际",Sky News
+https://d25w9q07b2mtmw.cloudfront.net/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/d/d7/ABC_News_%28Australia%29.jpg" group-title="国际",ABC News Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际",CBC News
+https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际",Reuters TV
+https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际",Euronews
+https://aegis-cloudfront-1.tubi.video/4748bce1-cc5e-471f-a922-bcf11fece245/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际",Al Jazeera English
+https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="国际",NHK World Japan
+https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际",Bloomberg TV
+https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="国际",France 24
+https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/500px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="国际",BBC News (360p)
+https://b638a299.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDTmV3c19ITFM/d1ee66fb-71e5-408d-945a-31ae598fd476/2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/500px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="国际",BBC News (540p)
+https://b638a299.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDTmV3c19ITFM/d1ee66fb-71e5-408d-945a-31ae598fd476/3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/500px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="国际",BBC News (720p)
+https://b638a299.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDTmV3c19ITFM/d1ee66fb-71e5-408d-945a-31ae598fd476/4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/500px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="国际",BBC News (1080p)
+https://b638a299.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDTmV3c19ITFM/d1ee66fb-71e5-408d-945a-31ae598fd476/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s292162/images/logod.png" group-title="国际",CNN International (360p)
+https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/3.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s292162/images/logod.png" group-title="国际",CNN International (540p)
+https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s292162/images/logod.png" group-title="国际",CNN International (720p)
+https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/1.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s292162/images/logod.png" group-title="国际",CNN International (1080p)
+https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.disneyadvertising.com/wp-content/uploads/2023/03/abc-news-live_2021_logo_sq-uai-516x516-1.png" group-title="国际",ABC News Live (240p)
+https://aegis-cloudfront-1.tubi.video/9d419cbd-86b2-4f8f-be44-98e043f297cc/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://www.disneyadvertising.com/wp-content/uploads/2023/03/abc-news-live_2021_logo_sq-uai-516x516-1.png" group-title="国际",ABC News Live (360p)
+https://aegis-cloudfront-1.tubi.video/9d419cbd-86b2-4f8f-be44-98e043f297cc/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://www.disneyadvertising.com/wp-content/uploads/2023/03/abc-news-live_2021_logo_sq-uai-516x516-1.png" group-title="国际",ABC News Live (480p)
+https://aegis-cloudfront-1.tubi.video/9d419cbd-86b2-4f8f-be44-98e043f297cc/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://www.disneyadvertising.com/wp-content/uploads/2023/03/abc-news-live_2021_logo_sq-uai-516x516-1.png" group-title="国际",ABC News Live (720p)
+https://aegis-cloudfront-1.tubi.video/9d419cbd-86b2-4f8f-be44-98e043f297cc/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/CBS_News_old_app_icon.png" group-title="国际",CBS News 24/7 (360p)
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_21.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/CBS_News_old_app_icon.png" group-title="国际",CBS News 24/7 (540p)
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_22.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/CBS_News_old_app_icon.png" group-title="国际",CBS News 24/7 (720p)
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
+
+#EXTINF:-1 tvg-logo="https://newsblues.com/wp-content/uploads/2024/11/HwdTwNVp_400x400.jpg" group-title="国际",NBC News NOW (240p)
+https://plex-xumoent-nbcnn-x17gi.fast.nbcuni.com/live/master_6.m3u8
+#EXTINF:-1 tvg-logo="https://newsblues.com/wp-content/uploads/2024/11/HwdTwNVp_400x400.jpg" group-title="国际",NBC News NOW (360p)
+https://plex-xumoent-nbcnn-x17gi.fast.nbcuni.com/live/master_2.m3u8
+#EXTINF:-1 tvg-logo="https://newsblues.com/wp-content/uploads/2024/11/HwdTwNVp_400x400.jpg" group-title="国际",NBC News NOW (432p)
+https://plex-xumoent-nbcnn-x17gi.fast.nbcuni.com/live/master_1.m3u8
+#EXTINF:-1 tvg-logo="https://newsblues.com/wp-content/uploads/2024/11/HwdTwNVp_400x400.jpg" group-title="国际",NBC News NOW (720p)
+https://plex-xumoent-nbcnn-x17gi.fast.nbcuni.com/live/master_4.m3u8
+#EXTINF:-1 tvg-logo="https://newsblues.com/wp-content/uploads/2024/11/HwdTwNVp_400x400.jpg" group-title="国际",NBC News NOW (1080p)
+https://plex-xumoent-nbcnn-x17gi.fast.nbcuni.com/live/master_5.m3u8
+
+#EXTINF:-1 tvg-logo="https://talkingbiznews.wpenginepowered.com/wp-content/uploads/2023/03/l0FPfXAr_400x400.png" group-title="国际",LiveNow from Fox (360p)
+https://d3tlzddkbbpp5n.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/b3bd0bc8-906e-470e-8f4a-94558dfb0442/0.m3u8
+#EXTINF:-1 tvg-logo="https://talkingbiznews.wpenginepowered.com/wp-content/uploads/2023/03/l0FPfXAr_400x400.png" group-title="国际",LiveNow from Fox (480p)
+https://d3tlzddkbbpp5n.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/b3bd0bc8-906e-470e-8f4a-94558dfb0442/1.m3u8
+#EXTINF:-1 tvg-logo="https://talkingbiznews.wpenginepowered.com/wp-content/uploads/2023/03/l0FPfXAr_400x400.png" group-title="国际",LiveNow from Fox (720p)
+https://d3tlzddkbbpp5n.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/b3bd0bc8-906e-470e-8f4a-94558dfb0442/2.m3u8
+#EXTINF:-1 tvg-logo="https://talkingbiznews.wpenginepowered.com/wp-content/uploads/2023/03/l0FPfXAr_400x400.png" group-title="国际",LiveNow from Fox (1080p)
+https://d3tlzddkbbpp5n.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/b3bd0bc8-906e-470e-8f4a-94558dfb0442/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt99ae31f3e053a966/blt9bbbb4cdcd684a59/60b75691960d552520f73625/PROFILE_PIC_800x800.png" group-title="国际",Sky News (216p)
+https://d25w9q07b2mtmw.cloudfront.net/live/master_6.m3u8
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt99ae31f3e053a966/blt9bbbb4cdcd684a59/60b75691960d552520f73625/PROFILE_PIC_800x800.png" group-title="国际",Sky News (360p)
+https://d25w9q07b2mtmw.cloudfront.net/live/master_2.m3u8
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt99ae31f3e053a966/blt9bbbb4cdcd684a59/60b75691960d552520f73625/PROFILE_PIC_800x800.png" group-title="国际",Sky News (432p)
+https://d25w9q07b2mtmw.cloudfront.net/live/master_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt99ae31f3e053a966/blt9bbbb4cdcd684a59/60b75691960d552520f73625/PROFILE_PIC_800x800.png" group-title="国际",Sky News (720p)
+https://d25w9q07b2mtmw.cloudfront.net/live/master_4.m3u8
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt99ae31f3e053a966/blt9bbbb4cdcd684a59/60b75691960d552520f73625/PROFILE_PIC_800x800.png" group-title="国际",Sky News (1080p)
+https://d25w9q07b2mtmw.cloudfront.net/live/master_5.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/d/d7/ABC_News_%28Australia%29.jpg" group-title="国际",ABC News Australia (360p)
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_7.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/d/d7/ABC_News_%28Australia%29.jpg" group-title="国际",ABC News Australia (576p)
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_6.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/d/d7/ABC_News_%28Australia%29.jpg" group-title="国际",ABC News Australia (720p)
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际",CBC News (240p)
+https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master240P.m3u8
+#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际",CBC News (360p)
+https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master360P.m3u8
+#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际",CBC News (480p)
+https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master480P.m3u8
+#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际",CBC News (576p)
+https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master576P.m3u8
+#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际",CBC News (720p)
+https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master720p.m3u8
+#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际",CBC News (1080p)
+https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master1080P.m3u8
+
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际",Reuters TV (240p)
+https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist240P.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际",Reuters TV (360p)
+https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist360P.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际",Reuters TV (480p)
+https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist480P.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际",Reuters TV (576p)
+https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist576P.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际",Reuters TV (720p)
+https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际",Reuters TV (1080p)
+https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际",Euronews (240p)
+https://aegis-cloudfront-1.tubi.video/91f019ef-08a3-4379-9bc3-5080ef53813a/euronews-en-avc1_250000=1-mp4a_143200_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际",Euronews (360p)
+https://aegis-cloudfront-1.tubi.video/91f019ef-08a3-4379-9bc3-5080ef53813a/euronews-en-avc1_360000=3-mp4a_143200_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际",Euronews (480p)
+https://aegis-cloudfront-1.tubi.video/91f019ef-08a3-4379-9bc3-5080ef53813a/euronews-en-avc1_480000=4-mp4a_143200_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际",Euronews (576p)
+https://aegis-cloudfront-1.tubi.video/91f019ef-08a3-4379-9bc3-5080ef53813a/euronews-en-avc1_900000=5-mp4a_143200_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际",Euronews (720p)
+https://aegis-cloudfront-1.tubi.video/91f019ef-08a3-4379-9bc3-5080ef53813a/euronews-en-avc1_3300000=7-mp4a_143200_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际",Al Jazeera English (360p)
+https://live-hls-web-aje-fa.getaj.net/AJE/05.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际",Al Jazeera English (420p)
+https://live-hls-web-aje-fa.getaj.net/AJE/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际",Al Jazeera English (540p)
+https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际",Al Jazeera English (720p)
+https://live-hls-web-aje-fa.getaj.net/AJE/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际",Al Jazeera English (1080p)
+https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="国际",NHK World Japan (360p)
+https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index_600k.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="国际",NHK World Japan (720p)
+https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index_2M.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="国际",NHK World Japan (1080p)
+https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际",Bloomberg TV (272p)
+https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/c2270dd8b41c6356dc14fae747a32c29.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际",Bloomberg TV (360p)
+https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/170f2f717127ac5dc8bbb9f4c8445c51.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际",Bloomberg TV (720p)
+https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/6b37746aa01646b6e8bcdbf391371600.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际",Bloomberg TV (1080p)
+https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/3ea2c48ba0034cc276591c94a5b439c0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="国际",France 24 (360p)
+https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/360p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="国际",France 24 (480p)
+https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="国际",France 24 (720p)
+https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="国际",France 24 (1080p)
+https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ290.png" group-title="音乐",Vevo '70s
+https://dlpg8tl1ugdoo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u38d4zi2bpmec/Vevo_70s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD300011KQ
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJWcT.png" group-title="音乐",Vevo '80s
+https://d17i214xp3vw8a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5vjb8mjxp73gd/Vevo_80s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD300012YC
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ30H.png" group-title="音乐",Vevo '90s
+https://d321u5fu9qef79.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yinfe6h5dj8i1/Vevo_90s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000133M
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXcIf.png" group-title="音乐",Vevo 2K
+https://d4dkvp1ga8v8z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkvocv263tp96/Vevo_2K.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB4400015F5
+#EXTINF:-1 tvg-logo="" group-title="音乐",Vevo 2010s
+https://d1td33xo32wcw8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eriheq1pngmtd/Vevo_2010s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD120002431
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXRJS.png" group-title="音乐",Vevo Pop
+https://d33yiufuiyic30.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f94huxetzks7d/Vevo_Pop.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600008WY
+#EXTINF:-1 tvg-logo="" group-title="音乐",Vevo R&B
+https://d3cu9t0v0j3v7r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-irsyy4yjtdieo/Vevo_R_B.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3900009K5
+#EXTINF:-1 tvg-logo="" group-title="音乐",Vevo Hip-Hop
+https://d14y8035xivxd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-46idq7bdmcbwf/Vevo_Hip_Hop.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600002EK
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXWRg.png" group-title="音乐",Vevo Country
+https://d3u2u3qzvtw7w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-apxt8ie33sx6d/Vevo_Country.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600001RQ
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIzR7n.png" group-title="音乐",Vevo Retro Rock
+https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000145P
+#EXTINF:-1 tvg-logo="" group-title="音乐",Vevo Features
+https://d1ze674i4apj8g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dnsrl2co4rjn8/Vevo_Features.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD1200008GL
+#EXTINF:-1 tvg-logo="" group-title="音乐",Vevo Latino
+https://d1ylrwzh4ekdq4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2v53vq46l9e0c/Vevo_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600015GF
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png" group-title="音乐",XITE 80s Flashback
+https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB320000647
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png" group-title="音乐",XITE 90s Throwback
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB3200007AK
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240702T044845SQUARE.png" group-title="音乐",XITE Celebrates
+https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD350003932
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20240716T002641SQUARE.png" group-title="音乐",XITE Classic Country
+https://d2tcgvmxn0otsl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxf3mwifay8co/XITE_Countrys_Finest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300011UT
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20240716T002639SQUARE.png" group-title="音乐",XITE Country Today
+https://d18gddrg3q1rlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4hn4yums84y5/XITE_Country_Today.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300006O3
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" group-title="音乐",XITE Hits
+https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300004RH
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300005EX_20240716T002645SQUARE.png" group-title="音乐",XITE Icons
+https://d13bxksjj2abuy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yxuum05f6hop9/XITE_Icons.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300005EX
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240716T002652SQUARE.png" group-title="音乐",XITE Just Chill
+https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB2300003JZ
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20240924T011037SQUARE.png" group-title="音乐",XITE Nuevo Latino
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300007PB
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300008DG_20240716T002646SQUARE.png" group-title="音乐",XITE Only Love
+https://d3a9vrmy2tps6h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wvkbtotxbhlwq/XITE_Only_Love.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300008DG
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20240716T002648SQUARE.png" group-title="音乐",XITE R&B Classic Jams
+https://d163j5tlekse0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-133wbycdrwhvy/XITE_RnB_Classic_Jams.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD330000948
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="音乐",XITE Rock x Metal
+https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB2300004KV
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20240924T011040SQUARE.png" group-title="音乐",XITE Siempre Latino
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300010L9
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="音乐",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="音乐",Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="音乐",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="音乐",Movie Music by Stingray
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="音乐",Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="音乐",Now 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="音乐",Now 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="音乐",Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Schlager Deluxe
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Deluxe Dance by Kontor
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Deluxe Rap
+https://d2l1hs6hxlg3df.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pb0nloqsgtwc2/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=DEBD3800001QD
+#EXTINF:-1 tvg-logo="" group-title="音乐",Deluxe Deutschpop
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/95d6544c-4164-11ec-9c7c-2cf753b8a203/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-logo="" group-title="音乐",Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",New K-Pop
+https://newidco-newkid-1-eu.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",YG TV
+https://newidco-ygtv-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://news.imz.at/imzfiles/378556-logo.png" group-title="音乐",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="音乐",Clubbing TV
+https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",Qwest TV
+https://qwest-jazz-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",SPIN
+https://bec-spin-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",Def Jam
+https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",California Music Channel
+https://cmc-ono.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",Loupe
+https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4QLjUGO.png" group-title="音乐",Magic TV
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="音乐",Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ja6c2YZ.png" group-title="音乐",Kiss Kiss TV
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",VH1+ Rock Italy (VPN)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636a4173e34fd50007534542/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sy1BDNK.png" group-title="音乐",Muzzik Rock&Roll
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik MOBA
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E9ha9Or.png" group-title="音乐",Muzzik POP STAR
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Y5NAEF.png" group-title="音乐",J.E.K.A. Muzzik
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik ZZ TV
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tEzppGC.png" group-title="音乐",Worldwide Muzzik
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik TIKTAK
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",MUZZIK
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik SENSE
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik FLASHBACK
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik ELECTRO
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ290.png" group-title="音乐",Vevo '70s (240p)
+https://amg00056-vevotv-vevo70s-plex-83ipk.amagi.tv/playlist/amg00056-vevotv-vevo70s-plex/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a7781a56a80c47852d4e71dabe1e45d46cb07f484aed596c1b64dbe458ab275b90835bda7c4be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf04589b394e428980b8e7d5fd1752b3ad16329ecca1c4a585696066ca1edc/195/426x240_511680/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ290.png" group-title="音乐",Vevo '70s (360p)
+https://amg00056-vevotv-vevo70s-plex-83ipk.amagi.tv/playlist/amg00056-vevotv-vevo70s-plex/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a7781a56a80c47852d4e71dabe1e45d46cb07f484aed596c1b64dbe458ab275b90835bda7c4be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf04589b394e428980b8e7d5fd1752b3ad16329ecca1c4a585696066ca1edc/195/640x360_1057680/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ290.png" group-title="音乐",Vevo '70s (480p)
+https://amg00056-vevotv-vevo70s-plex-83ipk.amagi.tv/playlist/amg00056-vevotv-vevo70s-plex/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a7781a56a80c47852d4e71dabe1e45d46cb07f484aed596c1b64dbe458ab275b90835bda7c4be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf04589b394e428980b8e7d5fd1752b3ad16329ecca1c4a585696066ca1edc/195/848x480_2284360/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ290.png" group-title="音乐",Vevo '70s (720p)
+https://amg00056-vevotv-vevo70s-plex-83ipk.amagi.tv/playlist/amg00056-vevotv-vevo70s-plex/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a7781a56a80c47852d4e71dabe1e45d46cb07f484aed596c1b64dbe458ab275b90835bda7c4be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf04589b394e428980b8e7d5fd1752b3ad16329ecca1c4a585696066ca1edc/195/1280x720_4473040/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ290.png" group-title="音乐",Vevo '70s (1080p)
+https://amg00056-vevotv-vevo70s-plex-83ipk.amagi.tv/playlist/amg00056-vevotv-vevo70s-plex/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a7781a56a80c47852d4e71dabe1e45d46cb07f484aed596c1b64dbe458ab275b90835bda7c4be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf04589b394e428980b8e7d5fd1752b3ad16329ecca1c4a585696066ca1edc/195/1920x1080_7333040/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJWcT.png" group-title="音乐",Vevo '80s (240p)
+https://amg00056-vevotv-vevo80s-plex-v3m0l.amagi.tv/playlist/amg00056-vevotv-vevo80s-plex/cb503f19657b7b8d9ed43c6ef2fc3dff915f3edd062fd12b6fba4cf02c9f4b06c2ffe1bd895be9765d940fba235339040323d41ec07c0ad79c3ca2503562176d8ac4eb208c89655ce18350383ebb2f4f52aa5b17d63800738aba5759d438b3340443b95d230764deed5bae7e57c2d55e8e1d95ba97f559e886976db56f3886b263c6a1b819108c7cc2f54d0cc06c67cfb870b7a53c26541969b47ef829b350c58281d68652dbd5c049976f64f2c33a501aba887090c85ab998e901840cbb4a347c7ccad9fbd742308f494c55ebb5acd500a94398d873d3285fcf71a39e5bbc74e78e29dee2c09a8fe55777e1791ea0110e06ade0b283f8347c9e6ef2a1e8da7c467e977e256ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d113d5cce9c3dba2844e992bde88a3d66d190e711258d70cecca249b25d473ad8e34245f464bdfe93fadb1d050346d5895c009a675358d9bddcd8e746aa0093653eb72d6480a6ad84e1755eb39fc8832699d662f9d2531f44a309202b1f81bfca9dfea1128f7b9e347ec64fbba1ad89553fa342438e2d27bcfdd9e2a9939236539c5cc98ff6a7a41110afc05/139/426x240_511680/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJWcT.png" group-title="音乐",Vevo '80s (360p)
+https://amg00056-vevotv-vevo80s-plex-v3m0l.amagi.tv/playlist/amg00056-vevotv-vevo80s-plex/cb503f19657b7b8d9ed43c6ef2fc3dff915f3edd062fd12b6fba4cf02c9f4b06c2ffe1bd895be9765d940fba235339040323d41ec07c0ad79c3ca2503562176d8ac4eb208c89655ce18350383ebb2f4f52aa5b17d63800738aba5759d438b3340443b95d230764deed5bae7e57c2d55e8e1d95ba97f559e886976db56f3886b263c6a1b819108c7cc2f54d0cc06c67cfb870b7a53c26541969b47ef829b350c58281d68652dbd5c049976f64f2c33a501aba887090c85ab998e901840cbb4a347c7ccad9fbd742308f494c55ebb5acd500a94398d873d3285fcf71a39e5bbc74e78e29dee2c09a8fe55777e1791ea0110e06ade0b283f8347c9e6ef2a1e8da7c467e977e256ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d113d5cce9c3dba2844e992bde88a3d66d190e711258d70cecca249b25d473ad8e34245f464bdfe93fadb1d050346d5895c009a675358d9bddcd8e746aa0093653eb72d6480a6ad84e1755eb39fc8832699d662f9d2531f44a309202b1f81bfca9dfea1128f7b9e347ec64fbba1ad89553fa342438e2d27bcfdd9e2a9939236539c5cc98ff6a7a41110afc05/139/640x360_1057680/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJWcT.png" group-title="音乐",Vevo '80s (480p)
+https://amg00056-vevotv-vevo80s-plex-v3m0l.amagi.tv/playlist/amg00056-vevotv-vevo80s-plex/cb503f19657b7b8d9ed43c6ef2fc3dff915f3edd062fd12b6fba4cf02c9f4b06c2ffe1bd895be9765d940fba235339040323d41ec07c0ad79c3ca2503562176d8ac4eb208c89655ce18350383ebb2f4f52aa5b17d63800738aba5759d438b3340443b95d230764deed5bae7e57c2d55e8e1d95ba97f559e886976db56f3886b263c6a1b819108c7cc2f54d0cc06c67cfb870b7a53c26541969b47ef829b350c58281d68652dbd5c049976f64f2c33a501aba887090c85ab998e901840cbb4a347c7ccad9fbd742308f494c55ebb5acd500a94398d873d3285fcf71a39e5bbc74e78e29dee2c09a8fe55777e1791ea0110e06ade0b283f8347c9e6ef2a1e8da7c467e977e256ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d113d5cce9c3dba2844e992bde88a3d66d190e711258d70cecca249b25d473ad8e34245f464bdfe93fadb1d050346d5895c009a675358d9bddcd8e746aa0093653eb72d6480a6ad84e1755eb39fc8832699d662f9d2531f44a309202b1f81bfca9dfea1128f7b9e347ec64fbba1ad89553fa342438e2d27bcfdd9e2a9939236539c5cc98ff6a7a41110afc05/139/848x480_2284360/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJWcT.png" group-title="音乐",Vevo '80s (720p)
+https://amg00056-vevotv-vevo80s-plex-v3m0l.amagi.tv/playlist/amg00056-vevotv-vevo80s-plex/cb503f19657b7b8d9ed43c6ef2fc3dff915f3edd062fd12b6fba4cf02c9f4b06c2ffe1bd895be9765d940fba235339040323d41ec07c0ad79c3ca2503562176d8ac4eb208c89655ce18350383ebb2f4f52aa5b17d63800738aba5759d438b3340443b95d230764deed5bae7e57c2d55e8e1d95ba97f559e886976db56f3886b263c6a1b819108c7cc2f54d0cc06c67cfb870b7a53c26541969b47ef829b350c58281d68652dbd5c049976f64f2c33a501aba887090c85ab998e901840cbb4a347c7ccad9fbd742308f494c55ebb5acd500a94398d873d3285fcf71a39e5bbc74e78e29dee2c09a8fe55777e1791ea0110e06ade0b283f8347c9e6ef2a1e8da7c467e977e256ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d113d5cce9c3dba2844e992bde88a3d66d190e711258d70cecca249b25d473ad8e34245f464bdfe93fadb1d050346d5895c009a675358d9bddcd8e746aa0093653eb72d6480a6ad84e1755eb39fc8832699d662f9d2531f44a309202b1f81bfca9dfea1128f7b9e347ec64fbba1ad89553fa342438e2d27bcfdd9e2a9939236539c5cc98ff6a7a41110afc05/139/1280x720_4473040/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJWcT.png" group-title="音乐",Vevo '80s (1080p)
+https://amg00056-vevotv-vevo80s-plex-v3m0l.amagi.tv/playlist/amg00056-vevotv-vevo80s-plex/cb503f19657b7b8d9ed43c6ef2fc3dff915f3edd062fd12b6fba4cf02c9f4b06c2ffe1bd895be9765d940fba235339040323d41ec07c0ad79c3ca2503562176d8ac4eb208c89655ce18350383ebb2f4f52aa5b17d63800738aba5759d438b3340443b95d230764deed5bae7e57c2d55e8e1d95ba97f559e886976db56f3886b263c6a1b819108c7cc2f54d0cc06c67cfb870b7a53c26541969b47ef829b350c58281d68652dbd5c049976f64f2c33a501aba887090c85ab998e901840cbb4a347c7ccad9fbd742308f494c55ebb5acd500a94398d873d3285fcf71a39e5bbc74e78e29dee2c09a8fe55777e1791ea0110e06ade0b283f8347c9e6ef2a1e8da7c467e977e256ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d113d5cce9c3dba2844e992bde88a3d66d190e711258d70cecca249b25d473ad8e34245f464bdfe93fadb1d050346d5895c009a675358d9bddcd8e746aa0093653eb72d6480a6ad84e1755eb39fc8832699d662f9d2531f44a309202b1f81bfca9dfea1128f7b9e347ec64fbba1ad89553fa342438e2d27bcfdd9e2a9939236539c5cc98ff6a7a41110afc05/139/1920x1080_7333040/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ30H.png" group-title="音乐",Vevo '90s (240p)
+https://amg00056-vevotv-vevo90s-plex-px1tg.amagi.tv/playlist/amg00056-vevotv-vevo90s-plex/cb503f19657b7b8d9ed43c6ef2fc3dff915f3edd062fd12b6fba4cf02c9f4b06c2ffe1bd895be9765d940fba235339040323d41ec07c0ad79c3ca2503562176d8ac4eb208c89655ce18350383ee7294b02f85b15d73800738aba5759d438b3340445bc0c2306648fbb0bff2406978903df1d95ba97f559e886976db56f3886b263c6a1b819108c7cc2f54d0cc06c67cfb870b7a53c26541969b47ef829b350c58281d68652dbd5c049976f64f2c33a501aba887090c85ab998e901840cbb4a347c7ccad9fbd742308f494c55ebb5acd500a94398d873d3285fcf71a39e5bbc74e78e29dee2c09a8fe55777e1791ea0110e06ade0b283f8347c9e6ef2a1e8da7c467e977e256ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d113d5cce9c3dba2844e992bde88a3d66d190e711258d70cecca249b25d473ad8e34245f464bdfe93fadb1d050346d5895c009a675358d9bddcd8e746aa0093653eb72d6480a6ad84e1755eb39fc8832699d662f9d2531f44a309202b1f81bfca9dfea1128f7b9e347ec64fbba1ad89553ff392438e2d27fc8dd9e2a69ac0f1dbadd136280bbf02a187ef774/164/426x240_511680/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ30H.png" group-title="音乐",Vevo '90s (360p)
+https://amg00056-vevotv-vevo90s-plex-px1tg.amagi.tv/playlist/amg00056-vevotv-vevo90s-plex/cb503f19657b7b8d9ed43c6ef2fc3dff915f3edd062fd12b6fba4cf02c9f4b06c2ffe1bd895be9765d940fba235339040323d41ec07c0ad79c3ca2503562176d8ac4eb208c89655ce18350383ee7294b02f85b15d73800738aba5759d438b3340445bc0c2306648fbb0bff2406978903df1d95ba97f559e886976db56f3886b263c6a1b819108c7cc2f54d0cc06c67cfb870b7a53c26541969b47ef829b350c58281d68652dbd5c049976f64f2c33a501aba887090c85ab998e901840cbb4a347c7ccad9fbd742308f494c55ebb5acd500a94398d873d3285fcf71a39e5bbc74e78e29dee2c09a8fe55777e1791ea0110e06ade0b283f8347c9e6ef2a1e8da7c467e977e256ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d113d5cce9c3dba2844e992bde88a3d66d190e711258d70cecca249b25d473ad8e34245f464bdfe93fadb1d050346d5895c009a675358d9bddcd8e746aa0093653eb72d6480a6ad84e1755eb39fc8832699d662f9d2531f44a309202b1f81bfca9dfea1128f7b9e347ec64fbba1ad89553ff392438e2d27fc8dd9e2a69ac0f1dbadd136280bbf02a187ef774/164/640x360_1057680/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ30H.png" group-title="音乐",Vevo '90s (480p)
+https://amg00056-vevotv-vevo90s-plex-px1tg.amagi.tv/playlist/amg00056-vevotv-vevo90s-plex/cb503f19657b7b8d9ed43c6ef2fc3dff915f3edd062fd12b6fba4cf02c9f4b06c2ffe1bd895be9765d940fba235339040323d41ec07c0ad79c3ca2503562176d8ac4eb208c89655ce18350383ee7294b02f85b15d73800738aba5759d438b3340445bc0c2306648fbb0bff2406978903df1d95ba97f559e886976db56f3886b263c6a1b819108c7cc2f54d0cc06c67cfb870b7a53c26541969b47ef829b350c58281d68652dbd5c049976f64f2c33a501aba887090c85ab998e901840cbb4a347c7ccad9fbd742308f494c55ebb5acd500a94398d873d3285fcf71a39e5bbc74e78e29dee2c09a8fe55777e1791ea0110e06ade0b283f8347c9e6ef2a1e8da7c467e977e256ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d113d5cce9c3dba2844e992bde88a3d66d190e711258d70cecca249b25d473ad8e34245f464bdfe93fadb1d050346d5895c009a675358d9bddcd8e746aa0093653eb72d6480a6ad84e1755eb39fc8832699d662f9d2531f44a309202b1f81bfca9dfea1128f7b9e347ec64fbba1ad89553ff392438e2d27fc8dd9e2a69ac0f1dbadd136280bbf02a187ef774/164/848x480_2284360/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ30H.png" group-title="音乐",Vevo '90s (720p)
+https://amg00056-vevotv-vevo90s-plex-px1tg.amagi.tv/playlist/amg00056-vevotv-vevo90s-plex/cb503f19657b7b8d9ed43c6ef2fc3dff915f3edd062fd12b6fba4cf02c9f4b06c2ffe1bd895be9765d940fba235339040323d41ec07c0ad79c3ca2503562176d8ac4eb208c89655ce18350383ee7294b02f85b15d73800738aba5759d438b3340445bc0c2306648fbb0bff2406978903df1d95ba97f559e886976db56f3886b263c6a1b819108c7cc2f54d0cc06c67cfb870b7a53c26541969b47ef829b350c58281d68652dbd5c049976f64f2c33a501aba887090c85ab998e901840cbb4a347c7ccad9fbd742308f494c55ebb5acd500a94398d873d3285fcf71a39e5bbc74e78e29dee2c09a8fe55777e1791ea0110e06ade0b283f8347c9e6ef2a1e8da7c467e977e256ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d113d5cce9c3dba2844e992bde88a3d66d190e711258d70cecca249b25d473ad8e34245f464bdfe93fadb1d050346d5895c009a675358d9bddcd8e746aa0093653eb72d6480a6ad84e1755eb39fc8832699d662f9d2531f44a309202b1f81bfca9dfea1128f7b9e347ec64fbba1ad89553ff392438e2d27fc8dd9e2a69ac0f1dbadd136280bbf02a187ef774/164/1280x720_4473040/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ30H.png" group-title="音乐",Vevo '90s (1080p)
+https://amg00056-vevotv-vevo90s-plex-px1tg.amagi.tv/playlist/amg00056-vevotv-vevo90s-plex/cb503f19657b7b8d9ed43c6ef2fc3dff915f3edd062fd12b6fba4cf02c9f4b06c2ffe1bd895be9765d940fba235339040323d41ec07c0ad79c3ca2503562176d8ac4eb208c89655ce18350383ee7294b02f85b15d73800738aba5759d438b3340445bc0c2306648fbb0bff2406978903df1d95ba97f559e886976db56f3886b263c6a1b819108c7cc2f54d0cc06c67cfb870b7a53c26541969b47ef829b350c58281d68652dbd5c049976f64f2c33a501aba887090c85ab998e901840cbb4a347c7ccad9fbd742308f494c55ebb5acd500a94398d873d3285fcf71a39e5bbc74e78e29dee2c09a8fe55777e1791ea0110e06ade0b283f8347c9e6ef2a1e8da7c467e977e256ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d113d5cce9c3dba2844e992bde88a3d66d190e711258d70cecca249b25d473ad8e34245f464bdfe93fadb1d050346d5895c009a675358d9bddcd8e746aa0093653eb72d6480a6ad84e1755eb39fc8832699d662f9d2531f44a309202b1f81bfca9dfea1128f7b9e347ec64fbba1ad89553ff392438e2d27fc8dd9e2a69ac0f1dbadd136280bbf02a187ef774/164/1920x1080_7333040/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXcIf.png" group-title="音乐",Vevo 2K (240p)
+https://amg00056-vevotv-vevo2k-plex-6jb4q.amagi.tv/playlist/amg00056-vevotv-vevo2k-plex/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a72e4d02ab0d15d52c4e71dab14b45d46cb07f4812bc5c3b1b6188ed0bab235bc2d35c832a4be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf045a9f787aba89c779cade0a87fac86e4ce04c0304b01478ec443b03/5/426x240_511680/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXcIf.png" group-title="音乐",Vevo 2K (360p)
+https://amg00056-vevotv-vevo2k-plex-6jb4q.amagi.tv/playlist/amg00056-vevotv-vevo2k-plex/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a72e4d02ab0d15d52c4e71dab14b45d46cb07f4812bc5c3b1b6188ed0bab235bc2d35c832a4be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf045a9f787aba89c779cade0a87fac86e4ce04c0304b01478ec443b03/5/640x360_1057680/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXcIf.png" group-title="音乐",Vevo 2K (480p)
+https://amg00056-vevotv-vevo2k-plex-6jb4q.amagi.tv/playlist/amg00056-vevotv-vevo2k-plex/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a72e4d02ab0d15d52c4e71dab14b45d46cb07f4812bc5c3b1b6188ed0bab235bc2d35c832a4be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf045a9f787aba89c779cade0a87fac86e4ce04c0304b01478ec443b03/5/848x480_2284360/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXcIf.png" group-title="音乐",Vevo 2K (720p)
+https://amg00056-vevotv-vevo2k-plex-6jb4q.amagi.tv/playlist/amg00056-vevotv-vevo2k-plex/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a72e4d02ab0d15d52c4e71dab14b45d46cb07f4812bc5c3b1b6188ed0bab235bc2d35c832a4be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf045a9f787aba89c779cade0a87fac86e4ce04c0304b01478ec443b03/5/1280x720_4473040/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXcIf.png" group-title="音乐",Vevo 2K (1080p)
+https://amg00056-vevotv-vevo2k-plex-6jb4q.amagi.tv/playlist/amg00056-vevotv-vevo2k-plex/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a72e4d02ab0d15d52c4e71dab14b45d46cb07f4812bc5c3b1b6188ed0bab235bc2d35c832a4be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf045a9f787aba89c779cade0a87fac86e4ce04c0304b01478ec443b03/5/1920x1080_7333040/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXRJS.png" group-title="音乐",Vevo Pop (240p)
+https://amg00056-vevotv-vevopop-plex-56zvo.amagi.tv/playlist/amg00056-vevotv-vevopop-plex/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a77c1602ac5a46d8714e71dab14845d46cb07f4812b059371b64dfb808ac7557c2d402837f4be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf04599934033b08010bf994b7aa857618246b4d91ce38af70ec12d6cf03/34/426x240_511680/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXRJS.png" group-title="音乐",Vevo Pop (360p)
+https://amg00056-vevotv-vevopop-plex-56zvo.amagi.tv/playlist/amg00056-vevotv-vevopop-plex/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a77c1602ac5a46d8714e71dab14845d46cb07f4812b059371b64dfb808ac7557c2d402837f4be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf04599934033b08010bf994b7aa857618246b4d91ce38af70ec12d6cf03/34/640x360_1057680/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXRJS.png" group-title="音乐",Vevo Pop (480p)
+https://amg00056-vevotv-vevopop-plex-56zvo.amagi.tv/playlist/amg00056-vevotv-vevopop-plex/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a77c1602ac5a46d8714e71dab14845d46cb07f4812b059371b64dfb808ac7557c2d402837f4be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf04599934033b08010bf994b7aa857618246b4d91ce38af70ec12d6cf03/34/848x480_2284360/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXRJS.png" group-title="音乐",Vevo Pop (720p)
+https://amg00056-vevotv-vevopop-plex-56zvo.amagi.tv/playlist/amg00056-vevotv-vevopop-plex/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a77c1602ac5a46d8714e71dab14845d46cb07f4812b059371b64dfb808ac7557c2d402837f4be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf04599934033b08010bf994b7aa857618246b4d91ce38af70ec12d6cf03/34/1280x720_4473040/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXRJS.png" group-title="音乐",Vevo Pop (1080p)
+https://amg00056-vevotv-vevopop-plex-56zvo.amagi.tv/playlist/amg00056-vevotv-vevopop-plex/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a77c1602ac5a46d8714e71dab14845d46cb07f4812b059371b64dfb808ac7557c2d402837f4be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf04599934033b08010bf994b7aa857618246b4d91ce38af70ec12d6cf03/34/1920x1080_7333040/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",Vevo Hip-Hop (240p)
+https://amg00056-vevotv-vevohiphop-plex-om085.amagi.tv/playlist/amg00056-vevotv-vevohiphop-plex/cb543d1f786c648884cb3a67cef341a7f90b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f19c060017d351f3e9f4c80381ec0c07aa341763a1d759b86b262c9c54b52e7c8787f79e8250c45ab0d1d832654278ca41909d43ef8285416ee446f0f648ef05aab7551c3805e8a792edff8bf3a034262a04c0377d7d320b1ca92051c863d838e267ae44c657c568ffbfe28cac38d0ab47ebefb2c49bfa58eda8d4edbd8c671886f49ef072a405aa1fa1eb4dc5cb8dd826073fc236b2e7f244e5b4808be93d0673afbd3a8229e11c43384e404926936f433904e8a37826aa333408024fd80b4c54b4d35a58b0e2f77e0ad9783f5313caa75bb8cdd9d2532c8ad544c55c069dd2c3f77c7b39b4fc4d103cce772cbe4205d34c99a40dbbab780e4bfff39f64cfdcefa9c32555d235370e07396da3b9578a729c2a73e285f5f4bbe9553d0fca2773e764a948e5bc0533ea1cb878ccd0b298a2d5b6de16edd54127f8e534879f626ed952c66ea7752d02d5c1b39b457c327de48b9c4059036fe3caa21f827f8ce3333/185/426x240_511680/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Vevo Hip-Hop (360p)
+https://amg00056-vevotv-vevohiphop-plex-om085.amagi.tv/playlist/amg00056-vevotv-vevohiphop-plex/cb543d1f786c648884cb3a67cef341a7f90b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f19c060017d351f3e9f4c80381ec0c07aa341763a1d759b86b262c9c54b52e7c8787f79e8250c45ab0d1d832654278ca41909d43ef8285416ee446f0f648ef05aab7551c3805e8a792edff8bf3a034262a04c0377d7d320b1ca92051c863d838e267ae44c657c568ffbfe28cac38d0ab47ebefb2c49bfa58eda8d4edbd8c671886f49ef072a405aa1fa1eb4dc5cb8dd826073fc236b2e7f244e5b4808be93d0673afbd3a8229e11c43384e404926936f433904e8a37826aa333408024fd80b4c54b4d35a58b0e2f77e0ad9783f5313caa75bb8cdd9d2532c8ad544c55c069dd2c3f77c7b39b4fc4d103cce772cbe4205d34c99a40dbbab780e4bfff39f64cfdcefa9c32555d235370e07396da3b9578a729c2a73e285f5f4bbe9553d0fca2773e764a948e5bc0533ea1cb878ccd0b298a2d5b6de16edd54127f8e534879f626ed952c66ea7752d02d5c1b39b457c327de48b9c4059036fe3caa21f827f8ce3333/185/640x360_1057680/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Vevo Hip-Hop (480p)
+https://amg00056-vevotv-vevohiphop-plex-om085.amagi.tv/playlist/amg00056-vevotv-vevohiphop-plex/cb543d1f786c648884cb3a67cef341a7f90b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f19c060017d351f3e9f4c80381ec0c07aa341763a1d759b86b262c9c54b52e7c8787f79e8250c45ab0d1d832654278ca41909d43ef8285416ee446f0f648ef05aab7551c3805e8a792edff8bf3a034262a04c0377d7d320b1ca92051c863d838e267ae44c657c568ffbfe28cac38d0ab47ebefb2c49bfa58eda8d4edbd8c671886f49ef072a405aa1fa1eb4dc5cb8dd826073fc236b2e7f244e5b4808be93d0673afbd3a8229e11c43384e404926936f433904e8a37826aa333408024fd80b4c54b4d35a58b0e2f77e0ad9783f5313caa75bb8cdd9d2532c8ad544c55c069dd2c3f77c7b39b4fc4d103cce772cbe4205d34c99a40dbbab780e4bfff39f64cfdcefa9c32555d235370e07396da3b9578a729c2a73e285f5f4bbe9553d0fca2773e764a948e5bc0533ea1cb878ccd0b298a2d5b6de16edd54127f8e534879f626ed952c66ea7752d02d5c1b39b457c327de48b9c4059036fe3caa21f827f8ce3333/185/848x480_2284360/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Vevo Hip-Hop (720p)
+https://amg00056-vevotv-vevohiphop-plex-om085.amagi.tv/playlist/amg00056-vevotv-vevohiphop-plex/cb543d1f786c648884cb3a67cef341a7f90b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f19c060017d351f3e9f4c80381ec0c07aa341763a1d759b86b262c9c54b52e7c8787f79e8250c45ab0d1d832654278ca41909d43ef8285416ee446f0f648ef05aab7551c3805e8a792edff8bf3a034262a04c0377d7d320b1ca92051c863d838e267ae44c657c568ffbfe28cac38d0ab47ebefb2c49bfa58eda8d4edbd8c671886f49ef072a405aa1fa1eb4dc5cb8dd826073fc236b2e7f244e5b4808be93d0673afbd3a8229e11c43384e404926936f433904e8a37826aa333408024fd80b4c54b4d35a58b0e2f77e0ad9783f5313caa75bb8cdd9d2532c8ad544c55c069dd2c3f77c7b39b4fc4d103cce772cbe4205d34c99a40dbbab780e4bfff39f64cfdcefa9c32555d235370e07396da3b9578a729c2a73e285f5f4bbe9553d0fca2773e764a948e5bc0533ea1cb878ccd0b298a2d5b6de16edd54127f8e534879f626ed952c66ea7752d02d5c1b39b457c327de48b9c4059036fe3caa21f827f8ce3333/185/1280x720_4473040/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Vevo Hip-Hop (1080p)
+https://amg00056-vevotv-vevohiphop-plex-om085.amagi.tv/playlist/amg00056-vevotv-vevohiphop-plex/cb543d1f786c648884cb3a67cef341a7f90b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f19c060017d351f3e9f4c80381ec0c07aa341763a1d759b86b262c9c54b52e7c8787f79e8250c45ab0d1d832654278ca41909d43ef8285416ee446f0f648ef05aab7551c3805e8a792edff8bf3a034262a04c0377d7d320b1ca92051c863d838e267ae44c657c568ffbfe28cac38d0ab47ebefb2c49bfa58eda8d4edbd8c671886f49ef072a405aa1fa1eb4dc5cb8dd826073fc236b2e7f244e5b4808be93d0673afbd3a8229e11c43384e404926936f433904e8a37826aa333408024fd80b4c54b4d35a58b0e2f77e0ad9783f5313caa75bb8cdd9d2532c8ad544c55c069dd2c3f77c7b39b4fc4d103cce772cbe4205d34c99a40dbbab780e4bfff39f64cfdcefa9c32555d235370e07396da3b9578a729c2a73e285f5f4bbe9553d0fca2773e764a948e5bc0533ea1cb878ccd0b298a2d5b6de16edd54127f8e534879f626ed952c66ea7752d02d5c1b39b457c327de48b9c4059036fe3caa21f827f8ce3333/185/1920x1080_7333040/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXWRg.png" group-title="音乐",Vevo Country (240p)
+https://amg00056-vevotv-vevocountry-plex-o6fj6.amagi.tv/playlist/amg00056-vevotv-vevocountry-plex/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a77f1957ab0710d9274e71dab14945d46cb07f484beb0b371b3188e85aab7200c389098b774be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf04589b3442428980b8f8a0fd17520a00a3bceda3e7d6fada647a338f18de/149/426x240_511680/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXWRg.png" group-title="音乐",Vevo Country (360p)
+https://amg00056-vevotv-vevocountry-plex-o6fj6.amagi.tv/playlist/amg00056-vevotv-vevocountry-plex/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a77f1957ab0710d9274e71dab14945d46cb07f484beb0b371b3188e85aab7200c389098b774be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf04589b3442428980b8f8a0fd17520a00a3bceda3e7d6fada647a338f18de/149/640x360_1057680/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXWRg.png" group-title="音乐",Vevo Country (480p)
+https://amg00056-vevotv-vevocountry-plex-o6fj6.amagi.tv/playlist/amg00056-vevotv-vevocountry-plex/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a77f1957ab0710d9274e71dab14945d46cb07f484beb0b371b3188e85aab7200c389098b774be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf04589b3442428980b8f8a0fd17520a00a3bceda3e7d6fada647a338f18de/149/848x480_2284360/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXWRg.png" group-title="音乐",Vevo Country (720p)
+https://amg00056-vevotv-vevocountry-plex-o6fj6.amagi.tv/playlist/amg00056-vevotv-vevocountry-plex/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a77f1957ab0710d9274e71dab14945d46cb07f484beb0b371b3188e85aab7200c389098b774be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf04589b3442428980b8f8a0fd17520a00a3bceda3e7d6fada647a338f18de/149/1280x720_4473040/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXWRg.png" group-title="音乐",Vevo Country (1080p)
+https://amg00056-vevotv-vevocountry-plex-o6fj6.amagi.tv/playlist/amg00056-vevotv-vevocountry-plex/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a77f1957ab0710d9274e71dab14945d46cb07f484beb0b371b3188e85aab7200c389098b774be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf04589b3442428980b8f8a0fd17520a00a3bceda3e7d6fada647a338f18de/149/1920x1080_7333040/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIzR7n.png" group-title="音乐",Vevo Retro Rock (240p)
+https://amg00056-vevotv-vevoretrorock-ono-yv23d.amagi.tv/playlist/amg00056-vevotv-vevoretrorock-ono/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a72b1650fc5814852d4e71dab14945d46cb07f484aed596c1b64dbe458ab275b90835bda7c4be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf04599c33033b080173fd94b7aa8a624d8eed8d3f51d8cb3a99bd73edfe/63/426x240_511680/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIzR7n.png" group-title="音乐",Vevo Retro Rock (360p)
+https://amg00056-vevotv-vevoretrorock-ono-yv23d.amagi.tv/playlist/amg00056-vevotv-vevoretrorock-ono/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a72b1650fc5814852d4e71dab14945d46cb07f484aed596c1b64dbe458ab275b90835bda7c4be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf04599c33033b080173fd94b7aa8a624d8eed8d3f51d8cb3a99bd73edfe/63/640x360_1057680/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIzR7n.png" group-title="音乐",Vevo Retro Rock (480p)
+https://amg00056-vevotv-vevoretrorock-ono-yv23d.amagi.tv/playlist/amg00056-vevotv-vevoretrorock-ono/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a72b1650fc5814852d4e71dab14945d46cb07f484aed596c1b64dbe458ab275b90835bda7c4be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf04599c33033b080173fd94b7aa8a624d8eed8d3f51d8cb3a99bd73edfe/63/848x480_2284360/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIzR7n.png" group-title="音乐",Vevo Retro Rock (720p)
+https://amg00056-vevotv-vevoretrorock-ono-yv23d.amagi.tv/playlist/amg00056-vevotv-vevoretrorock-ono/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a72b1650fc5814852d4e71dab14945d46cb07f484aed596c1b64dbe458ab275b90835bda7c4be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf04599c33033b080173fd94b7aa8a624d8eed8d3f51d8cb3a99bd73edfe/63/1280x720_4473040/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIzR7n.png" group-title="音乐",Vevo Retro Rock (1080p)
+https://amg00056-vevotv-vevoretrorock-ono-yv23d.amagi.tv/playlist/amg00056-vevotv-vevoretrorock-ono/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a72b1650fc5814852d4e71dab14945d46cb07f484aed596c1b64dbe458ab275b90835bda7c4be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf04599c33033b080173fd94b7aa8a624d8eed8d3f51d8cb3a99bd73edfe/63/1920x1080_7333040/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="音乐",Stingray Classica (360p)
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1020800/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="音乐",Stingray Classica (474p)
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="音乐",Stingray Classica (720p)
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/3291200/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="音乐",Stingray Classica (1080p)
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/5711200/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="音乐",Stingray DJAZZ (360p)
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/73e02e1d-5121-3c33-b4f9-5fe1cc759880/1020800/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="音乐",Stingray DJAZZ (474p)
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/73e02e1d-5121-3c33-b4f9-5fe1cc759880/1751200/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="音乐",Stingray DJAZZ (720p)
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/73e02e1d-5121-3c33-b4f9-5fe1cc759880/3291200/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="音乐",Stingray DJAZZ (1080p)
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/73e02e1d-5121-3c33-b4f9-5fe1cc759880/5711200/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="音乐",Stingray Naturescape (360p)
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/1020800/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="音乐",Stingray Naturescape (474p)
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/1751200/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="音乐",Stingray Naturescape (720p)
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/3291200/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="音乐",Stingray Naturescape (1080p)
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/5711200/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="音乐",Movie Music by Stingray (360p)
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/1020800/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="音乐",Movie Music by Stingray (474p)
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/1751200/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="音乐",Movie Music by Stingray (720p)
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/3291200/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="音乐",Movie Music by Stingray (1080p)
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="音乐",Qello Concerts by Stingray (360p)
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/f3b3b889-e519-3156-810f-18850e58a304/1020800/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="音乐",Qello Concerts by Stingray (474p)
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/f3b3b889-e519-3156-810f-18850e58a304/1751200/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="音乐",Qello Concerts by Stingray (720p)
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/f3b3b889-e519-3156-810f-18850e58a304/3291200/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="音乐",Qello Concerts by Stingray (1080p)
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/f3b3b889-e519-3156-810f-18850e58a304/5711200/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="音乐",Now 70s (360p)
+https://lightning-now70s-samsungnz.amagi.tv/playlist360p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="音乐",Now 70s (480p)
+https://lightning-now70s-samsungnz.amagi.tv/playlist480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="音乐",Now 70s (720p)
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="音乐",Now 80s (360p)
+https://lightning-now80s-samsungnz.amagi.tv/playlist360p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="音乐",Now 80s (480p)
+https://lightning-now80s-samsungnz.amagi.tv/playlist480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="音乐",Now 80s (720p)
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="音乐",Now Rock (360p)
+https://lightning-now90s-samsungnz.amagi.tv/playlist360p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="音乐",Now Rock (480p)
+https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="音乐",Now Rock (720p)
+https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",Xite Hits (240p)
+https://xite-hitsuk-lg.amagi.tv/240p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Xite Hits (360p)
+https://xite-hitsuk-lg.amagi.tv/360p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Xite Hits (480p)
+https://xite-hitsuk-lg.amagi.tv/480p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Xite Hits (720p)
+https://xite-hitsuk-lg.amagi.tv/720p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Xite Hits (1080p)
+https://xite-hitsuk-lg.amagi.tv/1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",XITE Rock x Metal (240p)
+https://xite-rockoneu-lg.amagi.tv/240p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",XITE Rock x Metal (360p)
+https://xite-rockoneu-lg.amagi.tv/360p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",XITE Rock x Metal (480p)
+https://xite-rockoneu-lg.amagi.tv/480p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",XITE Rock x Metal (720p)
+https://xite-rockoneu-lg.amagi.tv/720p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",XITE Rock x Metal (1080p)
+https://xite-rockoneu-lg.amagi.tv/1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",Staccs Music TV 80's Hits (360p)
+https://b9c1982ea06743cca84fc96bd88dad38.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_STACCSTVThrowback/c6383a68-7837-4998-9804-e8786fd0d232/0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Staccs Music TV 80's Hits (540p)
+https://b9c1982ea06743cca84fc96bd88dad38.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_STACCSTVThrowback/c6383a68-7837-4998-9804-e8786fd0d232/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Staccs Music TV 80's Hits (720p)
+https://b9c1982ea06743cca84fc96bd88dad38.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_STACCSTVThrowback/c6383a68-7837-4998-9804-e8786fd0d232/2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",New K-Pop (360p)
+https://newidco-newkid-1-eu.plex.wurl.tv/1200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",New K-Pop (540p)
+https://newidco-newkid-1-eu.plex.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",New K-Pop (720p)
+https://newidco-newkid-1-eu.plex.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",New K-Pop (1080p)
+https://newidco-newkid-1-eu.plex.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",YG TV (216p)
+https://newidco-ygtv-1-us.plex.wurl.tv/512.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",YG TV (360p)
+https://newidco-ygtv-1-us.plex.wurl.tv/1200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",YG TV (540p)
+https://newidco-ygtv-1-us.plex.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",YG TV (720p)
+https://newidco-ygtv-1-us.plex.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",YG TV (1080p)
+https://newidco-ygtv-1-us.plex.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-logo="https://news.imz.at/imzfiles/378556-logo.png" group-title="音乐",Classic Arts Showcase (360p)
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master_360p30.m3u8
+#EXTINF:-1 tvg-logo="https://news.imz.at/imzfiles/378556-logo.png" group-title="音乐",Classic Arts Showcase (480p)
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master_480p30.m3u8
+#EXTINF:-1 tvg-logo="https://news.imz.at/imzfiles/378556-logo.png" group-title="音乐",Classic Arts Showcase (720p)
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="音乐",Clubbing TV (360p)
+https://clubbingtv-samsungnz.amagi.tv/playlist360_p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="音乐",Clubbing TV (540p)
+https://clubbingtv-samsungnz.amagi.tv/playlist540_p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="音乐",Clubbing TV (720p)
+https://clubbingtv-samsungnz.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",Afrobeats (240p)
+https://stream.ecable.tv/afrobeats/tracks-v6a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Afrobeats (360p)
+https://stream.ecable.tv/afrobeats/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Afrobeats (480p)
+https://stream.ecable.tv/afrobeats/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Afrobeats (576p)
+https://stream.ecable.tv/afrobeats/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Afrobeats (720p)
+https://stream.ecable.tv/afrobeats/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Afrobeats (1080p)
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",Qwest TV (240p)
+https://qwest-jazz-plex.amagi.tv/240p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Qwest TV (360p)
+https://qwest-jazz-plex.amagi.tv/360p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Qwest TV (480p)
+https://qwest-jazz-plex.amagi.tv/480p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Qwest TV (720p)
+https://qwest-jazz-plex.amagi.tv/720p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Qwest TV (1080p)
+https://qwest-jazz-plex.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",SPIN (216p)
+https://bec-spin-1-us.plex.wurl.tv/512.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",SPIN (360p)
+https://bec-spin-1-us.plex.wurl.tv/1200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",SPIN (540p)
+https://bec-spin-1-us.plex.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",SPIN (720p)
+https://bec-spin-1-us.plex.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",SPIN (1080p)
+https://bec-spin-1-us.plex.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",Def Jam (360p)
+https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/index_4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Def Jam (480p)
+https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/index_3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Def Jam (540p)
+https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/index_2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Def Jam (720p)
+https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",California Music Channel (360p)
+https://cmc-ono.amagi.tv/playlist360_p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",California Music Channel (504p)
+https://cmc-ono.amagi.tv/playlist504_p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",California Music Channel (720p)
+https://cmc-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",California Music Channel (1080p)
+https://cmc-ono.amagi.tv/playlist1080_p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",Loupe (720p)
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Loupe (1080p)
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Loupe (1440p)
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_2560x1440.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Loupe (2160p)
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",Retro TV 
+https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4QLjUGO.png" group-title="音乐",Magic TV
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="音乐",Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ja6c2YZ.png" group-title="音乐",Kiss Kiss TV
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/chunklist_w92801553.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sy1BDNK.png" group-title="音乐",Muzzik Rock&Roll
+https://muzzik-live.morescreens.com/mts-1/576p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik MOBA
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E9ha9Or.png" group-title="音乐",Muzzik POP STAR
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Y5NAEF.png" group-title="音乐",J.E.K.A. Muzzik
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik ZZ TV
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tEzppGC.png" group-title="音乐",Worldwide Muzzik
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik TIKTAK
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",MUZZIK
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik SENSE
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik FLASHBACK
+https://muzzik-live.morescreens.com/mts-8/576p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik ELECTRO
+https://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/35/65/2f/35652f7e-99c6-e4d4-3c1d-6dde5d05fd68/mzl.nheytvtq.jpg/400x400bb.jpg" group-title="国际",Global Fashion Channel (360p)
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_360p.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/35/65/2f/35652f7e-99c6-e4d4-3c1d-6dde5d05fd68/mzl.nheytvtq.jpg/400x400bb.jpg" group-title="国际",Global Fashion Channel (540p)
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_540p.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/35/65/2f/35652f7e-99c6-e4d4-3c1d-6dde5d05fd68/mzl.nheytvtq.jpg/400x400bb.jpg" group-title="国际",Global Fashion Channel (720p)
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_720p.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/35/65/2f/35652f7e-99c6-e4d4-3c1d-6dde5d05fd68/mzl.nheytvtq.jpg/400x400bb.jpg" group-title="国际",Global Fashion Channel (1080p)
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJK1K.jpg" group-title="国际",Fashion TV (360p)
+https://amg01546-ftv-fashiontv-xiaomi-i9oiw.amagi.tv/playlist/amg01546-ftv-fashiontv-xiaomi/cb553d1c7f6c648a9cd43e63d6ef42a1df246ffc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fd87f0b66413925924d8b2245d8d964a85a243e517e9b99ac7bc0894e50e98d1f5d7fe0214143ea0b15d7230624daba57098068ed345442ed0f230f33d5bb44fe7001cd86028b7a7f8bf9df03404765676ba61ccf9224c3edd42714983dff932372a75e26c7199604e6368ff19702cf69b66cc1168caa34b8f2aeb446b71b4126c24d9bea0f7fe99678b3833797c9936876a87e235f116f01c2f9a363339c4e4f50f9b09ef135bf5bf9802b856f20a840b67bc466c43af14993f347a4a8b5cb0d1677f49f1b7331fab4f1c4ab7c73b16ff0a7a9fa767f92f9660b2da05ad12c2f3787ee8b43f6a53ba2f675cbe5134c52a9bc4c988fbd90e0b69930e70cc4d3f18a33475a23211a9651ad8868c96990389fc71d25535a57effd71c195d24a3f7245e5d1068c0b7a59ba476818d45d9943b3e94b79be6c7b8eb0c18add5701/188/640x360_1020800/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJK1K.jpg" group-title="国际",Fashion TV (480p)
+https://amg01546-ftv-fashiontv-xiaomi-i9oiw.amagi.tv/playlist/amg01546-ftv-fashiontv-xiaomi/cb553d1c7f6c648a9cd43e63d6ef42a1df246ffc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fd87f0b66413925924d8b2245d8d964a85a243e517e9b99ac7bc0894e50e98d1f5d7fe0214143ea0b15d7230624daba57098068ed345442ed0f230f33d5bb44fe7001cd86028b7a7f8bf9df03404765676ba61ccf9224c3edd42714983dff932372a75e26c7199604e6368ff19702cf69b66cc1168caa34b8f2aeb446b71b4126c24d9bea0f7fe99678b3833797c9936876a87e235f116f01c2f9a363339c4e4f50f9b09ef135bf5bf9802b856f20a840b67bc466c43af14993f347a4a8b5cb0d1677f49f1b7331fab4f1c4ab7c73b16ff0a7a9fa767f92f9660b2da05ad12c2f3787ee8b43f6a53ba2f675cbe5134c52a9bc4c988fbd90e0b69930e70cc4d3f18a33475a23211a9651ad8868c96990389fc71d25535a57effd71c195d24a3f7245e5d1068c0b7a59ba476818d45d9943b3e94b79be6c7b8eb0c18add5701/188/848x480_1249600/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJK1K.jpg" group-title="国际",Fashion TV (720p)
+https://amg01546-ftv-fashiontv-xiaomi-i9oiw.amagi.tv/playlist/amg01546-ftv-fashiontv-xiaomi/cb553d1c7f6c648a9cd43e63d6ef42a1df246ffc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fd87f0b66413925924d8b2245d8d964a85a243e517e9b99ac7bc0894e50e98d1f5d7fe0214143ea0b15d7230624daba57098068ed345442ed0f230f33d5bb44fe7001cd86028b7a7f8bf9df03404765676ba61ccf9224c3edd42714983dff932372a75e26c7199604e6368ff19702cf69b66cc1168caa34b8f2aeb446b71b4126c24d9bea0f7fe99678b3833797c9936876a87e235f116f01c2f9a363339c4e4f50f9b09ef135bf5bf9802b856f20a840b67bc466c43af14993f347a4a8b5cb0d1677f49f1b7331fab4f1c4ab7c73b16ff0a7a9fa767f92f9660b2da05ad12c2f3787ee8b43f6a53ba2f675cbe5134c52a9bc4c988fbd90e0b69930e70cc4d3f18a33475a23211a9651ad8868c96990389fc71d25535a57effd71c195d24a3f7245e5d1068c0b7a59ba476818d45d9943b3e94b79be6c7b8eb0c18add5701/188/1280x720_2657600/index.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJK1K.jpg" group-title="国际",Fashion TV (1080p)
+https://amg01546-ftv-fashiontv-xiaomi-i9oiw.amagi.tv/playlist/amg01546-ftv-fashiontv-xiaomi/cb553d1c7f6c648a9cd43e63d6ef42a1df246ffc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fd87f0b66413925924d8b2245d8d964a85a243e517e9b99ac7bc0894e50e98d1f5d7fe0214143ea0b15d7230624daba57098068ed345442ed0f230f33d5bb44fe7001cd86028b7a7f8bf9df03404765676ba61ccf9224c3edd42714983dff932372a75e26c7199604e6368ff19702cf69b66cc1168caa34b8f2aeb446b71b4126c24d9bea0f7fe99678b3833797c9936876a87e235f116f01c2f9a363339c4e4f50f9b09ef135bf5bf9802b856f20a840b67bc466c43af14993f347a4a8b5cb0d1677f49f1b7331fab4f1c4ab7c73b16ff0a7a9fa767f92f9660b2da05ad12c2f3787ee8b43f6a53ba2f675cbe5134c52a9bc4c988fbd90e0b69930e70cc4d3f18a33475a23211a9651ad8868c96990389fc71d25535a57effd71c195d24a3f7245e5d1068c0b7a59ba476818d45d9943b3e94b79be6c7b8eb0c18add5701/188/1920x1080_4716800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JEDlYlh.png" group-title="国际",Love Nature (240p)
+https://bamus-lovenature-lg.amagi.tv/240p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JEDlYlh.png" group-title="国际",Love Nature (360p)
+https://bamus-lovenature-lg.amagi.tv/360p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JEDlYlh.png" group-title="国际",Love Nature (480p)
+https://bamus-lovenature-lg.amagi.tv/480p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JEDlYlh.png" group-title="国际",Love Nature (720p)
+https://bamus-lovenature-lg.amagi.tv/720p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JEDlYlh.png" group-title="国际",Love Nature (1080p)
+https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际",NBC LX Home (360p)
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-2.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际",NBC LX Home (432p)
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-1.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际",NBC LX Home (720p)
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-4.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际",NBC LX Home (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-5.m3u8
+
+#EXTINF:-1 group-title="音乐",MTV 80s
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/31558/index.m3u8
+#EXTINF:-1 group-title="音乐",MTV 90s
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/31560/index.m3u8
+#EXTINF:-1 group-title="音乐",MTV 00s
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/31559/index.m3u8
+#EXTINF:-1 group-title="音乐",MTV Live
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/221/index.m3u8
+#EXTINF:-1 group-title="音乐",MTV Classic
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/142/index.m3u8
+#EXTINF:-1 group-title="音乐",MTV Hits
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/153/index.m3u8
+#EXTINF:-1 group-title="音乐",Club MTV
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/558/index.m3u8
+#EXTINF:-1 group-title="音乐",MTV Music
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/19192/index.m3u8
+#EXTINF:-1 group-title="音乐",MTV India
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/6582/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="电影",MyTime Movie Network
+https://amg00500-studiocitypictu-mytimemovientus-plex-00p3m.amagi.tv/playlist/amg00500-studiocitypictu-mytimemovientus-plex/playlist.m3u8
+#EXTINF:-1 group-title="电影",Miramax Movie Channel
+https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="电影",MovieSphere
+https://plexaaaaa-moviesphere-plex-efzys.amagi.tv/playlist/plexaaaaa-moviesphere-plex/playlist.m3u8
+#EXTINF:-1 group-title="电影",Universal Movies
+https://xumo-xumoent-ch839-d5ey0.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-title="电影",CineLife
+https://magnoliaa-cinelife-oando-n6z8u.amagi.tv/playlist/magnoliaA-cinelife-oando/playlist.m3u8
