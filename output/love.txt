@@ -1115,9 +1115,7 @@ CCTV1港澳版,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 明珠台,http://hls.168.us.kg/u/84/master.m3u8
 TVBJ1,http://cdn5.1678520.xyz/live/?id=j1
-美亚电影,https://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
-星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193
-星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
+
 tvbs闽南频道,http://61.221.215.25:8800/hls/9/index.m3u8
 无线新闻,https://smart.dxjc.pp.ua/smart.php?id=inews_twn&token=tmxk
 无线新闻,http://hls.168.us.kg/u/83/master.m3u8
