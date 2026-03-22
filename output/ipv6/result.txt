@@ -594,6 +594,7 @@ CCTV中学生,http://iptvapi.zqdl.org/migu.php?id=zxs
 都市剧场,http://nas.home.plugintool.top:2333/udp/239.76.254.74:9000
 都市剧场,https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8
 都市剧场,https://zby.130519.xyz/PLTV/11/224/3221226155/index.m3u8
+都市剧场,https://shyd.695847.xyz/cms001/ch00000090990000001203/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0
 游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=4bb23a171d4d63d4362dfba9a795c0f4ae95e2190f17a502e900947df23bda8e7a18b21aa9e6b578071ed4ced654a44a80d0fb8970ac8330432d19255fb721f3c1ee552fa186e2c9427e18e082
 游戏风云,http://z.b.bkpcp.top/m.php?id=yxfy
@@ -1855,6 +1856,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 都市剧场,http://nas.home.plugintool.top:2333/udp/239.76.254.74:9000
 都市剧场,https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8
 都市剧场,https://zby.130519.xyz/PLTV/11/224/3221226155/index.m3u8
+都市剧场,https://shyd.695847.xyz/cms001/ch00000090990000001203/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 
 广东,#genre#
@@ -4723,4 +4725,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 
 🕘️更新时间,#genre#
-2026-03-21 22:57:47,https://smart.dxjc.pp.ua/smart.php?id=cctv1&token=tmxk
+2026-03-22 14:21:02,https://smart.dxjc.pp.ua/smart.php?id=cctv1&token=tmxk
