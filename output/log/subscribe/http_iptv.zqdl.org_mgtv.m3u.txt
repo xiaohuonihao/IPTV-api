@@ -1,79 +1,103 @@
 
-CCTV1综合,http://iptvapi.zqdl.org/migu.php?id=cctv1
-CCTV2财经,http://iptvapi.zqdl.org/migu.php?id=cctv2
-CCTV3综艺,http://iptvapi.zqdl.org/migu.php?id=cctv3
-CCTV4中文国际,http://iptvapi.zqdl.org/migu.php?id=cctv4
-CCTV5体育,http://iptvapi.zqdl.org/migu.php?id=cctv5
-CCTV5+体育赛事,http://iptvapi.zqdl.org/migu.php?id=cctv5p
-CCTV6电影,http://iptvapi.zqdl.org/migu.php?id=cctv6
-CCTV7国防军事,http://iptvapi.zqdl.org/migu.php?id=cctv7
-CCTV8电视剧,http://iptvapi.zqdl.org/migu.php?id=cctv8
-CCTV9纪录,http://iptvapi.zqdl.org/migu.php?id=cctv9
-CCTV10科教,http://iptvapi.zqdl.org/migu.php?id=cctv10
-CCTV11戏曲,http://iptvapi.zqdl.org/migu.php?id=cctv11
-CCTV12社会与法,http://iptvapi.zqdl.org/migu.php?id=cctv12
-CCTV13新闻,http://iptvapi.zqdl.org/migu.php?id=cctv13
-CCTV14少儿,http://iptvapi.zqdl.org/migu.php?id=cctv14
-CCTV15音乐,http://iptvapi.zqdl.org/migu.php?id=cctv15
-CCTV17农业农村,http://iptvapi.zqdl.org/migu.php?id=cctv17
-发现之旅,http://iptvapi.zqdl.org/migu.php?id=fxzl
-老故事,http://iptvapi.zqdl.org/migu.php?id=lgs
-中学生,http://iptvapi.zqdl.org/migu.php?id=zxs
-CHC影迷电影,http://iptvapi.zqdl.org/migu.php?id=chcym
-CHC家庭影院,http://iptvapi.zqdl.org/migu.php?id=chcjt
-CHC动作电影,http://iptvapi.zqdl.org/migu.php?id=chcdz
-东方卫视,http://iptvapi.zqdl.org/migu.php?id=dfws
-辽宁卫视,http://iptvapi.zqdl.org/migu.php?id=lnws
-陕西卫视,http://iptvapi.zqdl.org/migu.php?id=sxws
-河南卫视,http://iptvapi.zqdl.org/migu.php?id=hnws
-江西卫视,http://iptvapi.zqdl.org/migu.php?id=jxws
-江苏卫视,http://iptvapi.zqdl.org/migu.php?id=jsws
-广东卫视,http://iptvapi.zqdl.org/migu.php?id=gdws
-大湾区卫视,http://iptvapi.zqdl.org/migu.php?id=dwqws
-东方影视,http://iptvapi.zqdl.org/migu.php?id=dfys
-上海新闻综合,http://iptvapi.zqdl.org/migu.php?id=shxwzh
-上海第一财经,http://iptvapi.zqdl.org/migu.php?id=dycj
-江苏城市频道,http://iptvapi.zqdl.org/migu.php?id=jscs
-江苏综艺频道,http://iptvapi.zqdl.org/migu.php?id=jszy
-江苏影视频道,http://iptvapi.zqdl.org/migu.php?id=jsys
-公共新闻频道,http://iptvapi.zqdl.org/migu.php?id=jsggxw
-江苏国际,http://iptvapi.zqdl.org/migu.php?id=jsgj
-江苏教育,http://iptvapi.zqdl.org/migu.php?id=jsjy
-江苏体育休闲,http://iptvapi.zqdl.org/migu.php?id=jstyxx
-优漫卡通,http://iptvapi.zqdl.org/migu.php?id=ymkt
-南京新闻综合频道,http://iptvapi.zqdl.org/migu.php?id=njxwzh
-南京教科频道,http://iptvapi.zqdl.org/migu.php?id=njkj
-南京十八频道,http://iptvapi.zqdl.org/migu.php?id=njsb
-淮安新闻综合,http://iptvapi.zqdl.org/migu.php?id=haxwzh
-连云港新闻综合,http://iptvapi.zqdl.org/migu.php?id=lygxwzh
-泰州新闻综合,http://iptvapi.zqdl.org/migu.php?id=tzxwzh
-宿迁新闻综合,http://iptvapi.zqdl.org/migu.php?id=sqxwzh
-徐州新闻综合,http://iptvapi.zqdl.org/migu.php?id=xzxwzh
-四海钓鱼,http://iptvapi.zqdl.org/migu.php?id=shdy
-广东影视,http://iptvapi.zqdl.org/migu.php?id=gdys
-嘉佳卡通,http://iptvapi.zqdl.org/migu.php?id=jjkt
-掼蛋精英赛,http://iptvapi.zqdl.org/migu.php?id=gdjys
-高清大片,http://iptvapi.zqdl.org/migu.php?id=gqdp
-战争影像志,http://iptvapi.zqdl.org/migu.php?id=hslbt
-经典动画片,http://iptvapi.zqdl.org/migu.php?id=jddhdjh
-经典香港电影,http://iptvapi.zqdl.org/migu.php?id=jdxgdy
-抗战经典影片,http://iptvapi.zqdl.org/migu.php?id=jsdp
-华语乐坛最强音,http://iptvapi.zqdl.org/migu.php?id=hyytzqy
-咪咕体育轮播,http://iptvapi.zqdl.org/migu.php?id=mg24hty
-赛事最经典,http://iptvapi.zqdl.org/migu.php?id=sszjd
-体坛名栏汇,http://iptvapi.zqdl.org/migu.php?id=ttmlh
-乡村振兴,http://iptvapi.zqdl.org/migu.php?id=xczx
-幸福中国年,http://iptvapi.zqdl.org/migu.php?id=xfzgn
-新片放映厅,http://iptvapi.zqdl.org/migu.php?id=xpfyt
-周杰伦现场,http://iptvapi.zqdl.org/migu.php?id=zjlxc
-熊猫高清,http://iptvapi.zqdl.org/migu.php?id=xmpd
-熊猫1,http://iptvapi.zqdl.org/migu.php?id=xm1
-熊猫2,http://iptvapi.zqdl.org/migu.php?id=xm2
-熊猫3,http://iptvapi.zqdl.org/migu.php?id=xm3
-熊猫4,http://iptvapi.zqdl.org/migu.php?id=xm4
-熊猫5,http://iptvapi.zqdl.org/migu.php?id=xm5
-熊猫6,http://iptvapi.zqdl.org/migu.php?id=xm6
-熊猫7,http://iptvapi.zqdl.org/migu.php?id=xm7
-熊猫8,http://iptvapi.zqdl.org/migu.php?id=xm8
-熊猫9,http://iptvapi.zqdl.org/migu.php?id=xm9
-熊猫10,http://iptvapi.zqdl.org/migu.php?id=xm10
+
+
+zqdl.org | 520: Web server is returning an unknown error
+
+
+
+
+
+
+
+
+
+
+
+
+Web server is returning an unknown error
+Error code 520
+
+
+                Visit cloudflare.com for more information.
+            
+2026-03-24 10:54:47 UTC
+
+
+
+
+
+
+
+
+
+You
+
+  
+    Browser
+  
+  
+Working
+
+
+
+
+
+
+
+
+Chicago
+
+
+    Cloudflare
+  
+
+Working
+
+
+
+
+
+
+iptv.zqdl.org
+
+  
+    Host
+  
+  
+Error
+
+
+
+
+
+
+
+What happened?
+There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed.
+
+
+What can I do?
+If you are a visitor of this website:
+Please try again in a few minutes.
+If you are the owner of this website:
+There is an issue between Cloudflare's cache and your origin web server. Cloudflare monitors for these errors and automatically investigates the cause. To help support the investigation, you can pull the corresponding error log from your web server and submit it our support team.  Please include the Ray ID (which is at the bottom of this error page). Additional troubleshooting resources.
+
+
+
+
+
+Cloudflare Ray ID: 9e1523c71f0a60a7
+•
+
+        Your IP:
+        Click to reveal
+172.183.94.130
+•
+
+Performance & security by Cloudflare
+
+
+
+
+
+
