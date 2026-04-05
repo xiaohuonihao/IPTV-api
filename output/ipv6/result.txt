@@ -906,6 +906,12 @@ CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba020
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 CHC家庭影院,http://iptvapi.zqdl.org/migu.php?id=chcjt
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-1.m3u8
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-12.m3u8
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-13.m3u8
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-9.m3u8
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-2.m3u8
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-3.m3u8
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
@@ -4677,4 +4683,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 
 🕘️更新时间,#genre#
-2026-04-05 14:17:32,https://smart.dxjc.pp.ua/smart.php?id=cctv1&token=tmxk
+2026-04-05 23:07:24,https://smart.dxjc.pp.ua/smart.php?id=cctv1&token=tmxk
