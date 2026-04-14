@@ -1,7 +1,7 @@
 
 
 
-zqdl.org | 520: Web server is returning an unknown error
+Attention Required! | Cloudflare
 
 
 
@@ -13,14 +13,11 @@ zqdl.org | 520: Web server is returning an unknown error
 
 
 
-
-Web server is returning an unknown error
-Error code 520
+Please enable cookies.
 
 
-                Visit cloudflare.com for more information.
-            
-2026-04-14 02:48:31 UTC
+Sorry, you have been blocked
+You are unable to access zqdl.org
 
 
 
@@ -30,71 +27,29 @@ Error code 520
 
 
 
-You
-
-  
-    Browser
-  
-  
-Working
 
 
+Why have I been blocked?
+This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.
 
+
+What can I do to resolve this?
+You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.
 
 
 
 
 
-Los Angeles
-
-
-    Cloudflare
-  
-
-Working
-
-
-
-
-
-
-iptv.zqdl.org
-
-  
-    Host
-  
-  
-Error
-
-
-
-
-
-
-
-What happened?
-There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed.
-
-
-What can I do?
-If you are a visitor of this website:
-Please try again in a few minutes.
-If you are the owner of this website:
-There is an issue between Cloudflare's cache and your origin web server. Cloudflare monitors for these errors and automatically investigates the cause. To help support the investigation, you can pull the corresponding error log from your web server and submit it our support team.  Please include the Ray ID (which is at the bottom of this error page). Additional troubleshooting resources.
-
-
-
-
-
-Cloudflare Ray ID: 9ebf645d4a72f7cf
+Cloudflare Ray ID: 9ec23de06a17616f
 •
 
         Your IP:
         Click to reveal
-20.169.72.2
+40.116.109.133
 •
 
 Performance & security by Cloudflare
+
 
 
 
