@@ -1815,6 +1815,10 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 广东珠江,https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 广东新闻,https://php.17186.eu.org/gdtv/web/xwpd.m3u8
+广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen-14.m3u8
+广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen-18.m3u8
+广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen-20.m3u8
+广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen-6.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-14.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-18.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-19.m3u8
@@ -4761,4 +4765,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 
 🕘️更新时间,#genre#
-2026-04-15 14:42:35,https://smart.dxjc.pp.ua/smart.php?id=cctv1&token=tmxk
+2026-04-15 22:45:46,https://smart.dxjc.pp.ua/smart.php?id=cctv1&token=tmxk
