@@ -1244,7 +1244,6 @@ CNA,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cna
 
 演*唱*会,#genre#
 刘德华今天演唱会一,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d56c0738b82a010370019981b0f51d_258.mp4
-刘德华今天演唱会二,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8d56c6a1cc47b4f0370019981b1936a_258.mp4
 刘德华今天演唱会三,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d56cda3884c0010370019981b36f0e_258.mp4
 刘德华今天演唱会四,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d56d192b31c9010370019981b350f9_258.mp4
 刘德华《2007香港红磡 演唱会 完整版》,https://vd2.bdstatic.com/mda-nmbnvt4myvg0x26d/576p/h264/1670861624347655626/mda-nmbnvt4myvg0x26d.mp4
@@ -4765,4 +4764,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 
 🕘️更新时间,#genre#
-2026-04-15 22:45:46,https://smart.dxjc.pp.ua/smart.php?id=cctv1&token=tmxk
+2026-04-16 15:00:31,https://smart.dxjc.pp.ua/smart.php?id=cctv1&token=tmxk
