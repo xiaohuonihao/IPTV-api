@@ -20,7 +20,7 @@ Error code 520
 
                 Visit cloudflare.com for more information.
             
-2026-04-23 11:13:49 UTC
+2026-04-24 02:52:33 UTC
 
 
 
@@ -45,7 +45,7 @@ Working
 
 
 
-San Jose
+Chicago
 
 
     Cloudflare
@@ -86,12 +86,12 @@ There is an issue between Cloudflare's cache and your origin web server. Cloudfl
 
 
 
-Cloudflare Ray ID: 9f0c70e9ed3acf13
+Cloudflare Ray ID: 9f11d004ce061177
 •
 
         Your IP:
         Click to reveal
-52.250.210.69
+135.232.232.23
 •
 
 Performance & security by Cloudflare
