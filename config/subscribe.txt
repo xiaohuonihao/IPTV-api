@@ -4,7 +4,7 @@
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
 https://13035.kstore.space/url/歌曲.txt
-
+https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt
 
 
 https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/dianshijia_10.1.txt
