@@ -646,6 +646,7 @@ CCTV中学生,http://iptvapi.zqdl.org/migu.php?id=zxs
 动漫秀场,http://nas.home.plugintool.top:2333/udp/239.76.254.70:9000
 动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
 动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
+动漫秀场,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
 乐游,https://zby.130519.xyz/PLTV/11/224/3221226157/index.m3u8
 乐游,http://www.wmviv.com/iptv/bc2t.php?id=ly
 
@@ -979,6 +980,7 @@ NewTV动作电影,http://[2409:8087:74d9:21::6]/270000001128/9900000106/index.m3
 纬来电影,https://tv.iill.top/x/wldy
 纬来电影,https://tv.iill.top/x/wldy&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
 纬来电影,https://hls.iill.top/api/wldy/index.m3u8
+纬来电影,https://t.freetv.fun/live/wei-lai-dian-ying-1.php
 靖天映画,https://4gtv.dxjc.pp.ua/4gtv-4gtv055/index.m3u8?token=tmxk
 靖天映画,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv055/index.m3u8?token=tmxk
 靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
@@ -1247,6 +1249,7 @@ Astro AOD,http://o11.163189.xyz/stream/live/aod/
 纬来电影,https://tv.iill.top/x/wldy
 纬来电影,https://tv.iill.top/x/wldy&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
 纬来电影,https://hls.iill.top/api/wldy/index.m3u8
+纬来电影,https://t.freetv.fun/live/wei-lai-dian-ying-1.php
 纬来综合,https://smart.dxjc.pp.ua/smart.php?id=videolandzonghe&token=tmxk
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来日本,https://smart.dxjc.pp.ua/smart.php?id=videolandjapan&token=tmxk
@@ -1839,6 +1842,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 动漫秀场,http://nas.home.plugintool.top:2333/udp/239.76.254.70:9000
 动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
 动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
+动漫秀场,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
 哈哈炫动,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226931/1.m3u8
 哈哈炫动,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
 哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226161/index.m3u8
@@ -4950,4 +4954,4 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 
 🕘️更新时间,#genre#
-2026-04-26 14:57:59,https://smart.dxjc.pp.ua/smart.php?id=cctv1&token=tmxk
+2026-04-26 22:53:12,https://smart.dxjc.pp.ua/smart.php?id=cctv1&token=tmxk
