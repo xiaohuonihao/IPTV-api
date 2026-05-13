@@ -213,7 +213,6 @@ CCTV-8K,re:.*[Cc][Cc][Tt][Vv][-\s_]*0?8.*[Kk].*,CCTV8K
 TVBJ1,re:.*[Tt][Vv][Bb]J1.*,TVBJ1,TVB-J1
 TVBJ2,re:.*[Tt][Vv][Bb]J2.*,TVBJ2,TVB-J2
 TVB Plus,re:.*[Tt][Vv][Bb]\s*Plus.*,TVB Plus,TVBPlus
-
 华丽翡翠台,re:.*華麗翡翠台.*,华丽翡翠台
 无线翡翠台,re:.*無線翡翠台.*,无线翡翠台
 无线新闻台,re:.*無線新聞台.*|.*TVB新聞.*,无线新闻台
