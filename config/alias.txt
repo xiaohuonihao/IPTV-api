@@ -160,6 +160,13 @@ CCTV-14,re:.*[Cc][Cc][Tt][Vv][-\s_]*0?14.*,CCTV14
 CCTV-15,re:.*[Cc][Cc][Tt][Vv][-\s_]*0?15.*,CCTV15
 CCTV-16,re:.*[Cc][Cc][Tt][Vv][-\s_]*0?16.*,CCTV16
 CCTV-17,re:.*[Cc][Cc][Tt][Vv][-\s_]*0?17.*,CCTV17
+
+
+# 放在 CCTV-1 规则旁边
+CCTV-1,re:^.*CCTV[-\s]*1(?!.*(?:港澳|香港|HK|港台|RTHK)).*$,CCTV-1
+CCTV-1港澳版,re:^.*CCTV[-\s]*1.*(?:港澳|香港|HK).*$|^.*(?:港台电视33|RTHK33|澳广视71).*$,CCTV-1港澳版
+
+
 # ==================== 4K/8K超高清 ====================
 CCTV4K,re:^.*CCTV[-\s]*4K.*$|^.*CCTV[-\s]*4K.*$,CCTV4K
 CCTV8K,re:^.*CCTV[-\s]*8K.*$|^.*CCTV[-\s]*8K.*$,CCTV8K
