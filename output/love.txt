@@ -1,0 +1,23 @@
+央视频道,#genre#
+CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
+CCTV-1,http://69.30.245.50/live/cctv1.m3u8
+CCTV-1,http://183.62.8.58:50085/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV-1,http://112.123.243.37:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-1,http://42.225.146.64:11199/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://222.223.41.27:8888/hls/1/index.m3u8
+CCTV-1,https://stream1.freetv.fun/9b729e6c878984d044d0552a24528d74fe7ef50bf62542ff952688d80f70e770.m3u8
+CCTV-1,https://stream1.freetv.fun/1e233c3fa02ad66a59876f9f9d5500a9b99b490836014ad39c51e69a17b3c563.ctv
+CCTV-2,http://107.150.60.122/live/cctv2hd.m3u8
+CCTV-2,http://69.30.245.50/live/cctv2.m3u8
+CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+CCTV-2,http://221.13.232.9:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://120.202.73.48:8888/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-2,http://112.123.243.37:50085/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-2,http://106.115.25.168:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://106.115.25.184:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://42.225.146.64:11199/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://183.62.8.58:50085/tsfile/live/0002_1.m3u8?key=txiptv
+
+🕘️更新时间,#genre#
+2026-05-13 21:23:21,http://107.150.60.122/live/cctv1hd.m3u8
