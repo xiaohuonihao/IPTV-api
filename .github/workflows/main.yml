@@ -11,7 +11,7 @@ name: 'Update schedule'
 
 on:
   schedule:                    # 新增
-      - cron: '0 0,10 * * *'    # 新增（北京时间 8:00 和 18:00）
+      - cron: '0 19 * * *'    # UTC 19:00 → 北京时间次日 3:00
   workflow_dispatch:           # 原有的保持不变
 
 jobs:
