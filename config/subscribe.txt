@@ -2,14 +2,7 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-电视家重生
-好朋友直播（几万电影频道）
-全球直播
-组播
-港澳
-国际
-看球
-比赛
+
 https://123.tv1288.xyz/sm2.txt
 https://xiaohuo.dpdns.org/123456
 https://raw.giteeusercontent.com/yuan301/tv/raw/master/A/z_v.png
@@ -21,7 +14,7 @@ https://gh-proxy.org/https://raw.githubusercontent.com/cs3306/IPTV-Sources/refs/
 https://13035.kstore.space/url/歌曲.txt
 https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt
 https://cnb.cool/fgvss/zbds/-/git/raw/main/zbtvupan.txt
-https://gh-proxy.org/https://raw.githubusercontent.com/x22c/okk/refs/heads/master/output/user_result.txt
+
 https://ghfast.top/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
 https://pastebin.com/raw/V0BhYHF4
 https://tmxk.pp.ua/smart-cn.m3u
@@ -43,7 +36,9 @@ https://sub.ottiptv.cc/douyuyqk.m3u
 https://sub.ottiptv.cc/bililive.m3u
 https://sub.ottiptv.cc/yylunbo.m3u
 
-# https://2026.tv1288.xyz
+
+https://xymm.ccwu.cc/
+
 # https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/dianshijia_10.1.txt
 # https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/好朋友直播_几万电影频道.txt
 # https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/冰茶去体育去推广.m3u
