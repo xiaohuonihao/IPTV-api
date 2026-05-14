@@ -6,3 +6,4 @@ bxtv.3a.ink
 
 107.150.60.122/live
 iptv.catvod.com
+stream1.freetv.fun
