@@ -1,29 +1,12 @@
 Generic,#genre#
 [BD]rtv_1,rtmp://212.200.230.50:1935/RTV/rtv1
 [HD]momo综合,rtmp://f13h.mine.nu/sat/tv761
-[BD]sctv-2高清,https://stream1.freetv.fun/9cf2ed72fdad01e27c8ce02a16acd589a609ce279e247b1eb8bb5572df1a612b.ctv
 [HD]中视,rtmp://f13h.mine.nu/sat/tv091
 [HD]台视,rtmp://f13h.mine.nu:1935/sat/tv071
-[BD]四川卫视超高清,https://stream1.freetv.fun/1573c8c123f8db1b2922b0cdeed2bacb80bc0eed5a66f4d6d1bf992e777b409a.ctv
-[BD]天津卫视超高清,https://stream1.freetv.fun/6260f5f628521529429b0e9e43093404cddf3940862cf64db6de37a244b0dd20.ctv
-[BD]山东卫视超高清,https://stream1.freetv.fun/a12c17cb773ddf14320bfa7b1a368cd7e6ae492e7eb3a1ac97a90c29324de35d.ctv
-[BD]新疆卫视高清,https://stream1.freetv.fun/a8048d3e606033ec1ad5420f6831871a15e40b6e402e2dee64a84d9180e0ffe8.ctv
-[BD]东南卫视超高清,https://stream1.freetv.fun/f699940af479b8d4470d2dbcd67a48e99b5b33faae956a3e2b657d9b56c8324f.ctv
 [HD]东森超视,rtmp://f13h.mine.nu/sat/tv331
 [HD]民视,rtmp://f13h.mine.nu/sat/tv051
-[BD]江苏卫视超高清,https://stream1.freetv.fun/ca5f6d6f8bb5bffa7ceac2ec10271b859e37bf08759e2a0cb3d5f5a3188cd63e.ctv
-[BD]浙江卫视超高清,https://stream1.freetv.fun/94b49aa37933316ca6f94b3fc74f17fa12a80a9d5b9249bd592169ac236a6f66.ctv
 [HD]纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 [HD]华视,rtmp://f13h.mine.nu/sat/tv111
-[BD]辽宁卫视高清,https://stream1.freetv.fun/187a5e75f83b6de2ffd8d0b6e9517e83a775b425c3eb6d30f4edb32eb43d7e0c.ctv
-[BD]重庆卫视超高清,https://stream1.freetv.fun/c2a65cf8328342868e7968488a2d9f5459f384ce97480c886b75ffed9cfe32ea.ctv
-[BD]黑龙江卫视超高清,https://stream1.freetv.fun/a2c8795818cae8840bfdde3c397185240df54b49a4224b15e2c052212a071e0b.ctv
-
-Kids,#genre#
-[BD]cctv-14少儿高清,https://stream1.freetv.fun/325a561c81b72685a281cc925810f02df963f9664ffe6328859d35263b1008c7.ctv
-
-Other,#genre#
-[SD]cqtv娱乐,https://stream1.freetv.fun/489bf698123023beca43b79a2f962cc7ba501874ab0390fc8060d89bd26fc4aa.ctv
 
 Sports,#genre#
 [HD]dazn1,rtmp://f13h.mine.nu/sat/tv731
@@ -31,7 +14,6 @@ Sports,#genre#
 
 News,#genre#
 [VGA]中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
-[BD]重庆新闻超高清,https://stream1.freetv.fun/32207f2aa243afa5418ab4d803b324e19feca2e24d34662e4567b40c153d1824.ctv
 [HD]非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 
 Entertainment,#genre#

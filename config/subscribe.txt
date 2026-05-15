@@ -9,6 +9,11 @@
 # https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/几万电影频道.m3u
 # https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/全球直播.m3u
 # https://gh-proxy.com/raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt
+# https://raw.giteeusercontent.com/yuan301/tv/raw/master/A/z_v.png
+# https://gitee.com/rgzyyuncang/vip/raw/master/jars/quanq.png
+# https://sub.ottiptv.cc/huyayqk.m3u
+# https://sub.ottiptv.cc/douyuyqk.m3u
+# https://xymm.ccwu.cc/
 https://123.tv1288.xyz/sm2.txt
 https://xiaohuo.dpdns.org/123456
 https://iptv-sources-6hc.pages.dev/txt/all.txt
@@ -34,14 +39,9 @@ http://rihou.cc:555/gggg.nzk
 http://rihou.cc:567/gggg.nzk
 https://ghfast.top/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://live.zbds.top/tv/iptv4.txt
-https://sub.ottiptv.cc/bililive.m3u
 https://sub.ottiptv.cc/yylunbo.m3u
 
-# https://raw.giteeusercontent.com/yuan301/tv/raw/master/A/z_v.png
-# https://gitee.com/rgzyyuncang/vip/raw/master/jars/quanq.png
-# https://sub.ottiptv.cc/huyayqk.m3u
-# https://sub.ottiptv.cc/douyuyqk.m3u
-# https://xymm.ccwu.cc/
+# https://sub.ottiptv.cc/bililive.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
