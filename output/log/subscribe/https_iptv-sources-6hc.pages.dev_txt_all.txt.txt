@@ -13,7 +13,7 @@ Sports,#genre#
 [HD]纬来体育,rtmp://f13h.mine.nu/sat/tv721
 
 News,#genre#
-[VGA]中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
+[VGA]中天新闻,rtmp://home.aceimage.cn/live/xiangjiaoge-ztxw
 [HD]非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 
 Entertainment,#genre#
