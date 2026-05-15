@@ -9,3 +9,10 @@ iptv.catvod.com
 stream1.freetv.fun
 satellitepull.cnr.cn
 ls.qingting.fm
+
+
+cctvtxyh5c.liveplay.myqcloud.com
+php.jdshipin.com
+cdn.132.us.kg
+php.jdshipin.com:8880
+iptv.4666888.xyz
