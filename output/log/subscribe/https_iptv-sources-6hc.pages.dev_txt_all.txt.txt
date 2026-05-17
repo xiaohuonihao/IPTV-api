@@ -9,7 +9,6 @@ Knowledge,#genre#
 
 News,#genre#
 [BD]cartoon_head_tv_4,rtmp://vkvsd278.okcdn.ru/playback/13474169039795?stkn=teYFrlCUVUJIuLZBKQ1ImcQWv_fDnIhMXd5HG4rWpAxwu6JoihJenTZ1DOmwOyyp9gA3ALXtyP7K&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-[BD]k1n0man1a,rtmp://vkvsd176.okcdn.ru/playback/9060843400063?stkn=KV0WGPPXIBbOVVy6l6W5YU70Wrv6I9tZOa9CyCjyDUwntlSO4dtIt72cgu0M-sTWTi7PFHAQj8s&uid=0&sp=uid,sp&sig=vlibqm4nyu
 [BD]黔南,rtmp://tv.qntv.net/channellive/ch1
 [VGA]中天新闻,rtmp://home.aceimage.cn/live/xiangjiaoge-ztxw
 [HD]非凡新闻,rtmp://f13h.mine.nu/sat/tv581

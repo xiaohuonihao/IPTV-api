@@ -4657,8 +4657,6 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 https://stream1.freetv.fun/ca8f57fc39d536dd721699325e3fc7ac9ca96fbe65f453531c01227f830b12cb.m3u8
 #EXTINF:-1 tvg-id="哈尔滨新闻" tvg-name="哈尔滨新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈尔滨新闻.png" group-title="黑龙江",哈尔滨新闻
 https://stream1.freetv.fun/ha-er-bin-xin-wen-zong-he-4.m3u8
-#EXTINF:-1 tvg-id="哈尔滨生活" tvg-name="哈尔滨生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈尔滨生活.png" group-title="黑龙江",哈尔滨生活
-https://stream1.freetv.fun/71746238db63ed6951b3f0a4cbc42467d1a7b32c1925b4854de68ed71d678c98.m3u8
 #EXTINF:-1 tvg-id="哈尔滨娱乐" tvg-name="哈尔滨娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈尔滨娱乐.png" group-title="黑龙江",哈尔滨娱乐
 https://stream1.freetv.fun/4ba7c23704180253389bb6b17009e2d88e3d472c1d043dffa329635f38bfb088.m3u8
 #EXTINF:-1 tvg-id="齐齐哈尔新闻" tvg-name="齐齐哈尔新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/齐齐哈尔新闻.png" group-title="黑龙江",齐齐哈尔新闻
@@ -4673,6 +4671,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
 #EXTINF:-1 tvg-id="大庆新闻" tvg-name="大庆新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大庆新闻.png" group-title="黑龙江",大庆新闻
 https://live.ottiptv.cc/douyu/9477316
+#EXTINF:-1 tvg-id="大庆新闻" tvg-name="大庆新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大庆新闻.png" group-title="黑龙江",大庆新闻
+https://www.goodiptv.club/douyu/9477316
 #EXTINF:-1 tvg-id="大庆公共" tvg-name="大庆公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大庆公共.png" group-title="黑龙江",大庆公共
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
 #EXTINF:-1 tvg-id="双鸭山新闻" tvg-name="双鸭山新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/双鸭山新闻.png" group-title="黑龙江",双鸭山新闻
@@ -9349,5 +9349,5 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m
 http://ls.qingting.fm/live/4944.m3u8
 #EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育广播" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东体育广播.png" group-title="广播电台",山东体育广播
 http://livealone302.iqilu.com/iqilu/typd.m3u8
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-05-17 06:00:04
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-05-18 06:01:47
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8

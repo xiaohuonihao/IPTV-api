@@ -2396,7 +2396,6 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 黑龙江少儿,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 哈尔滨新闻,https://stream1.freetv.fun/ca8f57fc39d536dd721699325e3fc7ac9ca96fbe65f453531c01227f830b12cb.m3u8
 哈尔滨新闻,https://stream1.freetv.fun/ha-er-bin-xin-wen-zong-he-4.m3u8
-哈尔滨生活,https://stream1.freetv.fun/71746238db63ed6951b3f0a4cbc42467d1a7b32c1925b4854de68ed71d678c98.m3u8
 哈尔滨娱乐,https://stream1.freetv.fun/4ba7c23704180253389bb6b17009e2d88e3d472c1d043dffa329635f38bfb088.m3u8
 齐齐哈尔新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
 齐齐哈尔新闻,http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
@@ -2404,6 +2403,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 佳木斯新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
 大庆新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
 大庆新闻,https://live.ottiptv.cc/douyu/9477316
+大庆新闻,https://www.goodiptv.club/douyu/9477316
 大庆公共,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
 双鸭山新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
 双鸭山公共,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8
@@ -4828,4 +4828,4 @@ Coffee House,https://omg.pendy.dpdns.org/4wVQA7/625159/17854?token=tmxk
 山东体育广播,http://livealone302.iqilu.com/iqilu/typd.m3u8
 
 🕘️更新时间,#genre#
-2026-05-17 06:00:04,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
+2026-05-18 06:01:47,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
