@@ -14,9 +14,8 @@
 # https://sub.ottiptv.cc/huyayqk.m3u
 # https://sub.ottiptv.cc/douyuyqk.m3u
 # https://xymm.ccwu.cc/
-
+# https://sub.ottiptv.cc/bililive.m3u
 https://18592.kstore.space/%E6%B5%8B%E8%AF%95/01.json
-https://bitbucket.org/guot55/bhmb/raw/66cbebc3b012fd4f86a607ccc78428ef3fd776a9/TVBoxOSC/ysp2.txt
 https://bitbucket.org/guot55/bhmb/raw/66cbebc3b012fd4f86a607ccc78428ef3fd776a9/TVBoxOSC/ysp.txt
 https://123.tv1288.xyz/sm2.txt
 https://xiaohuo.dpdns.org/123456
@@ -45,7 +44,7 @@ https://ghfast.top/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m
 https://live.zbds.top/tv/iptv4.txt
 https://sub.ottiptv.cc/yylunbo.m3u
 
-# https://sub.ottiptv.cc/bililive.m3u
+# https://bitbucket.org/guot55/bhmb/raw/66cbebc3b012fd4f86a607ccc78428ef3fd776a9/TVBoxOSC/ysp2.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。

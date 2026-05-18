@@ -1299,6 +1299,10 @@ http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=lhQB7D&tk=4U04NDOE13ra
 http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=KqOtof&tk=4U04NDOE13ra
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HOY TV.png" group-title="香港频道",HOY TV
 https://smart.dxjc.pp.ua/smart.php?id=hoycaijing_twn&token=tmxk
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HOY TV.png" group-title="香港频道",HOY TV
+https://cdn6.163189.xyz/163189/hoy
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HOY TV.png" group-title="香港频道",HOY TV
+https://cdn.163189.xyz/163189/hoy
 #EXTINF:-1 tvg-id="HOY 77" tvg-name="HOY 77" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HOY 77.png" group-title="香港频道",HOY 77
 https://cdn6.163189.xyz/163189/hoy
 #EXTINF:-1 tvg-id="HOY 77" tvg-name="HOY 77" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HOY 77.png" group-title="香港频道",HOY 77
@@ -1627,6 +1631,8 @@ https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
 https://smart.dxjc.pp.ua/smart.php?id=TVN&token=tmxk
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN.png" group-title="台湾频道",tvN
 https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie&token=tmxk
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN.png" group-title="台湾频道",tvN
+https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 #EXTINF:-1 tvg-id="阿里郎电视台" tvg-name="阿里郎电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/阿里郎电视台.png" group-title="台湾频道",阿里郎电视台
 https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 #EXTINF:-1 tvg-id="阿里郎电视台" tvg-name="阿里郎电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/阿里郎电视台.png" group-title="台湾频道",阿里郎电视台
@@ -4319,6 +4325,10 @@ https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 https://jwcdnqx.hebyun.com.cn/zb/xlzh/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="平泉综合" tvg-name="平泉综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/平泉综合.png" group-title="河北",平泉综合
 https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="迁西综合" tvg-name="迁西综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/迁西综合.png" group-title="河北",迁西综合
+https://jwcdnqx.hebyun.com.cn/live/qxzhpd/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="青县综合" tvg-name="青县综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青县综合.png" group-title="河北",青县综合
+http://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重庆卫视.png" group-title="重庆",重庆卫视
 http://api.kkitv.itv888.cn:8080/hls/ogh3s6tbw6/index.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重庆卫视.png" group-title="重庆",重庆卫视
@@ -5477,6 +5487,8 @@ https://smart.dxjc.pp.ua/smart.php?id=Channel5HD&token=tmxk
 https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Comedy Central.png" group-title="英国频道",Comedy Central
 https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Comedy Central.png" group-title="英国频道",Comedy Central
+https://jmp2.uk/plu-61c0b550e0d3a700072b6a2a.m3u8
 #EXTINF:-1 tvg-id="More4" tvg-name="More4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/More4.png" group-title="英国频道",More4
 https://smart.dxjc.pp.ua/smart.php?id=more4_antik&token=tmxk
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TLC.png" group-title="英国频道",TLC
@@ -5677,6 +5689,8 @@ https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
 https://smart.dxjc.pp.ua/smart.php?id=TVN&token=tmxk
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN 꽃보다할배" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 꽃보다할배.png" group-title="韩国频道",tvN 꽃보다할배
 https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie&token=tmxk
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN 꽃보다할배" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 꽃보다할배.png" group-title="韩国频道",tvN 꽃보다할배
+https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN 나의 아저씨" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 나의 아저씨.png" group-title="韩国频道",tvN 나의 아저씨
 https://dp9vqmqe1b62.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqup1fpzurgqx-ssai-prd/dc942d76_e776_4c34_8e0c_f09008912455/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN 나의 아저씨" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 나의 아저씨.png" group-title="韩国频道",tvN 나의 아저씨
@@ -5685,6 +5699,8 @@ https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
 https://smart.dxjc.pp.ua/smart.php?id=TVN&token=tmxk
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN 나의 아저씨" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 나의 아저씨.png" group-title="韩国频道",tvN 나의 아저씨
 https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie&token=tmxk
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN 나의 아저씨" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 나의 아저씨.png" group-title="韩国频道",tvN 나의 아저씨
+https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN 도깨비" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 도깨비.png" group-title="韩国频道",tvN 도깨비
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN 도깨비" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 도깨비.png" group-title="韩国频道",tvN 도깨비
@@ -5693,6 +5709,8 @@ https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
 https://smart.dxjc.pp.ua/smart.php?id=TVN&token=tmxk
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN 도깨비" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 도깨비.png" group-title="韩国频道",tvN 도깨비
 https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie&token=tmxk
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN 도깨비" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 도깨비.png" group-title="韩国频道",tvN 도깨비
+https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN 라켓보이즈" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 라켓보이즈.png" group-title="韩国频道",tvN 라켓보이즈
 https://dcqm3yrmhgffm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kl2somy43z7lq-ssai-prd/afb160a1_1669_46f6_aba5_e55f48c7b2ca/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN 라켓보이즈" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 라켓보이즈.png" group-title="韩国频道",tvN 라켓보이즈
@@ -5701,6 +5719,8 @@ https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
 https://smart.dxjc.pp.ua/smart.php?id=TVN&token=tmxk
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN 라켓보이즈" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 라켓보이즈.png" group-title="韩国频道",tvN 라켓보이즈
 https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie&token=tmxk
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN 라켓보이즈" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 라켓보이즈.png" group-title="韩国频道",tvN 라켓보이즈
+https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN 마인" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 마인.png" group-title="韩国频道",tvN 마인
 https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN 마인" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 마인.png" group-title="韩国频道",tvN 마인
@@ -5709,6 +5729,8 @@ https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
 https://smart.dxjc.pp.ua/smart.php?id=TVN&token=tmxk
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN 마인" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 마인.png" group-title="韩国频道",tvN 마인
 https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie&token=tmxk
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN 마인" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 마인.png" group-title="韩国频道",tvN 마인
+https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN 멜랑꼴리아" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 멜랑꼴리아.png" group-title="韩国频道",tvN 멜랑꼴리아
 https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN 멜랑꼴리아" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 멜랑꼴리아.png" group-title="韩国频道",tvN 멜랑꼴리아
@@ -5717,6 +5739,8 @@ https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
 https://smart.dxjc.pp.ua/smart.php?id=TVN&token=tmxk
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN 멜랑꼴리아" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 멜랑꼴리아.png" group-title="韩国频道",tvN 멜랑꼴리아
 https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie&token=tmxk
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN 멜랑꼴리아" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 멜랑꼴리아.png" group-title="韩国频道",tvN 멜랑꼴리아
+https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN 철인왕후" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 철인왕후.png" group-title="韩国频道",tvN 철인왕후
 https://dmnsygceaez9z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kugwkm0rtsyfv-ssai-prd/89a2b732_7d4e_4098_9b82_f8e829ab07f0/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN 철인왕후" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 철인왕후.png" group-title="韩国频道",tvN 철인왕후
@@ -5725,6 +5749,8 @@ https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
 https://smart.dxjc.pp.ua/smart.php?id=TVN&token=tmxk
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN 철인왕후" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 철인왕후.png" group-title="韩国频道",tvN 철인왕후
 https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie&token=tmxk
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN 철인왕후" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN 철인왕후.png" group-title="韩国频道",tvN 철인왕후
+https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN THE K2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN THE K2.png" group-title="韩国频道",tvN THE K2
 https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN THE K2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN THE K2.png" group-title="韩国频道",tvN THE K2
@@ -5733,6 +5759,8 @@ https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
 https://smart.dxjc.pp.ua/smart.php?id=TVN&token=tmxk
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN THE K2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN THE K2.png" group-title="韩国频道",tvN THE K2
 https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie&token=tmxk
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN THE K2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN THE K2.png" group-title="韩国频道",tvN THE K2
+https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 #EXTINF:-1 tvg-id="KBS 1" tvg-name="KBS 1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/KBS 1.png" group-title="韩国频道",KBS 1
 http://mytv.dothome.co.kr/ch/public/1.php
 #EXTINF:-1 tvg-id="KBS 2" tvg-name="KBS 2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/KBS 2.png" group-title="韩国频道",KBS 2
@@ -5791,6 +5819,8 @@ https://smart.dxjc.pp.ua/smart.php?id=Cn&token=tmxk
 https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Comedy Central.png" group-title="意大利频道",Comedy Central
 https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Comedy Central.png" group-title="意大利频道",Comedy Central
+https://jmp2.uk/plu-61c0b550e0d3a700072b6a2a.m3u8
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HGTV.png" group-title="意大利频道",HGTV
 https://smart.dxjc.pp.ua/smart.php?id=HGTV&token=tmxk
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://www.xn--rgv465a.top/tvlogo/History.png" group-title="意大利频道",History
@@ -5835,6 +5865,8 @@ https://smart.dxjc.pp.ua/smart.php?id=Cnn&token=tmxk
 https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Comedy Central.png" group-title="西班牙频道",Comedy Central
 https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Comedy Central.png" group-title="西班牙频道",Comedy Central
+https://jmp2.uk/plu-61c0b550e0d3a700072b6a2a.m3u8
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Disney Channel.png" group-title="西班牙频道",Disney Channel
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/19741.ts
 #EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Dreamworks.png" group-title="西班牙频道",Dreamworks
@@ -6009,12 +6041,16 @@ https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
 https://smart.dxjc.pp.ua/smart.php?id=TVN&token=tmxk
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN.png" group-title="马来西亚",tvN
 https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie&token=tmxk
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN.png" group-title="马来西亚",tvN
+https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN Movies" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN Movies.png" group-title="马来西亚",tvN Movies
 https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN Movies" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN Movies.png" group-title="马来西亚",tvN Movies
 https://smart.dxjc.pp.ua/smart.php?id=TVN&token=tmxk
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN Movies" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN Movies.png" group-title="马来西亚",tvN Movies
 https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie&token=tmxk
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN Movies" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN Movies.png" group-title="马来西亚",tvN Movies
+https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 #EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Warner TV.png" group-title="马来西亚",Warner TV
 https://smart.dxjc.pp.ua/smart.php?id=WarnerTV&token=tmxk
 #EXTINF:-1 tvg-id="浪子闲话" tvg-name="浪子闲话" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浪子闲话.png" group-title="舞曲",浪子闲话
@@ -9349,5 +9385,5 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m
 http://ls.qingting.fm/live/4944.m3u8
 #EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育广播" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东体育广播.png" group-title="广播电台",山东体育广播
 http://livealone302.iqilu.com/iqilu/typd.m3u8
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-05-18 06:01:47
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-05-19 06:21:01
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
