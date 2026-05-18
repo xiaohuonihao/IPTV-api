@@ -14,6 +14,8 @@
 # https://sub.ottiptv.cc/huyayqk.m3u
 # https://sub.ottiptv.cc/douyuyqk.m3u
 # https://xymm.ccwu.cc/
+
+https://18592.kstore.space/%E6%B5%8B%E8%AF%95/01.json
 https://123.tv1288.xyz/sm2.txt
 https://xiaohuo.dpdns.org/123456
 https://iptv-sources-6hc.pages.dev/txt/all.txt
