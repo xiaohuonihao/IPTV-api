@@ -151,7 +151,11 @@ CHC家庭影院,http://mg.hmysapp.cn:177/咪咕央视/CHC家庭影院.php?id=301
 
 http://120.220.76.91:2026/klm/klm1.php?id=福建卫视?id=301
 
-
+凤凰香港,http://mg.hmysapp.cn:177/香港hk/凤凰卫视香港台.php?id=301
+凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
+凤凰香港,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视香港台.php?id=301
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 
 港澳台频道,#genre#
 
