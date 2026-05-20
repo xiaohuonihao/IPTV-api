@@ -426,7 +426,7 @@ NEWTV金牌综艺
 
 香港频道,#genre#
 香港卫视
-凤凰卫视
+凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰香港
 凤凰中文
 凤凰资讯
