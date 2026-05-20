@@ -160,9 +160,9 @@ http://120.220.76.91:2026/klm/klm1.php?id=福建卫视?id=301
 港澳台频道,#genre#
 
 翡翠台,http://mg.hmysapp.cn:177/港澳台/香港港hk/翡翠台.php?id=301
-美亞電影台,http://mg.hmysapp.cn:177/港澳台/香港港hk/美亞電影台.php?id=301
-凤凰卫视中文台,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视中文台.php?id=301
-凤凰卫视资讯台,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视资讯台.php?id=301
+美亚电影台,http://mg.hmysapp.cn:177/港澳台/香港港hk/美亞電影台.php?id=301
+凤凰中文,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视中文台.php?id=301
+凤凰资讯,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视资讯台.php?id=301
 无线新闻台,http://mg.hmysapp.cn:177/港澳台/香港港hk/无线新闻台.php?id=301
 
 TVBplus,http://mg.hmysapp.cn:177/港澳台/香港港hk/TVBplus.php?id=301
@@ -171,6 +171,6 @@ TVBS,http://mg.hmysapp.cn:177/港澳台/台湾湾4G/TVBS.php?id=301
 
 
 
-凤凰卫视香港台,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视香港台.php?id=301
+凤凰香港台,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视香港台.php?id=301
 
 娱乐新闻台,http://mg.hmysapp.cn:177/港澳台/香港港hk/娱乐新闻台.php?id=301
