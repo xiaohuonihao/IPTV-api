@@ -190,3 +190,27 @@ ELTA体育4,rtmp://9hv9.mine.nu/sat/md021$!
 [KEYWORDS]
 # 以下区域是关键字白名单，某频道获取到的接口地址中含有指定关键字，则该接口会被加入该频道的白名单，多条记录换行输入。
 # This area is the keyword whitelist. If the interface address obtained by a certain channel contains the specified keyword, the interface will be added to the whitelist of the channel, with multiple records entered on new lines.
+
+
+
+
+
+翡翠台,http://mg.hmysapp.cn:177/港澳台/香港港hk/翡翠台.php?id=301
+美亚电影台,http://mg.hmysapp.cn:177/港澳台/香港港hk/美亞電影台.php?id=301
+凤凰香港,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视香港台.php?id=301
+凤凰中文,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视中文台.php?id=301
+凤凰资讯,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视资讯台.php?id=301
+无线新闻台,http://mg.hmysapp.cn:177/港澳台/香港港hk/无线新闻台.php?id=301
+
+TVB Plus,http://mg.hmysapp.cn:177/港澳台/香港港hk/TVBplus.php?id=301
+
+TVBS,http://mg.hmysapp.cn:177/港澳台/台湾湾4G/TVBS.php?id=301
+
+
+
+
+
+娱乐新闻台,http://mg.hmysapp.cn:177/港澳台/香港港hk/娱乐新闻台.php?id=301
+
+
+
