@@ -17,6 +17,7 @@
 # https://sub.ottiptv.cc/bililive.m3u
 # https://bitbucket.org/guot55/bhmb/raw/66cbebc3b012fd4f86a607ccc78428ef3fd776a9/TVBoxOSC/ysp2.txt
 https://18592.kstore.space/%E6%B5%8B%E8%AF%95/01.json
+https://18592.kstore.space/%E6%B5%8B%E8%AF%95/02.json
 https://bitbucket.org/guot55/bhmb/raw/66cbebc3b012fd4f86a607ccc78428ef3fd776a9/TVBoxOSC/ysp.txt
 https://123.tv1288.xyz/sm2.txt
 https://iptv-sources-6hc.pages.dev/txt/all.txt
