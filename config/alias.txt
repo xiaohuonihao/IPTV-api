@@ -276,6 +276,51 @@ ViuTV6,re:(?i)^\s*(?:ViuTV6)[-\s_]*(?:台)?.*$,ViuTV6,ViuTV6
 港台电视35,re:(?i)^\s*(?:港台電視35|港台电视35|RTHK35)[-\s_]*(?:台)?.*$,港台电视35,港台电视35,港台電視35,RTHK35
 香港财经台,re:(?i)^\s*(?:香港財經台|香港财经台)[-\s_]*(?:台)?.*$,香港财经台,香港财经台,香港財經台
 PopC电影,re:(?i)^\s*(?:PopC電影|PopC电影|pₒₚc电影)[-\s_]*(?:台)?.*$,PopC电影,PopC电影,PopC電影
+
+# ==================== 纬来电视网 ====================
+
+纬来体育台,re:(?i)^\s*(?:緯來體育台|纬来体育台|纬来体育|VL Sports|Videoland Sports).*$,纬来体育台,纬来体育台,緯來體育台,纬来体育,VL Sports
+
+纬来日本台,re:(?i)^\s*(?:緯來日本台|纬来日本台|纬来日本|VL Japan|Videoland Japan).*$,纬来日本台,纬来日本台,緯來日本台,纬来日本,VL Japan
+
+纬来电影台,re:(?i)^\s*(?:緯來電影台|纬来电影台|纬来电影|VL Movie|Videoland Movie).*$,纬来电影台,纬来电影台,緯來電影台,纬来电影,VL Movie
+
+纬来综合台,re:(?i)^\s*(?:緯來綜合台|纬来综合台|纬来综合|VL Comprehensive|Videoland Comprehensive).*$,纬来综合台,纬来综合台,緯來綜合台,纬来综合,VL Comprehensive
+
+纬来戏剧台,re:(?i)^\s*(?:緯來戲劇台|纬来戏剧台|纬来戏剧|VL Drama|Videoland Drama).*$,纬来戏剧台,纬来戏剧台,緯來戲劇台,纬来戏剧,VL Drama
+
+纬来育乐台,re:(?i)^\s*(?:緯來育樂台|纬来育乐台|纬来育乐|VL Entertainment|Videoland Entertainment).*$,纬来育乐台,纬来育乐台,緯來育樂台,纬来育乐,VL Entertainment
+
+纬来精采台,re:(?i)^\s*(?:緯來精采台|纬来精采台|纬来精彩台|VL Roar|Videoland Roar).*$,纬来精采台,纬来精采台,緯來精采台,纬来精彩台,VL Roar
+
+
+# ==================== TVB收费台 ====================
+
+黄金翡翠台,re:(?i)^\s*(?:黃金翡翠台|黄金翡翠台|TVB黃金翡翠台|TVB黄金翡翠台|Golden Jade Channel).*$,黄金翡翠台,黄金翡翠台,黃金翡翠台,TVB黄金翡翠台,TVB黃金翡翠台,Golden Jade Channel
+
+黄金华剧台,re:(?i)^\s*(?:黃金華劇台|黄金华剧台|TVB黃金華劇台|TVB黄金华剧台|Golden Chinese Drama).*$,黄金华剧台,黄金华剧台,黃金華劇台,TVB黄金华剧台,TVB黃金華劇台,Golden Chinese Drama
+
+千禧经典台,re:(?i)^\s*(?:千禧經典台|千禧经典台|TVB千禧經典台|TVB千禧经典台|Millennium Classic Channel).*$,千禧经典台,千禧经典台,千禧經典台,TVB千禧经典台,Millennium Classic Channel
+
+华语剧台,re:(?i)^\s*(?:華語劇台|华语剧台|TVB華語劇台|TVB华语剧台|Chinese Drama Channel).*$,华语剧台,华语剧台,華語劇台,TVB华语剧台,Chinese Drama Channel
+
+亚洲剧台,re:(?i)^\s*(?:亞洲劇台|亚洲剧台|TVB亞洲劇台|TVB亚洲剧台|Asian Drama Channel).*$,亚洲剧台,亚洲剧台,亞洲劇台,TVB亚洲剧台,Asian Drama Channel
+
+无线生活二台,re:(?i)^\s*(?:無線生活二台|无线生活二台|TVB生活二台|TVB生活2台).*$,无线生活二台,无线生活二台,無線生活二台,TVB生活二台
+
+无线资讯台,re:(?i)^\s*(?:無線資訊台|无线资讯台|TVB資訊台|TVB资讯台).*$,无线资讯台,无线资讯台,無線資訊台,TVB资讯台
+
+# ==================== TVB海外台 ====================
+
+翡翠剧集台,re:(?i)^\s*(?:翡翠劇集台|翡翠剧集台|TVB Drama|TVB翡翠劇集台|TVB Drama Channel).*$,翡翠剧集台,翡翠剧集台,翡翠劇集台,TVB Drama,TVB翡翠剧集台
+
+翡翠娱乐台,re:(?i)^\s*(?:翡翠娛樂台|翡翠娱乐台|TVBe|TVB娛樂台|TVB娱乐台).*$,翡翠娱乐台,翡翠娱乐台,翡翠娛樂台,TVBe,TVB娱乐台
+
+翡翠一台,re:(?i)^\s*(?:翡翠一台|TVB1|TVB一台|TVB One).*$,翡翠一台,翡翠一台,翡翠一台,TVB1,TVB一台
+
+
+
+
 # ==================== 澳门频道（前后模糊匹配） ====================
 
 澳视澳门,re:(?i)^\s*(?:澳視澳門|澳视澳门)[-\s_]*(?:台)?.*$,澳视澳门,澳视澳门,澳視澳門
