@@ -8,6 +8,10 @@ http://rihou.cc:555/tv/[mn]
 http://rihou.cc:555/tv/[SX]
 http://rihou.cc:555/tv/[Bx]
 http://rihou.cc:555/tv/[Uk]
+https://4gtv.dxjc.pp.ua
+https://smart.dxjc.pp.ua/smart.php
+
+74.91.26.218:82
 
 
 107.150.60.122/live
