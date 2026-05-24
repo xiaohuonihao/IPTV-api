@@ -8,6 +8,9 @@ http://rihou.cc:555/tv/[mn]
 http://rihou.cc:555/tv/[SX]
 http://rihou.cc:555/tv/[Bx]
 http://rihou.cc:555/tv/[Uk]
+http://rihou.cc:555/tv/[Us]
+http://rihou.cc:555/tv/[Hv]
+http://rihou.cc:555/tv/[SZ]
 https://4gtv.dxjc.pp.ua
 https://smart.dxjc.pp.ua/smart.php
 
