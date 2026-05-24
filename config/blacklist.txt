@@ -4,6 +4,12 @@
 bxtv.3a.ink
 
 
+http://rihou.cc:555/tv/[mn]
+http://rihou.cc:555/tv/[SX]
+http://rihou.cc:555/tv/[Bx]
+http://rihou.cc:555/tv/[Uk]
+
+
 107.150.60.122/live
 74.91.26.218:82/live
 iptv.catvod.com
