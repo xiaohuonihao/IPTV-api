@@ -170,77 +170,6 @@ TVBS,http://mg.hmysapp.cn:177/港澳台/台湾湾4G/TVBS.php?id=301
 娱乐新闻台,http://mg.hmysapp.cn:177/港澳台/香港港hk/娱乐新闻台.php?id=301
 
 
-凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
-凤凰资讯,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
-凤凰香港,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
-Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
-TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠
-TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
-TVBPLUS,http://iptv.4666888.xyz/iptv2A.php?id=TVBPLUS
-NOW新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
-VIUTV,http://iptv.4666888.xyz/iptv2A.php?id=VIUTV
-星空卫视,http://iptv.4666888.xyz/iptv2A.php?id=星空卫视
-重温经典,http://iptv.4666888.xyz/iptv2A.php?id=重温经典
-八度空间,http://iptv.4666888.xyz/iptv2A.php?id=八度空间
-爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=爱奇艺
-TVBS台剧,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
-纬来戏剧,http://iptv.4666888.xyz/iptv2A.php?id=纬来戏剧
-综艺玩很大,http://iptv.4666888.xyz/iptv2A.php?id=综艺玩很大
-
-
-凤凰中文,http://rihou.cc:555/tv/[SX]凤凰中文
-凤凰资讯,http://rihou.cc:555/tv/[SX]凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/[SX]凤凰香港
-凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰中文,http://rihou.cc:555/tv/[Bx]凤凰中文
-凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰资讯,http://rihou.cc:555/tv/[Bx]凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
-凤凰香港,http://rihou.cc:555/tv/[Bx]凤凰香港
-寰宇新闻,http://rihou.cc:555/tv/[Uk]寰宇新闻
-民视新闻,http://rihou.cc:555/tv/[Uk]民视新闻
-民视新闻,http://rihou.cc:555/tv/[mn]民视新闻
-中视新闻,http://rihou.cc:555/tv/[mn]中视新闻
-华视新闻,http://rihou.cc:555/tv/[mn]华视新闻
-台视新闻,http://rihou.cc:555/tv/[mn]台视新闻
-公视闽南,http://rihou.cc:555/tv/[mn]公视闽南
-民视闽南,http://rihou.cc:555/tv/[mn]民视闽南
-中视闽南,http://rihou.cc:555/tv/[mn]中视闽南
-华视闽南,http://rihou.cc:555/tv/[mn]华视闽南
-台视闽南,http://rihou.cc:555/tv/[mn]台视闽南
-公视闽语,http://rihou.cc:555/tv/[mn]公视闽语
-公视综合,http://rihou.cc:555/tv/[mn]公视综合
-民视南闽,http://rihou.cc:555/tv/[mn]民视南闽
-民视第一,http://rihou.cc:555/tv/[mn]民视第一
-中视经典,http://rihou.cc:555/tv/[mn]中视经典
-中视菁采,http://rihou.cc:555/tv/[mn]中视菁采
-华视教育,http://rihou.cc:555/tv/[mn]华视教育
-台视综合,http://rihou.cc:555/tv/[mn]台视综合
-台视财经,http://rihou.cc:555/tv/[mn]台视财经
-
-
-寰宇新闻,http://rihou.cc:555/tv/[Uk]寰宇新闻
-民视新闻,http://rihou.cc:555/tv/[Uk]民视新闻
-民视新闻,http://rihou.cc:555/tv/[mn]民视新闻
-中视新闻,http://rihou.cc:555/tv/[mn]中视新闻
-华视新闻,http://rihou.cc:555/tv/[mn]华视新闻
-台视新闻,http://rihou.cc:555/tv/[mn]台视新闻
-公视闽南,http://rihou.cc:555/tv/[mn]公视闽南
-民视闽南,http://rihou.cc:555/tv/[mn]民视闽南
-中视闽南,http://rihou.cc:555/tv/[mn]中视闽南
-华视闽南,http://rihou.cc:555/tv/[mn]华视闽南
-台视闽南,http://rihou.cc:555/tv/[mn]台视闽南
-公视闽语,http://rihou.cc:555/tv/[mn]公视闽语
-公视综合,http://rihou.cc:555/tv/[mn]公视综合
-民视南闽,http://rihou.cc:555/tv/[mn]民视南闽
-民视第一,http://rihou.cc:555/tv/[mn]民视第一
-中视经典,http://rihou.cc:555/tv/[mn]中视经典
-中视菁采,http://rihou.cc:555/tv/[mn]中视菁采
-华视教育,http://rihou.cc:555/tv/[mn]华视教育
-台视综合,http://rihou.cc:555/tv/[mn]台视综合
-台视财经,http://rihou.cc:555/tv/[mn]台视财经
-
-
 
 Plus综合,http://rihou.cc:555/tv/[Pd]Plus综合
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
@@ -458,3 +387,36 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 德国之声,https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 
 Now星影,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=KqOtof&tk=4U04NDOE13ra
+
+
+
+
+台湾,#genre#
+
+TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
+三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
+华视,rtmp://f13h.mine.nu/sat/tv111
+台视,rtmp://f13h.mine.nu/sat/tv071
+中视,rtmp://f13h.mine.nu/sat/tv091
+民视,rtmp://f13h.mine.nu/sat/tv051
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+DAZN 体育1台,rtmp://f13h.mine.nu/sat/tv731
+DAZN 体育2台,rtmp://f13h.mine.nu/sat/tv741
+TVBS Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+民视新闻台,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+HBO (VPN),http://125.227.210.55:8153/VideoInput/play.ts
+Cinemax (VPN),http://125.227.210.55:8151/VideoInput/play.ts
+卡通頻道 (VPN),http://125.227.210.55:8167/VideoInput/play.ts
+三立新聞 (VPN),http://125.227.210.55:8162/VideoInput/play.ts
+TVBS (VPN),http://125.227.210.55:8188/VideoInput/play.ts
+TVBS新聞台 (VPN),http://125.227.210.55:8186/VideoInput/play.ts
+TVBS歡樂台 (VPN),http://125.227.210.55:8187/VideoInput/play.ts
