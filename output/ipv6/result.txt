@@ -113,15 +113,21 @@ cctv4欧洲,https://live.chinacert.cftest5.cn/cnmg/live/608807419
 cctv4美洲,https://live.chinacert.cftest5.cn/cnmg/live/608807416
 CGTN英语,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN英语,https://0472.org/hls/cgtn.m3u8
-CGTN西班牙语,https://live.chinacert.cftest5.cn/cnmg/live/609006450
-CGTN西班牙语,http://goo.bkpcp.top/mg/cgtne
-CGTN阿拉伯语,https://live.chinacert.cftest5.cn/cnmg/live/609154345
-CGTN阿拉伯语,http://goo.bkpcp.top/mg/cgtna
+CGTN记录,https://0472.org/hls/cgtnd.m3u8?3.24.120:5140
+CGTN记录,https://0472.org/hls/cgtnd.m3u8
+CGTN俄语,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/CGTN俄语.php?id=301
+CGTN俄语,https://live.chinacert.cftest5.cn/cnmg/live/609006446
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8?3.24.170:5140
 CGTN法语,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/CGTN法语.php?id=301
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN法语,https://live.chinacert.cftest5.cn/cnmg/live/609006476
 CGTN法语,http://goo.bkpcp.top/mg/cgtnf
 CGTN法语,https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
+CGTN西班牙语,https://live.chinacert.cftest5.cn/cnmg/live/609006450
+CGTN西班牙语,http://goo.bkpcp.top/mg/cgtne
+CGTN阿拉伯语,https://live.chinacert.cftest5.cn/cnmg/live/609154345
+CGTN阿拉伯语,http://goo.bkpcp.top/mg/cgtna
 CCTV发现之旅,https://live.chinacert.cftest5.cn/cnmg/live/624878970
 CCTV发现之旅,http://goo.bkpcp.top/mg/fxzl
 CCTV老故事,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
@@ -1425,7 +1431,6 @@ astro爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 河南卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225806/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 河南卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226668/1.m3u8
 河南卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226687/1.m3u8
-河南民生,https://stream1.freetv.fun/3dba1aa77b00ec70e21ad288b975e283cf64dbfa98374eae276ffad9be33b1cf.m3u8
 河南导视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225806/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 河南导视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226668/1.m3u8
 河南导视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226687/1.m3u8
@@ -2384,4 +2389,4 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 广场舞43,https://vd3.bdstatic.com/mda-nd9gfk9i5gjjc949/cae_h264_delogo/1649590943331366674/mda-nd9gfk9i5gjjc949.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650257611-0-0-7052678f09559f6ca353cbd52bef7c6b&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1411194650&vid=11826523506628151737&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=791&split=73128
 
 🕘️更新时间,#genre#
-2026-05-25 04:49:55,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
+2026-05-26 05:09:48,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
