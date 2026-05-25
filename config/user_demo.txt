@@ -31,9 +31,11 @@ CETV5
 cctv4欧洲
 cctv4美洲
 CGTN英语
+CGTN记录
+CGTN俄语
+CGTN法语
 CGTN西班牙语
 CGTN阿拉伯语
-CGTN法语
 CCTV发现之旅
 CCTV老故事
 CCTV中学生
