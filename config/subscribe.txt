@@ -2,18 +2,7 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-# https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/dianshijia_10.1.txt
-# https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/好朋友直播_几万电影频道.txt
-# https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/冰茶去体育去推广.m3u
-# https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/电视家.m3u
-# https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/几万电影频道.m3u
-# https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/全球直播.m3u
-# https://raw.giteeusercontent.com/yuan301/tv/raw/master/A/z_v.png
-# https://gitee.com/rgzyyuncang/vip/raw/master/jars/quanq.png
-# https://sub.ottiptv.cc/huyayqk.m3u
-# https://sub.ottiptv.cc/douyuyqk.m3u
-# https://sub.ottiptv.cc/bililive.m3u
-# https://xymm.ccwu.cc/
+
 https://18592.kstore.space/TVBox/gangaotai.txt
 https://18592.kstore.space/%E6%B5%8B%E8%AF%95/01.json
 https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/iptvzb/refs/heads/main/zubo.txt
@@ -32,9 +21,7 @@ http://rihou.cc:555/gggg.nzk
 http://rihou.cc:567/gggg.nzk
 https://live.zbds.top/tv/iptv4.txt
 https://sub.ottiptv.cc/yylunbo.m3u
-# https://iptv-sources-6hc.pages.dev/txt/youhun.txt
-# https://xiaohuo.dpdns.org/123456
-# https://ghfast.top/https://raw.githubusercontent.com/altn2025/iptv/refs/heads/main/iptv.m3u
+
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
