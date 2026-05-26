@@ -749,12 +749,23 @@ astro爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 电影频道,#genre#
 周星驰,http://live.ottiptv.cc/huya/11342412
 周星驰,https://live.ottiptv.cc/huya/11342412
+周星驰,https://live.metshop.top/huya/11342412
+五福星,https://live.metshop.top/huya/11282233
+邱淑贞,https://live.metshop.top/huya/11352949
+港片,https://live.metshop.top/huya/11602043
+女神系列,https://live.metshop.top/huya/11336571
+经典女神,https://live.metshop.top/huya/11352909
+古墓系列,https://live.metshop.top/huya/11352913
+赌片,https://live.metshop.top/huya/11342399
 科幻动作,https://live.metshop.top/huya/11352964
 国产喜剧,https://live.ottiptv.cc/yy/1382735584
+国产喜剧,https://yylunbo.ottiptv.cc/yy/1382735584
 灾难电影,https://live.metshop.top/huya/11352871
+灾难片,https://live.metshop.top/huya/11602075
 奇幻片,https://live.metshop.top/huya/16149609
 悬疑片,https://live.metshop.top/huya/16099968
 贺岁合家欢剧场,https://live.metshop.top/huya/11602067
+历年贺岁档,https://live.metshop.top/huya/11601986
 超级电影,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPRR4mbRWhkCFuUCVm9THg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM4kysjLk_woYMRnu35KtBV%2CEND
 超级电视剧,https://cdn3.163189.xyz/163189/szws4k
 超级电视剧,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
@@ -780,6 +791,10 @@ astro爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 
 游戏赛事,#genre#
 英雄联盟,https://cdn-3.ttvb.eu.org/bilibili/6
+英雄联盟,https://live.ottiptv.cc/huya/660000
+王者荣耀,https://live.ottiptv.cc/huya/660002
+和平精英,https://live.ottiptv.cc/huya/660006
+穿越火线,https://live.ottiptv.cc/huya/660101
 绝地求生,https://cdn-3.ttvb.eu.org/douyu/100
 
 山东,#genre#
@@ -2387,4 +2402,4 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 广场舞43,https://vd3.bdstatic.com/mda-nd9gfk9i5gjjc949/cae_h264_delogo/1649590943331366674/mda-nd9gfk9i5gjjc949.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650257611-0-0-7052678f09559f6ca353cbd52bef7c6b&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1411194650&vid=11826523506628151737&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=791&split=73128
 
 🕘️更新时间,#genre#
-2026-05-26 23:09:10,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
+2026-05-27 02:28:56,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8

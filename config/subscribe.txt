@@ -2,8 +2,6 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-
-https://18592.kstore.space/TVBox/gangaotai.txt
 https://18592.kstore.space/%E6%B5%8B%E8%AF%95/01.json
 https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/iptvzb/refs/heads/main/zubo.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/vbd/refs/heads/main/gatw0417.txt
@@ -15,12 +13,13 @@ https://13035.kstore.space/url/歌曲.txt
 https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt
 https://cnb.cool/fgvss/zbds/-/git/raw/main/zbtvupan.txt
 https://ghfast.top/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
-
 https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 http://rihou.cc:555/gggg.nzk
 http://rihou.cc:567/gggg.nzk
 https://live.zbds.top/tv/iptv4.txt
 https://sub.ottiptv.cc/yylunbo.m3u
+
+# https://18592.kstore.space/TVBox/gangaotai.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。

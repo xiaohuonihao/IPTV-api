@@ -153,6 +153,13 @@ CHC家庭影院,http://mg.hmysapp.cn:177/咪咕央视/CHC家庭影院.php?id=301
 
 港澳台频道,#genre#
 
+
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
+
+
+
+
 翡翠台,http://mg.hmysapp.cn:177/港澳台/香港港hk/翡翠台.php?id=301
 美亚电影台,http://mg.hmysapp.cn:177/港澳台/香港港hk/美亞電影台.php?id=301
 凤凰中文,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视中文台.php?id=301
@@ -312,8 +319,13 @@ ViuTV,https://cdn.163189.xyz/163189/viu
 民视,rtmp://f13h.mine.nu/sat/tv051
 公视,https://cdn12.178.indevs.in/163189/2973b910e7719c08
 
-
-
+台视,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+台视,http://211.72.174.95:8112/0.ts
+中视,http://211.72.174.95:8113/0.ts
+华视,http://211.72.174.95:8114/0.ts
+民视,http://211.72.174.95:8115/0.ts
+公视,http://211.72.174.95:8116/0.ts
 
 
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
@@ -329,17 +341,13 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 
 民视影剧台,https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
 
-
-
 纬来戏剧台,https://smt.1678520.xyz/163189/ab657380c65c1fd1
-
 
 纬来精采台,http://61.221.215.25:8800/hls/48/index.m3u8
 
 纬来电影台,https://smt.1678520.xyz/163189/602e9465658d4f8c
 
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
-
 
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
@@ -388,10 +396,6 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 
 Now星影,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=KqOtof&tk=4U04NDOE13ra
 
-
-
-
-
 台湾,#genre#
 
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
@@ -421,3 +425,67 @@ Cinemax (VPN),http://125.227.210.55:8151/VideoInput/play.ts
 TVBS (VPN),http://125.227.210.55:8188/VideoInput/play.ts
 TVBS新聞台 (VPN),http://125.227.210.55:8186/VideoInput/play.ts
 TVBS歡樂台 (VPN),http://125.227.210.55:8187/VideoInput/play.ts
+
+
+电影频道,#genre#
+周星驰,http://107.150.60.122/live/lbzxc.m3u8
+周星驰,http://8.155.43.98:35455/huya/11342412
+周星驰,http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
+周星驰,http://39.153.130.167:35455/huya/11342412
+周星驰,https://isus.cc/php/huya.php?id=11342412
+周星驰,https://www.goodiptv.club/huya/11342412
+周星驰,https://live.metshop.top/huya/11342412
+刘德华,https://isus.cc/php/huya.php?id=11342424
+刘德华,https://vd2.bdstatic.com/mda-pjkfx92jybywmm4j/720p/h264/1697888378863819752/mda-pjkfx92jybywmm4j.mp4
+成龙,https://isus.cc/php/huya.php?id=11342386
+林正英,https://isus.cc/php/huya.php?id=11342421
+周润发,http://74.91.26.218:82/live/vlzrf.m3u8
+五福星,https://live.metshop.top/huya/11282233
+五福星,https://www.goodiptv.club/huya/11282233
+古天乐,https://isus.cc/php/huya.php?id=29982675
+古天乐,https://www.goodiptv.club/huya/11602041
+邱淑贞,https://live.metshop.top/huya/11352949
+王晶,https://isus.cc/php/huya.php?id=11602058
+喜剧,https://www.goodiptv.club/huya/11352877
+港片,https://live.metshop.top/huya/11602043
+港片,https://www.goodiptv.club/huya/11602043
+怪兽,https://www.goodiptv.club/huya/21059577
+武侠,https://www.goodiptv.club/huya/11342427
+警匪,https://www.goodiptv.club/huya/11352886
+罪犯,https://www.goodiptv.club/huya/11352962
+枪战,https://www.goodiptv.club/huya/21059579
+海盗,https://isus.cc/php/huya.php?id=21059595
+热血,https://www.goodiptv.club/huya/11352934
+谍战,https://www.goodiptv.club/huya/21059585
+喜剧专场,https://isus.cc/php/huya.php?id=11602044
+黑帮斗争,https://www.goodiptv.club/huya/11342419
+女神系列,https://isus.cc/php/huya.php?id=11336571
+女神系列,https://live.metshop.top/huya/11336571
+经典女神,https://live.metshop.top/huya/11352909
+许氏三杰,https://isus.cc/php/huya.php?id=11602033
+许氏三杰,https://www.goodiptv.club/huya/11602033
+古墓系列,https://live.metshop.top/huya/11352913
+国产悬疑,https://isus.cc/php/huya.php?id=11342395
+赌片,https://live.metshop.top/huya/11342399
+科幻动作,https://live.metshop.top/huya/11352964
+国产喜剧,https://yylunbo.ottiptv.cc/yy/1382735584
+灾难电影,https://live.metshop.top/huya/11352871
+灾难片,https://live.metshop.top/huya/11602075
+贺岁合家欢剧场,https://live.metshop.top/huya/11602067
+历年贺岁档,https://live.metshop.top/huya/11601986
+
+娱乐扒叔轮播,http://8.155.43.98:35455/douyu/9624581
+粤语综艺轮播,http://8.155.43.98:35455/douyu/7919720
+
+
+
+游戏赛事,#genre#
+英雄联盟,https://live.ottiptv.cc/huya/660000
+英雄联盟,http://39.153.130.167:35455/huya/660000
+王者荣耀,https://live.ottiptv.cc/huya/660002
+王者荣耀,http://39.153.130.167:35455/huya/660002
+和平精英,https://live.ottiptv.cc/huya/660006
+和平精英,http://39.153.130.167:35455/huya/660006
+穿越火线,https://live.ottiptv.cc/huya/660101
+穿越火线,http://39.153.130.167:35455/huya/660101
+绝地求生,http://39.153.130.167:35455/huya/660004
