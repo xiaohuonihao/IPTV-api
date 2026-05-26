@@ -779,6 +779,8 @@ astro爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 精彩影视,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 
 游戏赛事,#genre#
+英雄联盟,https://cdn-3.ttvb.eu.org/bilibili/6
+绝地求生,https://cdn-3.ttvb.eu.org/douyu/100
 
 山东,#genre#
 山东卫视,http://mg.hmysapp.cn:177/卫视/山东卫视.php?id=301
@@ -2385,4 +2387,4 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 广场舞43,https://vd3.bdstatic.com/mda-nd9gfk9i5gjjc949/cae_h264_delogo/1649590943331366674/mda-nd9gfk9i5gjjc949.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650257611-0-0-7052678f09559f6ca353cbd52bef7c6b&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1411194650&vid=11826523506628151737&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=791&split=73128
 
 🕘️更新时间,#genre#
-2026-05-26 09:35:27,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
+2026-05-26 23:09:10,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
