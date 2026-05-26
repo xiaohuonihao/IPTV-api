@@ -10,6 +10,9 @@ name: 'Update schedule'
 # If scheduled execution is required, use other deployment methods.
 
 on:
+# 定时触发：每天下午4点（UTC+8时间）
+  schedule:
+    - cron: '0 8 * * *'   # 北京时间16:00 = UTC时间8:00
   workflow_dispatch:        # 原有的保持不变
 
 jobs:
