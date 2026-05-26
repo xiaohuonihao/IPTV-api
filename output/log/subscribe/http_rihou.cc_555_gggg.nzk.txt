@@ -10,11 +10,11 @@
 ➡️不必纠结⬅️,http://rihou.cc:555/tv/[mv]不必纠结
 NBA赛评,#genre#
 05-26⬇️NBA东部决赛⬇️🏀📡,http://rihou.cc:555/tv/t
-08:00尼克斯🆚骑士,http://rihou.cc:555/tv/v
+08:00尼克斯(3🆚0)骑士,http://rihou.cc:555/tv/v
 粤🔊26小肥述,http://rihou.cc:555/tv/26NBA小肥述
 国🔊26咪评述,http://rihou.cc:555/tv/26NBA咪评述
 国🔊26腾评述,http://rihou.cc:555/tv/26NBA腾评述
-国🔊26纬来述,http://rihou.cc:555/tv/26NBA纬来述
+国🔊26纬来述,rtmp://f13h.mine.nu/sat/tv721
 CBA赛评,#genre#
 05-26⬇️CBA总决赛⬇️🏀📡,http://rihou.cc:555/tv/t
 19:35上海久事🆚浙江浙商,http://rihou.cc:555/tv/v
@@ -22,7 +22,7 @@ CBA赛评,#genre#
 国🔊26抖评述,http://rihou.cc:555/tv/26CBA抖评述
 5/27赛事,#genre#
 05-27⬇️NBA西部决赛⬇️🏀📡,http://rihou.cc:555/tv/t
-08:30马刺🆚雷霆,http://rihou.cc:555/tv/v
+08:30马刺(2🆚2)雷霆,http://rihou.cc:555/tv/v
 粤🔊27小肥述,http://rihou.cc:555/tv/27NBA小肥述
 国🔊27咪评述,http://rihou.cc:555/tv/27NBA咪评述
 国🔊27腾评述,http://rihou.cc:555/tv/27NBA腾评述
