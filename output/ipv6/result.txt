@@ -490,6 +490,7 @@ CCTV-5+,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 快乐垂钓,http://gslbmgsplive.miguvideo.com/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=d282fe8063ad9191f0b97c38cfd41973&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260515054823&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=39.98.181.246&SecurityKey=20260515054823&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=30527ae95e5c65dc424e236461ed68bd&ddCalcu=d3b0v85a62ad7aea1e69456e352ce6452d4c&sv=10004&ct=android
 快乐垂钓,http://gslbmgsplive.miguvideo.com/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=0d306e0ddd96ac0ef8c7a476f507de93&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260516053942&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=39.98.171.74&SecurityKey=20260516053942&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=ZQ-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1a89bdf509e864fa75e5adca90bb49f1&ddCalcu=11fav98a49abbabd0f95a0c9dea856e45f7a&sv=10004&ct=android
 快乐垂钓,http://gslbmgsplive.miguvideo.com/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=d600ee422e1132910d57aa7fab3747c0&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260517053201&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=39.98.179.220&SecurityKey=20260517053201&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f33c98c9d1919e48a5894f8f9249fa91&ddCalcu=1f93va3afca99a482c99fd81f941998e54a8&sv=10004&ct=android
+JJ斗地主,https://cdn-3.ttvb.eu.org/douyu/488743
 
 香港频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -794,6 +795,7 @@ astro爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 英雄联盟,https://live.ottiptv.cc/huya/660000
 王者荣耀,https://live.ottiptv.cc/huya/660002
 和平精英,https://live.ottiptv.cc/huya/660006
+和平精英,https://cdn-3.ttvb.eu.org/douyu/999
 穿越火线,https://live.ottiptv.cc/huya/660101
 绝地求生,https://cdn-3.ttvb.eu.org/douyu/100
 
@@ -2402,4 +2404,4 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 广场舞43,https://vd3.bdstatic.com/mda-nd9gfk9i5gjjc949/cae_h264_delogo/1649590943331366674/mda-nd9gfk9i5gjjc949.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650257611-0-0-7052678f09559f6ca353cbd52bef7c6b&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1411194650&vid=11826523506628151737&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=791&split=73128
 
 🕘️更新时间,#genre#
-2026-05-27 02:28:56,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
+2026-05-27 21:23:27,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8

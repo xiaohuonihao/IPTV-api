@@ -965,6 +965,8 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msi
 http://gslbmgsplive.miguvideo.com/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=0d306e0ddd96ac0ef8c7a476f507de93&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260516053942&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=39.98.171.74&SecurityKey=20260516053942&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=ZQ-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1a89bdf509e864fa75e5adca90bb49f1&ddCalcu=11fav98a49abbabd0f95a0c9dea856e45f7a&sv=10004&ct=android
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://www.xn--rgv465a.top/tvlogo/快乐垂钓.png" group-title="体育频道",快乐垂钓
 http://gslbmgsplive.miguvideo.com/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=d600ee422e1132910d57aa7fab3747c0&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260517053201&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=39.98.179.220&SecurityKey=20260517053201&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f33c98c9d1919e48a5894f8f9249fa91&ddCalcu=1f93va3afca99a482c99fd81f941998e54a8&sv=10004&ct=android
+#EXTINF:-1 tvg-id="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="https://www.xn--rgv465a.top/tvlogo/JJ斗地主.png" group-title="体育频道",JJ斗地主
+https://cdn-3.ttvb.eu.org/douyu/488743
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="香港频道",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视.png" group-title="香港频道",凤凰卫视
@@ -1549,6 +1551,8 @@ https://live.ottiptv.cc/huya/660000
 https://live.ottiptv.cc/huya/660002
 #EXTINF:-1 tvg-id="和平精英" tvg-name="和平精英" tvg-logo="https://www.xn--rgv465a.top/tvlogo/和平精英.png" group-title="游戏赛事",和平精英
 https://live.ottiptv.cc/huya/660006
+#EXTINF:-1 tvg-id="和平精英" tvg-name="和平精英" tvg-logo="https://www.xn--rgv465a.top/tvlogo/和平精英.png" group-title="游戏赛事",和平精英
+https://cdn-3.ttvb.eu.org/douyu/999
 #EXTINF:-1 tvg-id="穿越火线" tvg-name="穿越火线" tvg-logo="https://www.xn--rgv465a.top/tvlogo/穿越火线.png" group-title="游戏赛事",穿越火线
 https://live.ottiptv.cc/huya/660101
 #EXTINF:-1 tvg-id="绝地求生" tvg-name="绝地求生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/绝地求生.png" group-title="游戏赛事",绝地求生
@@ -4609,5 +4613,5 @@ https://vd2.bdstatic.com/mda-nc69j1qu80ptu5fk/360p/h264_delogo/16466361221784555
 https://vd4.bdstatic.com/mda-nbj5j97hp8hmftpq/cae_h264_nowatermark_delogo/1645329621335838955/mda-nbj5j97hp8hmftpq.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650257611-0-0-9d8348a91ae91b3a0bf698f00a06df57&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1411194650&vid=14611028137059077438&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=765&split=687320
 #EXTINF:-1 tvg-id="广场舞43" tvg-name="广场舞43" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广场舞43.png" group-title="广*场*舞",广场舞43
 https://vd3.bdstatic.com/mda-nd9gfk9i5gjjc949/cae_h264_delogo/1649590943331366674/mda-nd9gfk9i5gjjc949.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650257611-0-0-7052678f09559f6ca353cbd52bef7c6b&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1411194650&vid=11826523506628151737&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=791&split=73128
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-05-27 02:28:56
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-05-27 21:23:27
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
