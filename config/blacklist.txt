@@ -34,7 +34,7 @@ php.jdshipin.com
 tv.mytvsuper.xyz
 v2h.jdshipin.com
 hls-gateway.vpstv.net
-
+livealone302.iqilu.com
 cdn9.163189.xyz
 cdn10.163189.xyz
 smart.dxjc.pp.ua
