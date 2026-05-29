@@ -1,5 +1,6 @@
 央视频道,#genre#
 CGTN记录,https://0472.org/hls/cgtnd.m3u8?3.24.120:5140
+CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/CGTN俄语.php?id=301
 CGTN法语,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/CGTN法语.php?id=301
 CCTV发现之旅,http://gslbmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/index.m3u8?msisdn=20251107080051be4bec63e69f4b068ed1f5d97195964c&mdspid=&spid=699004&netType=0&sid=5500212893&pid=2028597139&timestamp=20251107080051&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878970&ParentNodeID=-99&assertID=5500212893&client_ip=106.13.250.90&SecurityKey=20251107080051&promotionId=&mvid=5100001701&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=2d99905610be4f76e3d616aff294f734&ddCalcu=423de790f944909025f6f1a06b1e64df37e6
@@ -30,6 +31,8 @@ CCTV中学生,http://nas.home.plugintool.top:2333/udp/239.76.254.27:9000
 东方卫视,http://mg.hmysapp.cn:177/卫视/东方卫视.php?id=301
 东方卫视,http://120.220.76.91:2026/klm/klm1.php?id=东方卫视
 东方卫视,https://vd3.bdstatic.com/mda-qa4hx55bq5sse2eu/sc/cae_h264/1704523210910555327/mda-qa4hx55bq5sse2eu.mp4
+东方卫视,http://z.b.bkpcp.top/m.php?id=shys
+东方卫视,http://gat.bkpcp.top/ymg.php?id=shys
 甘肃卫视,http://mg.hmysapp.cn:177/卫视/甘肃卫视.php?id=301
 甘肃卫视,http://120.220.76.91:2026/klm/klm1.php?id=甘肃卫视
 广西卫视,http://mg.hmysapp.cn:177/卫视/广西卫视.php?id=301
@@ -84,12 +87,15 @@ CCTV中学生,http://nas.home.plugintool.top:2333/udp/239.76.254.27:9000
 西藏卫视,http://120.220.76.91:2026/klm/klm1.php?id=西藏卫视
 三沙卫视,http://mg.hmysapp.cn:177/卫视/三沙卫视.php?id=301
 三沙卫视,http://120.220.76.91:2026/klm/klm1.php?id=三沙卫视
+海峡卫视,http://r.jdshipin.com/WtYt3
+海峡卫视,http://goo.bkpcp.top/mg/hxws
 延边卫视,http://mg.hmysapp.cn:177/卫视/延边卫视.php?id=301
 兵团卫视,http://mg.hmysapp.cn:177/卫视/兵团卫视.php?id=301
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://mg.hmysapp.cn:177/卫视/大湾区卫视.php?id=301
 大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws
 大湾区卫视,https://live.chinacert.cftest5.cn/cnmg/live/608917627
+大湾区卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 
 高清频道,#genre#
 电视指南,http://iptv.666230.xyz/iptv/jsyd.php/G_DIANSHIZN-CQ
@@ -152,17 +158,14 @@ CCTV中学生,http://nas.home.plugintool.top:2333/udp/239.76.254.27:9000
 香港频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰香港,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视香港台.php?id=301
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
-凤凰中文,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视中文台.php?id=301
-凤凰资讯,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视资讯台.php?id=301
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://mg.hmysapp.cn:177/港澳台/香港港hk/翡翠台.php?id=301
 翡翠台,http://cdn6.163189.xyz/163189/fct4k
 翡翠台,https://cdn6.163189.xyz/163189/fct
+翡翠台,http://jp.809899.xyz/smt.php?id=Tvbjade
 明珠台,http://67.220.71.199:2347/livehttpplay?channel_id=30026
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
@@ -170,18 +173,16 @@ CCTV中学生,http://nas.home.plugintool.top:2333/udp/239.76.254.27:9000
 TVB Plus,http://r.jdshipin.com/Nr5jq
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB Plus,https://hls.163189.xyz/163189/a2beac471af96802
-TVBS,http://mg.hmysapp.cn:177/港澳台/台湾湾4G/TVBS.php?id=301
 华丽翡翠台,http://r.jdshipin.com/thuYX
 华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
 华丽翡翠台,https://o11.163189.xyz/stream/live/jade/
 华丽翡翠台,http://o11.163189.xyz/stream/live/hlt/
-无线新闻台,http://mg.hmysapp.cn:177/港澳台/香港港hk/无线新闻台.php?id=301
 无线新闻台,http://r.jdshipin.com/CkuBd
+无线新闻台,https://cdn6.163189.xyz/163189/wxxw
 无线高清翡翠台,https://cdn6.163189.xyz/163189/fct
 无线华丽台,https://cdn6.163189.xyz/163189/hlfct
 无线功夫台,https://cdn6.163189.xyz/163189/yzwx
 无线星河台,https://cdn6.163189.xyz/163189/tvbxh
-娱乐新闻台,http://mg.hmysapp.cn:177/港澳台/香港港hk/娱乐新闻台.php?id=301
 星河台,https://o11.163189.xyz/stream/live/tvbxh/
 翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
 美亚电影台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=meiya
@@ -228,6 +229,7 @@ ViuTV,http://r.jdshipin.com/vSJvl
 中天新闻,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv009&token=xiatianshigou
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 CNN国际,http://jp.809899.xyz/smt.php?id=Cnn
+CNN国际,https://iptv.852851.xyz/ch/db73538392b0abe9968ce47a7ae6d7dc/master.m3u8
 民视影剧台,https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
 纬来戏剧台,https://smt.1678520.xyz/163189/ab657380c65c1fd1
 纬来体育台,https://smt.1678520.xyz/163189/b10b2645c6d9de2b
@@ -247,7 +249,10 @@ CNN国际,http://jp.809899.xyz/smt.php?id=Cnn
 HBO,http://jp.809899.xyz/smt.php?id=Hbofamily
 HBO,http://jp.809899.xyz/smt.php?id=Hbohitshd
 HBO,http://jp.809899.xyz/smt.php?id=Hbosignature
+HBO,https://iptv.852851.xyz/ch/76d8b2271b1d106041bd10ed7e8b0135/master.m3u8
+HBO,https://iptv.852851.xyz/ch/19837c7373cd946d247de7a88cdb08a0/master.m3u8
 CINE MAX,http://jp.809899.xyz/smt.php?id=Cinemax
+CINE MAX,https://iptv.852851.xyz/ch/44d96cfda45ac98e973e8939c4ca5025/master.m3u8
 tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 阿里郎电视台,https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 天映经典台,https://o11.163189.xyz/stream/live/ccm/
@@ -328,7 +333,14 @@ tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2
 东方卫视,http://mg.hmysapp.cn:177/卫视/东方卫视.php?id=301
 东方卫视,http://120.220.76.91:2026/klm/klm1.php?id=东方卫视
 东方卫视,https://vd3.bdstatic.com/mda-qa4hx55bq5sse2eu/sc/cae_h264/1704523210910555327/mda-qa4hx55bq5sse2eu.mp4
+东方卫视,http://z.b.bkpcp.top/m.php?id=shys
+东方卫视,http://gat.bkpcp.top/ymg.php?id=shys
 上海新闻综合,http://z.b.bkpcp.top/m.php?id=shxwzh
+上海新闻综合,https://mgtv.ottiptv.cc/migu/651632657.m3u8?migutoken=348c9164063c2b1df215dd2fa7cd92cb119d8a335ae0edfb5d615a6c714e71b669eee2f5ff1730afa92af7ca41d0aa96e3a280d7e5f2069eb8a3b852f3ebc270147489d7c8bfb08a7c4b9c4d80
+上海新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=20250919080134d0a4f61e680b4d1b8d2460b858ff1fec&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20250919080134&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.88&SecurityKey=20250919080134&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c6e37e6787e81aeb250c874ff8533137&ddCalcu=7c36e1e13313705e86f7f8477e88c10a5e2b
+上海新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=20251023080141ea171d5993054ddd94612bf653be3cfa&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20251023080141&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.83&SecurityKey=20251023080141&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4757c0d2f0cd0feb69bcfc7ea14ddd49&ddCalcu=9447ed52d71dc0401da2ef70ccfdc0bf9e6b
+上海新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=202510240800572be58ced346548aab92c7ebfbc90d088&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20251024080057&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.88&SecurityKey=20251024080057&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=05479a300e9aa0cbfb7bbc5ca9733a84&ddCalcu=4085ea423713907a93a0c05ec9baba70bcfb
+上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1746292937&key=3725d08baa89daf1e05599a00bdac978
 上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
 上海纪实,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225655/index.m3u8
 上海外语,http://z.b.bkpcp.top/m.php?id=shics
@@ -338,9 +350,17 @@ tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2
 上海第一财经,http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=2025091908013429b62173a5e24f8ea1f310d5ed32e792&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20250919080134&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=106.13.250.88&SecurityKey=20250919080134&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6c828d22c926cc843970f3f1c7455bea&ddCalcu=a6eceb815285804d72c21cf932f60c7c9834
 上海第一财经,http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=20251127180716839753e4711f4659a87b45736bdd7153&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20251127180716&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=218.28.233.106&SecurityKey=20251127180716&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=ZQ-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=10c299ff06d68fd6c2b3e952822f1daf&ddCalcu=f1a0edc2128f90292f8f20569de638bf2dc6
 上海点掌财经,https://vd3.bdstatic.com/mda-qa4hx55bq5sse2eu/sc/cae_h264/1704523210910555327/mda-qa4hx55bq5sse2eu.mp4
+上海点掌财经,http://z.b.bkpcp.top/m.php?id=shys
+上海点掌财经,http://gat.bkpcp.top/ymg.php?id=shys
 上海金山电视台,https://vd3.bdstatic.com/mda-qa4hx55bq5sse2eu/sc/cae_h264/1704523210910555327/mda-qa4hx55bq5sse2eu.mp4
+上海金山电视台,http://z.b.bkpcp.top/m.php?id=shys
+上海金山电视台,http://gat.bkpcp.top/ymg.php?id=shys
 东方影视,https://vd3.bdstatic.com/mda-qa4hx55bq5sse2eu/sc/cae_h264/1704523210910555327/mda-qa4hx55bq5sse2eu.mp4
+东方影视,http://z.b.bkpcp.top/m.php?id=shys
+东方影视,http://gat.bkpcp.top/ymg.php?id=shys
 东方财经,https://vd3.bdstatic.com/mda-qa4hx55bq5sse2eu/sc/cae_h264/1704523210910555327/mda-qa4hx55bq5sse2eu.mp4
+东方财经,http://z.b.bkpcp.top/m.php?id=shys
+东方财经,http://gat.bkpcp.top/ymg.php?id=shys
 全纪实,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226214/1/index.m3u8?fmt=ts2hls
 全纪实,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226221/1/index.m3u8?fmt=ts2hls
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
@@ -351,6 +371,7 @@ tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2
 大湾区卫视,http://mg.hmysapp.cn:177/卫视/大湾区卫视.php?id=301
 大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws
 大湾区卫视,https://live.chinacert.cftest5.cn/cnmg/live/608917627
+大湾区卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 广州综合,http://r.jdshipin.com/iR6Gq
 广州综合,http://r.jdshipin.com/snhya
 广州综合,https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1746292937&key=20079a0c421e334c8ff6f63f230b8038
@@ -489,6 +510,8 @@ tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2
 
 福建,#genre#
 福建卫视,http://mg.hmysapp.cn:177/卫视/福建卫视.php?id=301
+福建海峡卫视,http://r.jdshipin.com/WtYt3
+福建海峡卫视,http://goo.bkpcp.top/mg/hxws
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 厦门卫视,http://mg.hmysapp.cn:177/卫视/厦门卫视.php?id=301
 厦门卫视,http://120.220.76.91:2026/klm/klm1.php?id=厦门卫视
@@ -617,6 +640,7 @@ tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2
 河北卫视,http://120.220.76.91:2026/klm/klm1.php?id=河北卫视
 河北经济,https://www.nettvpro.xyz/hls/hebei.php?id=hbjj
 河北经济,http://tv.pull.hebtv.com:80/jishi/jingjishenghuo.m3u8?t=1893427200&k=ad907331c90d847d7e7ae51764d8a09a
+河北农民,https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd#http://hbfc.chinashadt.com:2036/live/1003.stream/playlist.m3u8#http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38
 河北都市,https://jwplay.hebyun.com.cn/live/hbdstv/1500k/tzwj_video.m3u8#http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=4380da13735a230c080ce8ff404033af
 河北影视,https://jwplay.hebyun.com.cn:443/zb/hbystv/1500k/tzwj_video.m3u8
 河北影视,https://jwplay.hebyun.com.cn/zb/hbystv/1500k/tzwj_video.m3u8
@@ -680,6 +704,7 @@ tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2
 重庆,#genre#
 重庆卫视,http://mg.hmysapp.cn:177/卫视/重庆卫视.php?id=301
 重庆卫视,http://120.220.76.91:2026/klm/klm1.php?id=重庆卫视
+万州综合,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8?zzhongqd
 
 四川,#genre#
 四川卫视,http://mg.hmysapp.cn:177/卫视/四川卫视.php?id=301
@@ -948,6 +973,7 @@ tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2
 CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN,https://jmp2.uk/stvp-GBBD8000016N
+CNN,https://iptv.852851.xyz/ch/19339c44cc585203a5eae14518e3e30a/master.m3u8
 BBC,https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -1019,6 +1045,7 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 草蜢乐队《2005我们的演唱会 修复完整版》,https://vd4.bdstatic.com/mda-pab49n7eagcjyh3a/576p/h264/1673493039443053267/mda-pab49n7eagcjyh3a.mp4
 宝丽金《成立20周年 1990群星演唱会完整版》,https://vd3.bdstatic.com/mda-pbp4sapcn5kmpxhg/hd/cae_h264/1677214872094217006/mda-pbp4sapcn5kmpxhg.mp4
 ⬇️欣赏粤韵音乐⬇️,https://suo.yt/R6oJbv0
+音乐库抖直播,https://live.douyin.com/933732405880
 
 🏥急救技能,#genre#
 
@@ -1051,4 +1078,4 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 广场舞43,https://vd3.bdstatic.com/mda-nd9gfk9i5gjjc949/cae_h264_delogo/1649590943331366674/mda-nd9gfk9i5gjjc949.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650257611-0-0-7052678f09559f6ca353cbd52bef7c6b&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1411194650&vid=11826523506628151737&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=791&split=73128
 
 🕘️更新时间,#genre#
-2026-05-29 22:51:05,https://0472.org/hls/cgtnd.m3u8?3.24.120:5140
+2026-05-29 23:58:36,https://0472.org/hls/cgtnd.m3u8?3.24.120:5140
