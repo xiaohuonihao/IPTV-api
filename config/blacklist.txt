@@ -20,7 +20,7 @@ https://smart.dxjc.pp.ua/smart.php
 107.150.60.122/live
 74.91.26.218:82/live
 iptv.catvod.com
-stream1.freetv.fun
+stream1.freetv.fun/shan-dong
 satellitepull.cnr.cn
 ls.qingting.fm
 
@@ -29,7 +29,7 @@ cctvtxyh5c.liveplay.myqcloud.com
 cdn.132.us.kg
 
 
-
+ls.qingting.fm
 php.jdshipin.com
 tv.mytvsuper.xyz
 v2h.jdshipin.com
