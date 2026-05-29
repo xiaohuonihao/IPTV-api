@@ -2,13 +2,12 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-# https://18592.kstore.space/TVBox/gangaotai.txt
+# https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt
+# https://cnb.cool/fgvss/zbds/-/git/raw/main/zbtvupan.txt
 https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/IPTV-api/refs/heads/master/output/love.txt
-https://18592.kstore.space/TVBox/gangaotai.txt
 https://18592.kstore.space/%E6%B5%8B%E8%AF%95/01.json
 https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/iptvzb/refs/heads/main/zubo.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/vbd/refs/heads/main/gatw0417.txt
-https://raw.githubusercontent.com/tianze889/vbd/refs/heads/main/zbdsj0515.txt
 https://bitbucket.org/guot55/bhmb/raw/66cbebc3b012fd4f86a607ccc78428ef3fd776a9/TVBoxOSC/ysp.txt
 https://ghfast.top/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/refs/heads/main/my.txt
 https://gh-proxy.org/https://raw.githubusercontent.com/cs3306/IPTV-Sources/refs/heads/main/data/output/iptv_collection.m3u
@@ -22,8 +21,10 @@ http://rihou.cc:555/gggg.nzk
 http://rihou.cc:567/gggg.nzk
 https://live.zbds.top/tv/iptv4.txt
 https://sub.ottiptv.cc/yylunbo.m3u
-# https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt
-# https://cnb.cool/fgvss/zbds/-/git/raw/main/zbtvupan.txt
+
+# https://18592.kstore.space/TVBox/gangaotai.txt
+# https://18592.kstore.space/TVBox/gangaotai.txt
+# https://raw.githubusercontent.com/tianze889/vbd/refs/heads/main/zbdsj0515.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
