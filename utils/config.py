@@ -161,28 +161,27 @@ class ConfigManager:
     def open_m3u_result(self):
         return self.config.getboolean("Settings", "open_m3u_result", fallback=True)
 
-    @property
+        @property
     def open_subscribe(self):
         return self.config.getboolean("Settings", f"open_subscribe", fallback=True)
-# 将这行 (新版本):
-  @property
-def open_method(self):
-    return {
-        "epg": self.open_epg,
-        "local": self.open_local,
-        "subscribe": self.open_subscribe,
-        "hotel": self.open_hotel,
-        "multicast": self.open_multicast,
-        "hotel_fofa": self.open_hotel and self.open_hotel_fofa,
-        "hotel_foodie": self.open_hotel and self.open_hotel_foodie,
-        "multicast_fofa": self.open_multicast and self.open_multicast_fofa,
-        "multicast_foodie": self.open_multicast and self.open_multicast_foodie,
-    }
+
+    @property
+    def open_method(self):
+        return {
+            "epg": self.open_epg,
+            "local": self.open_local,
+            "subscribe": self.open_subscribe,
+            "hotel": self.open_hotel,
+            "multicast": self.open_multicast,
+            "hotel_fofa": self.open_hotel and self.open_hotel_fofa,
+            "hotel_foodie": self.open_hotel and self.open_hotel_foodie,
+            "multicast_fofa": self.open_multicast and self.open_multicast_fofa,
+            "multicast_foodie": self.open_multicast and self.open_multicast_foodie,
+        }
 
     @property
     def open_history(self):
         return self.config.getboolean("Settings", "open_history", fallback=True)
-
     @property
     def open_speed_test(self):
         return self.config.getboolean("Settings", "open_speed_test", fallback=True)
