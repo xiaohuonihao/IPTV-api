@@ -164,7 +164,7 @@ class ConfigManager:
     @property
     def open_subscribe(self):
         return self.config.getboolean("Settings", f"open_subscribe", fallback=True)
-
+# 将这行 (新版本):
   @property
 def open_method(self):
     return {
