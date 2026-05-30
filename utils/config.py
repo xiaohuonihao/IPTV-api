@@ -237,12 +237,44 @@ class ConfigManager:
         return self.config.getboolean("Settings", "open_update_time", fallback=True)
 
     @property
+    def multicast_region_list(self):
+        return [
+            region.strip()
+            for region in self.config.get(
+                "Settings", "multicast_region_list", fallback="全部"
+            ).split(",")
+            if region.strip()
+        ]
+
+    @property
+    def hotel_region_list(self):
+        return [
+            region.strip()
+            for region in self.config.get(
+                "Settings", "hotel_region_list", fallback="全部"
+            ).split(",")
+            if region.strip()
+        ]
+
+    @property
     def request_timeout(self):
         return self.config.getint("Settings", "request_timeout", fallback=10)
 
     @property
     def speed_test_timeout(self):
         return self.config.getint("Settings", "speed_test_timeout", fallback=10)
+
+    @property
+    def hotel_page_num(self):
+        return self.config.getint("Settings", "hotel_page_num", fallback=1)
+
+    @property
+    def multicast_page_num(self):
+        return self.config.getint("Settings", "multicast_page_num", fallback=1)
+
+    @property
+    def online_search_page_num(self):
+        return config.getint("Settings", "online_search_page_num", fallback=1)
 
     @property
     def open_empty_category(self):
