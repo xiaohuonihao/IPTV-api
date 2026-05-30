@@ -171,6 +171,12 @@ class ConfigManager:
             "epg": self.open_epg,
             "local": self.open_local,
             "subscribe": self.open_subscribe,
+            "hotel": self.open_hotel,
+            "multicast": self.open_multicast,
+            "hotel_fofa": self.open_hotel and self.open_hotel_fofa,
+            "hotel_foodie": self.open_hotel and self.open_hotel_foodie,
+            "multicast_fofa": self.open_multicast and self.open_multicast_fofa,
+            "multicast_foodie": self.open_multicast and self.open_multicast_foodie,
         }
 
     @property
