@@ -337,6 +337,7 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-4.ctv
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-6.ctv
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-9.ctv
+浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 卡酷少儿,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 卡酷少儿,http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010081/1.m3u8
 哈哈炫动,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226931/1.m3u8
@@ -968,14 +969,21 @@ Animax,https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv
 浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-10.m3u8
 浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-2.m3u8
 浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-5.m3u8
+浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
+浙江民生休闲,http://ali-xwl.cztv.com/live/channel06720Plxw.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-5.m3u8
+浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
+浙江新闻,http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-4.m3u8
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-4.ctv
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-6.ctv
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-9.ctv
+浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-7.m3u8
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-10.m3u8
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-3.ctv
+浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
+浙江国际,http://ali-xwl.cztv.com/live/channel10720Plxw.m3u8
 浙江经视,https://live.chinacert.cftest5.cn/zgst/live/zhejiang
 浙江经视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225731/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 浙江经视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226690/1.m3u8
@@ -2008,4 +2016,4 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 广场舞43,https://vd3.bdstatic.com/mda-nd9gfk9i5gjjc949/cae_h264_delogo/1649590943331366674/mda-nd9gfk9i5gjjc949.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650257611-0-0-7052678f09559f6ca353cbd52bef7c6b&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1411194650&vid=11826523506628151737&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=791&split=73128
 
 🕘️更新时间,#genre#
-2026-05-30 19:53:21,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-05-31 00:41:19,https://live.chinacert.cftest5.cn/cnmg/live/608807420
