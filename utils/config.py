@@ -110,15 +110,30 @@ class ConfigManager:
         ]
 
     @property
+    def hotel_num(self):
+        return self.config.getint("Settings", "hotel_num", fallback=10)
+
+    @property
+    def multicast_num(self):
+        return self.config.getint("Settings", "multicast_num", fallback=10)
+
+    @property
     def subscribe_num(self):
         return self.config.getint("Settings", "subscribe_num", fallback=10)
+
+    @property
+    def online_search_num(self):
+        return self.config.getint("Settings", "online_search_num", fallback=10)
 
     @property
     def source_limits(self):
         return {
             "all": self.urls_limit,
             "local": self.local_num,
+            "hotel": self.hotel_num,
+            "multicast": self.multicast_num,
             "subscribe": self.subscribe_num,
+            "online_search": self.online_search_num,
         }
 
     @property
@@ -164,6 +179,36 @@ class ConfigManager:
     @property
     def open_subscribe(self):
         return self.config.getboolean("Settings", f"open_subscribe", fallback=True)
+
+    @property
+    def open_hotel(self):
+        return self.config.getboolean("Settings", f"open_hotel", fallback=True)
+
+    @property
+    def open_hotel_fofa(self):
+        return self.config.getboolean("Settings", f"open_hotel_fofa", fallback=True)
+
+    @property
+    def open_hotel_foodie(self):
+        return self.config.getboolean("Settings", f"open_hotel_foodie", fallback=True)
+
+    @property
+    def open_multicast(self):
+        return self.config.getboolean("Settings", f"open_multicast", fallback=True)
+
+    @property
+    def open_multicast_fofa(self):
+        return self.config.getboolean("Settings", f"open_multicast_fofa", fallback=True)
+
+    @property
+    def open_multicast_foodie(self):
+        return self.config.getboolean(
+            "Settings", f"open_multicast_foodie", fallback=True
+        )
+
+    @property
+    def open_online_search(self):
+        return self.config.getboolean("Settings", f"open_online_search", fallback=True)
 
     @property
     def open_method(self):
